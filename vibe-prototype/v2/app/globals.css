@@ -1,0 +1,79 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* SAP 72 font approximation — fallback to system fonts */
+:root {
+  --sapFontFamily: '72', '72full', Arial, Helvetica, sans-serif;
+  --sapFontSize: 14px;
+  --sapFontSmallSize: 12px;
+  /* Primary */
+  --sap-blue: #0064d9;
+  --sap-blue-hover: #0070F2;
+  --sap-blue-active: #0054b9;
+  --sap-blue-dark: #002a86;
+  /* Text */
+  --sap-text-primary: #131e29;
+  --sap-text-secondary: #1d2d3e;
+  --sap-text-tertiary: #556b82;
+  /* Surfaces */
+  --sap-surface: #ffffff;
+  --sap-surface-alt: #f5f5f5;
+  --sap-surface-hover: #eff1f2;
+  --sap-surface-active: #dbeafe;
+  --sap-surface-selected: #EDF6FF;
+  /* Borders */
+  --sap-border: #e5e7eb;
+  --sap-border-medium: #d9d9d9;
+  --sap-border-separator: rgba(85,107,129,0.25);
+  /* Shadows — NGM standard */
+  --sap-shadow-panel: 0 0 2px rgba(34,54,73,0.2), 0 2px 4px rgba(34,54,73,0.2);
+  --sap-shadow-topbar: 0 2px 4px rgba(34,54,73,0.08);
+  --sap-shadow-elevated: 0 2px 12px rgba(29,45,62,0.16), 0 0 1px rgba(29,45,62,0.12);
+  /* Semantic */
+  --sap-error: #aa0808;
+  --sap-success: #188918;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html, body {
+  font-family: var(--sapFontFamily);
+  font-size: var(--sapFontSize);
+  color: var(--sap-text-primary);
+  background: var(--sap-surface-alt);
+  height: 100vh;
+  overflow: hidden;
+}
+
+::-webkit-scrollbar { width: 12px; background: transparent; }
+::-webkit-scrollbar-thumb { background: transparent; border: 2px solid #fff; border-radius: 12px; }
+*:hover::-webkit-scrollbar-thumb { background: #7b91a8; }
+
+/* Animations */
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+@keyframes slideInRight { from { transform: translateX(100%); } to { transform: translateX(0); } }
+@keyframes slideInLeft { from { transform: translateX(-20px); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
+@keyframes lockPulse { 0%, 100% { opacity: 0.85; } 50% { opacity: 0.5; } }
+@keyframes toastIn { from { transform: translateY(12px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+@keyframes saving { 0%, 100% { opacity: 1; } 50% { opacity: 0.4; } }
+
+.fade-in { animation: fadeIn 0.25s ease-out; }
+.slide-in-right { animation: slideInRight 0.25s cubic-bezier(0.4, 0, 0.2, 1); }
+.slide-in-left { animation: slideInLeft 0.2s ease-out; }
+.lock-pulse { animation: lockPulse 1.5s ease-in-out infinite; }
+.toast-in { animation: toastIn 0.25s ease-out; }
+.saving-anim { animation: saving 1.2s ease-in-out infinite; }
+
+.remote-cursor { transition: transform 0.15s linear; }
+
+/* BPMN element interactions */
+.bpmn-el { cursor: move; }
+.bpmn-el:hover { filter: brightness(0.98); }
+
+/* Canvas */
+.canvas-grab { cursor: grab; }
+.canvas-grab:active { cursor: grabbing; }
+
+/* Toolbar disabled state (viewer mode) */
+.toolbar-disabled { opacity: 0.4; pointer-events: none; user-select: none; }

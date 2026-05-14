@@ -1,0 +1,139 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+  --sap-font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --sap-blue: #0070f2;
+  --sap-blue-hover: #0064d9;
+  --sap-text: #1d2d3e;
+  --sap-label: #556b82;
+  --sap-border: #d9d9d9;
+  --sap-surface: #ffffff;
+  --sap-surface-alt: #f5f6f7;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: var(--sap-font-family);
+  color: var(--sap-text);
+  background: var(--sap-surface-alt);
+  overflow: hidden;
+  height: 100%;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--sap-border);
+  border-radius: 3px;
+}
+
+/* Toast notification animation */
+@keyframes slideIn {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideOut {
+  from {
+    transform: translateX(0);
+    opacity: 1;
+  }
+  to {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+@keyframes lockPulse {
+  0%, 100% { opacity: 0.8; }
+  50% { opacity: 0.4; }
+}
+
+.toast-enter {
+  animation: slideIn 0.3s ease-out;
+}
+
+.fade-in {
+  animation: fadeIn 0.3s ease-out;
+}
+
+.pulse {
+  animation: pulse 2s ease-in-out infinite;
+}
+
+.lock-pulse {
+  animation: lockPulse 1.5s ease-in-out infinite;
+}
+
+/* Cursor transition for smooth remote cursor movement */
+.remote-cursor {
+  transition: transform 0.15s linear;
+}
+
+/* Canvas grab cursor */
+.canvas-grab {
+  cursor: grab;
+}
+.canvas-grab:active {
+  cursor: grabbing;
+}
+
+/* BPMN element hover */
+.bpmn-element {
+  cursor: pointer;
+  transition: filter 0.15s ease;
+}
+.bpmn-element:hover {
+  filter: brightness(0.97);
+}
+
+/* Panel slide animation */
+@keyframes panelSlideIn {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+.panel-slide-in {
+  animation: panelSlideIn 0.25s ease-out;
+}
+
+/* Disabled toolbar in viewer mode */
+.toolbar-disabled {
+  opacity: 0.4;
+  pointer-events: none;
+  user-select: none;
+}
