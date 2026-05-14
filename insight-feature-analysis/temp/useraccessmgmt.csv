@@ -1,0 +1,491 @@
+﻿Offboarding Reassignment Detail Report,"Request Overview:
+In the current SAP Signavio Process Governance system, the offboarding functionality provides only a summary of the number of processes or tasks needing reassignment when a user is offboarded. There is a need to enhance the display to show which specific processes and tasks are involved in the transfer, along with comprehensive metadata such as process/task name, status, owner, and due date.
+
+Use Case:
+When an employee or process owner exits the organisation or assumes a new position, it is crucial to ensure that all ongoing responsibilities are effectively transferred. Administrators or reviewers overseeing the offboarding process need clarity on which items require reassignment to prevent disruptions. This level of transparency is essential for audit purposes, prioritization, and maintaining business continuity.
+
+Challenges:
+Currently, administrators are only provided with a count of processes/tasks, complicating an understanding of the scope and urgency of handovers.
+The lack of clarity regarding the nature and status of tasks/processes poses a risk of neglecting or incorrectly assigning critical work items.
+Insufficient details hinder compliance, audit tracking, and result in inefficiencies during handover discussions and planning.
+
+
+
+Advantages:
+Enhanced clarity: Administrators and newly assigned owners receive a comprehensive, actionable list of pending items, enabling effective review and prioritisation.
+Risk reduction: Guarantees that no high-priority or time-sensitive tasks are overlooked during the transition.
+Improved efficiency: Optimizes the handover process, minimizing the need for additional follow-up and reducing post-offboarding complications.
+Enhanced audit trails: Provides a documented record of what was reallocated, supporting compliance and review after handover.
+Better user experience: Provides stakeholders with assurance that the offboarding process is thorough, reducing confusion and challenges.
+
+
+",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo5NWZhYWRhNy0zOWU1LTQzOTYtYjYwYy1lNjE2YTAzYjRjNjg=
+Enhanced user management panel with custom customer data,"Hi Team,
+Seagate is interested in having a user's GID (already submitted in the system) be listed next to each user's name in their monthly report.  The GID is a unique company identifier for each employee.  If we could provide this in their report, it would be a great help to Seagate to better manage their users.  This does not need to be added to their next report (October).
+Seagate is also interested in what other information could be provided in these reports (i.e. what models they have engaged with).
+I would simply like to better understand the information we can provide to properly set the client's expectations.
+Thank you in advance!
+Kevin",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo1NzU1Zjk3My0zZGM1LTQ2NjEtYjY1OS05NDAxZTBjNTU2MjU=
+Offboarding Item Insight Panel,"Hi Team,
+
+
+Bosch BBM as a large customer with many employees wants a better overview when replacing users in PG.
+
+
+Initial situation: 
+In PG, an administrator does not necessarily have access to all information such as processes, tasks or reports. In many cases, however, they do, because the content is either visible to everyone or the administrators have been proactively given access to the content.
+
+
+If a user is deleted or his WF license is revoked, he will appear in the offboarding list for the PG admins if he has open items. Bosch would like to not only read the number of workflows, tasks or reports, but also be able to open them or at least see the names in order to distribute individual items to different users and to understand what is behind them.
+
+
+Personal note: This wish collides with the current concept of permission management (admin can't see everything per se). Therefore, I can imagine as an extension also a named list of items, where only some of them can be opened and others may be shown as missing access rights.
+",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpiMTQ4MWZmOC1lMGQxLTQwMzAtOThhOS05ZTRiMTcyM2NiNzQ=
+User Offboarding with User Group Visibility,"osch BBM as a large customer with many employees wants a better overview when replacing users in PG.
+
+
+Initial situation: 
+In the context of user offboarding in PG, a large number of users regularly appear for whom there seems to be no reason for a replacement. See screenshot. According to support, the reason seems to be that these users are still assigned to user groups in PG and have to be replaced there. However, the information of the user group is not recognizable from the offboarding. Especially for enterprise customers like Bosch, this is not a good way to handle an offboarding. In addition, this approach is not consistent with the Process Manager, where a user is also dropped from the user group after deletion.
+
+
+Possible solutions:
+Users are automatically removed from user groups after deletion with the risk that a user group runs empty (analog PM). The user does not appear in the offboarding.
+In the offboarding, the membership in the corresponding user groups is displayed, so that a real decision can be made.
+General revision in the context of the reorganization of the user management in 2023, since many customers wish to manage the groups not only in the Process Manager, but also in the Process Governance centrally (e.g. via an AD).
+",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo1N2ZhYzkyMS0yMmU2LTRhZDctOWNmMi00ZmZlMGIxOGE4MTI=
+Offboarding replacement note for easier task replacement,"Initial situation:
+In PG, an administrator does not necessarily have access to all information such as processes, tasks or reports. In many cases, however, they do, because the content is either visible to everyone or the administrators have been proactively given access to the content.
+If a user is deleted or his WF license is revoked, he will appear in the offboarding list for the PG admins if he has open items. Bosch would like to not only read the number of workflows, tasks or reports, but also be able to open them or at least see the names in order to distribute individual items to different users and to understand what is behind them.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTowZjA0MGViMC1kMWVkLTQyMjEtODg0Zi1hM2FjZGEyMWYxZGU=
+Offboarding replacement note for easier task replacement,"The customer wishes, to have an information field during offboarding in SPM user management, which will be shown in the replacement list in SPG. Customer is using central user management.
+Use case:
+The administrator of Process Governance doesn't know to whom to assign the tasks and processes, which have been previously assigned to a removed user. I would be helpful, if during removal, could they add an information during a removal, who is the replacement of the user or at least the manager.
+This information needed to be transferred between the applications.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTowZjA0MGViMC1kMWVkLTQyMjEtODg0Zi1hM2FjZGEyMWYxZGU=
+User Group Replacement Information in Offboarding List,"If a user has been removed and has no processes nor tasks to do, still can stand on the offboarding list. It would be helpful, if there would be an information for which user groups the user needs to be replaced. This information could be stored in an additional column.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo1OTVmZDQyMC03ZTE4LTQxNDgtOThjZC1hYmNkM2I4YmU5NjA=
+Bulk User Deletion,"We require a feature that allows administrators to delete multiple user accounts in one action. This will streamline the user management process, especially for companies or organizations with a large number of user accounts.
+
+
+
+
+
+
+Use Case
+Scenario:
+An administrator in a large corporation needs to delete 50 user accounts that are no longer in use due to employees leaving the company.
+Steps:
+The admin logs into the user management dashboard.
+The admin navigates to the user list.
+The admin selects multiple users that need to be deleted.
+The admin confirms the action to delete the selected users in bulk.
+The system processes the deletion and provides feedback on the success or failure of the operation.
+
+
+
+
+
+Pain Points
+Time Consuming: Deleting users one by one is extremely time-consuming, especially when the number of users to be deleted is large.
+Human Error: Manually deleting users increases the risk of human error, such as accidentally deleting the wrong user account.
+Inefficiency: The current process is inefficient and does not scale well with the needs of growing organizations.
+
+
+
+
+
+Benefits
+Time Saving: Bulk deletion will significantly reduce the time required for user account management.
+Error Reduction: Minimizes the risk of human error by allowing a single, controlled action for deleting multiple users.
+Efficiency: Streamlines the user management process, making it more efficient and scalable.
+Improved User Experience: Enhances the overall user experience for administrators, reducing frustration and improving productivity.
+Resource Optimization: Frees up system resources by quickly removing inactive user accounts, improving system performance.
+",https://signavio.productboard.com/detail/MTpQbUVudGl0eTphNWQ1MGFkYi1mOWYzLTRiNzAtODRhYS0yNTZhMDRhNzkwODI=
+Off boarding time customization,"Request Details
+Currently, SAP Signavio Process Governance implements user information (GDPR) deletion on a fixed time frame after a user is deleted, which cannot be customized by customers. This feature request is to introduce an option that allows administrators to define and configure the retention period for user data deletion—similarly to the existing flexibility in SAP Signavio Process Manager.
+
+
+
+
+Use Case
+Organizations using SAP Signavio Process Governance may operate in different jurisdictions or have internal policies that dictate specific retention periods for user data, post-deletion. For instance, some EU-based companies are required to retain or delete user data immediately after offboarding, while others must keep the data for a defined period to comply with audit requirements. The ability to customize this time frame ensures that companies can align with both legal requirements and internal data policies across different regions.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo0YjU3MGRhNy1jN2VmLTQ3OTAtODdiNS01YjYyYjM2MjVhNTU=
+Restrict Process Creation - Group Management,"I am aware that there is an option ""Process Governance-->Organization Settings-->Workspace-->Restrict process creation"" but i cannot define such a group and would like to have this option for individual users.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpkN2UyZjRlMS1iZTljLTQxYTUtYTk2My1jNmJiNzcyZTE3OWM=
+Restrict Process Creation - Group Management,"It's very unfortunate that Signavio doesn't let many groups to be added to this group. Only one group could be added to this ""Restrict process creation"" list.
+My idea was to create separate groups Org/Dept/group wise and add them to this list. With this I can segregate different org units and distribute/maintain the licenses accordingly. Is there any better way to do this as an alternate to put all the users together in one group and add that to the restriction list.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpkN2UyZjRlMS1iZTljLTQxYTUtYTk2My1jNmJiNzcyZTE3OWM=
+Detailed Offboarding Handover Overview,"Currently, the offboarding functionality in SAP Signavio Process Governance displays only the number of processes or tasks that will be handed over during user offboarding. However, it does not provide visibility into which specific processes or tasks are affected. We request an enhancement whereby, during offboarding, the system provides a detailed overview of all the exact processes and tasks that will be transferred, including relevant metadata (e.g., process/task name, status, owner, due date).
+Use Case:
+When an employee or process owner leaves the organization or transitions to a new role, it's vital to ensure that all their ongoing responsibilities are properly handed over. Reviewers or administrators managing offboarding need a clear view of which specific items require reassignment to avoid disruption. This transparency helps in auditability, prioritization, and assurance of business continuity.
+Pain Points:
+Administrators currently see only a total count of processes/tasks, making it difficult to gauge the scope and criticality of handovers.
+Uncertainty about the nature and status of tasks/processes increases the risk of missing or misassigning critical work items.
+Lack of detail complicates compliance and audit tracking and causes inefficiencies in handover discussions and planning.
+Benefits:
+Improved Transparency: Administrators and new owners have a comprehensive, actionable list of outstanding items to review and prioritize.
+Risk Mitigation: Ensures no high-priority or time-sensitive tasks are missed during the handover.
+Efficiency: Streamlines the handover process, reducing administrative follow-up and post-offboarding troubleshooting.
+Auditability: Offers a clear log of what was transitioned, aiding compliance and post-handover reviews.
+User Experience: Provides confidence to stakeholders that the offboarding process is thorough, reducing hassle and confusion.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpiMjM0Mjk2MS05Y2Y4LTQzMzUtYWM1My03YWI4ZTZlMjk3MTY=
+Unified User Management,"They want extended restrictions for cases in process governance for the external (service providers) which actually create cases in workflow. They want only those responsible in the process to have access to the cases. The situation right now is that the users can see all cases and not only those in which they are responsible.
+They kind of want to set access dynamically (by variable e.g.), for example if an external user has full access to a case and this user leaves the company and another user is responsible, he should also inherit full access rights for the case.
+More information is to be found in ticket:
+https://jira.signavio.com/browse/SCS-58957",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo5MGU1ZWRiNi0yOWJkLTRkMDktOGY1Yi05OWZhZjczMWY5ZDg=
+Unified User Management,"Currently, when exporting all users in Workflow, it includes User ID / Full Name / Email Address / Admin .
+Seagate uses Groups in WF as well, and would like to include this detail in the export.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo5MGU1ZWRiNi0yOWJkLTRkMDktOGY1Yi05OWZhZjczMWY5ZDg=
+Unified User Management,"There was one issue where we get the feedback from users where it seems annoying for them while switch from explorer to governance even they are already single sign on Signavio explorer. Issue is explained as below.
+ 
+Screen 1:User click on “open workflows in SAP Signavio Process governance” which takes the user to additional screen 2. ",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo5MGU1ZWRiNi0yOWJkLTRkMDktOGY1Yi05OWZhZjczMWY5ZDg=
+Unified User Management,Making everyone at NAB a user is not manageable; SPM auto-provisioning is enabled,https://signavio.productboard.com/detail/MTpQbUVudGl0eTo5MGU1ZWRiNi0yOWJkLTRkMDktOGY1Yi05OWZhZjczMWY5ZDg=
+Unified User Management,"the possibility of using the ""user"" field is not available and this is extremely limiting""
+
+Workflow Accelerator - option to bulk create user groups and create default groups to make group management more easy
+Please see the customers feedback:
+""It would be great, if somehow I can, as you already described have all employees integrated into the workflow to manage the rights of the workflow in a more detailed approach (reading rights etc.) and open up different tasks for example to all the company and have others for separate groups. As we have nearly 3000 people a manual approach is extremely cumbersome. Parallel, it would be good to have one Group per default.
+Next step would then be to have some way of creating user groups in bulk mode - for example, based on level or function etc.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo5MGU1ZWRiNi0yOWJkLTRkMDktOGY1Yi05OWZhZjczMWY5ZDg=
+Unified User Management,For better and easier user management Daimler would like to have a self-service for access to SWA and necessary workflows,https://signavio.productboard.com/detail/MTpQbUVudGl0eTo5MGU1ZWRiNi0yOWJkLTRkMDktOGY1Yi05OWZhZjczMWY5ZDg=
+Unified User Management,Mr. Schoeche of BOSCH is asking for a possibility to unassign Workflow Accelerator licenses in the central user management on their own. Right now they only have the possibilities to delete a user completely to unassign a Workflow Accelerator license or to contact the Signavio support for a manual removal of the license.,https://signavio.productboard.com/detail/MTpQbUVudGl0eTo5MGU1ZWRiNi0yOWJkLTRkMDktOGY1Yi05OWZhZjczMWY5ZDg=
+Unified User Management,"Newly created workflows are currently per default visible to the whole workspace user group. Especially if creators might forget about setting access rights this can cause security issues for the customer. Therefore Daimler would like to have the default setting that workflows are not visible to all and only become visible to other groups by assigning necessary rights. To guarantee that the workspace owner can see all workflows in the workspace, the tenant owner and eventually admins should have special rights to see all.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo5MGU1ZWRiNi0yOWJkLTRkMDktOGY1Yi05OWZhZjczMWY5ZDg=
+Unified User Management,checking if a certain user is already available in SWA,https://signavio.productboard.com/detail/MTpQbUVudGl0eTo5MGU1ZWRiNi0yOWJkLTRkMDktOGY1Yi05OWZhZjczMWY5ZDg=
+Unified User Management,"KPMG would like to have the option to give not only view rights but also edit right for the analytics report in the Process Governance tool. Different user groups will need very similar reports, with just some slight differences. It would mean less work if at least certain fields would be adjustable by other users or groups",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo5MGU1ZWRiNi0yOWJkLTRkMDktOGY1Yi05OWZhZjczMWY5ZDg=
+Unified User Management,"The problem is that the admin group is not automatically entered for all workflows.
+This is a fundamental difficulty in the Governance Workflow module.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo5MGU1ZWRiNi0yOWJkLTRkMDktOGY1Yi05OWZhZjczMWY5ZDg=
+Unified User Management,"We are already using the proposed procedure as a ""workaround"".
+However, I find this procedure very unattractive and not particularly practicable. There are different license models for both modules, so I don't think automatic synchronization makes sense. The user groups in our company are extremely different, so that we have to manually delete most new SPM users in SWA. In addition, we already synchronize the users in SWA with AD.
+Therefore, it was my wish to be able to deactivate an automatic synchronization via the configuration.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo5MGU1ZWRiNi0yOWJkLTRkMDktOGY1Yi05OWZhZjczMWY5ZDg=
+Unified User Management,"The customer would like to be able to take away users only their workflow license (new user management/ velocity) without deleting them, as they still should keep their Enterprise/ hub license",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo5MGU1ZWRiNi0yOWJkLTRkMDktOGY1Yi05OWZhZjczMWY5ZDg=
+Unified User Management,"Bosch has the idea to manage the administrator role in the Signavio Workflow Accelerator per process. They need to give the option for the user to model just a specific process, not for the whole workspace.
+Furthermore, the change to the admin role in the SWA shall be managed in the IDM for user with a Signavio Workflow Accelerator license.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo5MGU1ZWRiNi0yOWJkLTRkMDktOGY1Yi05OWZhZjczMWY5ZDg=
+Unified User Management,New User Management: It should be possible to take away the workflow license from users in the new user management without deleting them totally,https://signavio.productboard.com/detail/MTpQbUVudGl0eTo5MGU1ZWRiNi0yOWJkLTRkMDktOGY1Yi05OWZhZjczMWY5ZDg=
+Unified User Management,"for the feature ""Export all users"" can you add the Licence type? This would be beneficial.Also a filter / sorting option would be great.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo5MGU1ZWRiNi0yOWJkLTRkMDktOGY1Yi05OWZhZjczMWY5ZDg=
+Unified User Management,I would like the ability to change the labels and access control on a workflow wihtout having to republish the workflow.,https://signavio.productboard.com/detail/MTpQbUVudGl0eTo5MGU1ZWRiNi0yOWJkLTRkMDktOGY1Yi05OWZhZjczMWY5ZDg=
+Unified User Management,Add the user groups on the organizational settings report,https://signavio.productboard.com/detail/MTpQbUVudGl0eTo5MGU1ZWRiNi0yOWJkLTRkMDktOGY1Yi05OWZhZjczMWY5ZDg=
+Unified User Management,"Case Creator couldn't find cases he created because there is no case-sensitive access rights management.
+In this process the creator is an internal user, but doesn't have any further tasks in the process. it's a purchase order request workflow and we can't configure the entire org to have access to all cases.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo5MGU1ZWRiNi0yOWJkLTRkMDktOGY1Yi05OWZhZjczMWY5ZDg=
+Unified User Management,"Hello,csutomer question towards User Replacement : Is there a fast & easy way to see (maybe in analytics or similar) what open tasks a user that needs to be replaced has?",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo5MGU1ZWRiNi0yOWJkLTRkMDktOGY1Yi05OWZhZjczMWY5ZDg=
+User replacement support,"Administrator has no idea who should take over tasks, and other responsibilities
+replacing users randomly is questionable from the data protection perspective",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo2ODc3Nzk5MC1kMTViLTRmYjQtYjAxNi1kZTE4Y2YxYzFiMmY=
+User replacement support,"Customers are complaining that they don’t know, what tasks, and groups a deleted user belonged. I know, that we don’t store information about the tasks, but we do about the user groups.
+So would it be possible to implement a button in the “replacement” part for a user which would display the group names?",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo2ODc3Nzk5MC1kMTViLTRmYjQtYjAxNi1kZTE4Y2YxYzFiMmY=
+Account lifecycle management,"As a user, I want the ability to unlock my account by verifying my identity through a secondary authentication method so that I do not have to contact support every time my account gets locked due to multiple failed login attempts.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTozOWU5MjBjMC1jYzYxLTRkODQtYmIwMi0yMjlhZTQ2ODBhYjM=
+Account lifecycle management,"Request Details
+Currently, customer admins are required to create support cases to unlock user accounts, which often leads to delays and increased support volume. This feature will empower customer admins to manage user account lockouts more efficiently.
+
+Use Case
+When a user account within a customer's organization is locked due to multiple failed login attempts, the user is unable to access their account. The current process requires the customer's admin to open a support case to request an account unlock, which involves several steps and often results in wait times for both the customer and the support team.
+
+Pain Points
+For Customer Admins:
+• Dependency on Support: Admins have to rely on support engineers to unlock user accounts.
+• Response Time: Wait times for account unlocks can vary, leading to productivity loss for the affected user.
+• Case Volume: Increased support case volume and repeated requests for the same issue.
+
+For Support Engineers:
+• Workload: Processing account unlock requests adds to the existing workload.
+• Repetitive Tasks: Unlocking accounts is a repetitive task that could be automated.
+• Response Delays: Delays in unlocking accounts can lead to customer dissatisfaction.
+
+Benefits
+For Customer Admins:
+• Immediate Action: Admins can unlock accounts instantly without waiting for support.
+• Reduced Downtime: Faster resolution of account lockout issues minimizes user downtime.
+• Self-Service: Empowers admins with self-service capabilities, reducing dependency on external support.
+
+For Support Engineers:
+• Reduced Workload: Decreases the number of account unlock support cases.
+• Focus on Other Issues: Allows engineers to focus on more complex support issues.
+• Improved Efficiency: Streamlines the account management process, leading to better overall efficiency.
+
+By implementing this feature, both customers and the support team will experience significant improvements in responsiveness, efficiency, and overall satisfaction. Link to SNOW case (CS20250010092575): https://itsm.services.sap/now/cwf/agent/record/sn_customerservice_case/851450af938aae1094cbb9797bba10c3/sub/record/sn_customerservice_case/851450af938aae1094cbb9797bba10c3/params/selected-tab-index/0",https://signavio.productboard.com/detail/MTpQbUVudGl0eTozOWU5MjBjMC1jYzYxLTRkODQtYmIwMi0yMjlhZTQ2ODBhYjM=
+Optimization of tenants off-boarding process,FEATURE IN DEVELOPMENT. ADD insights here. ,https://signavio.productboard.com/detail/MTpQbUVudGl0eTpjODk2MTgwMy1lMTc0LTQzYWMtYjU0Yy1hZWNjODA4ODFjMjQ=
+New views and improved bulk actions for groups management​,"There are no insights here. SEarch which ones are suiting hereValue Proposition
+Manage large user groups in Signavio Process Governance without performance issues. The reworked group management delivers faster loading, smoother navigation, and stable performance even with thousands of members. Admins can easily add, remove, and review users without waiting for dropdowns to load or pages to freeze.
+
+
+Benefits
+Add or remove users instantly, even in groups with hundreds of members.
+Organization settings stay responsive, no matter group size.
+Prevent workflow interruptions caused by user access delays.
+Clear, efficient interface for admins handling complex setups.
+
+
+
+Capabilities
+Perform safe bulk actions with confirmation before applying changes.
+Assign or unassign multiple users or groups in one step.
+View complete user and group memberships with total counts.
+Search and navigate easily by user or group name.
+
+
+
+Customer problem:
+Admins struggle to manage large user groups in Signavio Process Governance. When a group has more than 100 members, the interface becomes slow or unresponsive. Adding or removing users takes too long, and sometimes the user list fails to load. This prevents timely access setup, delays workflows, and impacts business operations because users can’t work on assigned cases or approvals until they’re added to the right groups.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTozNzhiYWM4YS1lOGFjLTQxZGUtYWRiZC0yMTEzMDc4OGRjOTU=
+log in same tenant when switching from hub to SPG,"You always come from the hub into the environment where you were last. For example, customer was last in the process governance of the DKB service. That's where forwarding him again. In Process Governance, customer then moved to the DKB AG area and went out again. If the customer then goes in again, they come to the area of DKB AG.
+In the Process Manager environment, on the other hand, regardless of the last selection, they always get to the DKG AB area.""
+I can confirm the behavior in my tenant as well.
+
+Since customers have different tenants, this behaviour is not so optimal because you always have to look at which workflow governance tenant you are in and call the correct environment via a detour.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTphNGVmM2JjZS04NDY4LTQxMDItOTEyZi04Zjc1NGU3Yjc5MmI=
+Remove roles,"Avaya would like the ability to delete or remove a role after it has been created.
+Avaya created a few roles in a process that needed to be changed at the end of the process's creation. Avaya wants to remove the roles from the overview page, but cannot.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo2NGJmYTE0MC1mNzViLTRhNTctYTA0Yi0wMmM0ZWVmYzQ4MGE=
+Handover / user offboarding SPG,"Description: In the context of offboarding a user from SAP Signavio Process Governance, it is imperative to ensure that no integration disruptions occur. This feature aims to add a functionality check to ascertain if the user slated for offboarding is the designated integration user between the Process Governance and Process Manager (Service & Connector) for the organization. This will prevent inadvertent disruptions in service integrations and maintain process continuity.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo1MWNmOTlkNy1hNGFiLTQ1NTctOGNjYS1jZDJiNjg2MmZkMjM=
+Handover / user offboarding SPG,"There is uncertainty who should take over the tasks and processes of other people, who left the company
+There is a risk, that people will take over tasks, which are under data protection, and that it lands in the wrong hands",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo1MWNmOTlkNy1hNGFiLTQ1NTctOGNjYS1jZDJiNjg2MmZkMjM=
+Handover / user offboarding SPG,"Customer is having issues with having the responsible person always visible in the workflow even after parting ways of the company
+After assigning a new person, they want not only the assigned persona name to be updated but also the responsible user
+Use Case
+They want to have the responsible persons updated so that users know their responsibilities and no confusion arises.
+Pain Points (Please be detailed)
+The responsible person does not get updated in the workflow and stays as per the inital creation
+user gets bad revoews and confused colleagues due to this issue",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo1MWNmOTlkNy1hNGFiLTQ1NTctOGNjYS1jZDJiNjg2MmZkMjM=
+Handover / user offboarding SPG,"Request Details
+Describe the business situation, what challenge is the customer-facing?
+Customer wants to be able to nominate a substitute for a workflow if the original user is absent rather than fully replace the user.
+What is the customer requesting?
+That a workflow approver can have a delegate nominated incase they're absent
+Use Case
+What does the customer want the feature for? For example: Is it for a single user/administrator/all hub users?
+Workflow approvers
+How will it be used?
+So that replacements do not have to be manually added
+What is the impact? For example cost decrease/simple workflows/fewer clicks?
+Simple workflows
+Pain Points (Please be detailed)
+What is the problem? Please explain in reproducible steps.
+The customer currently adds workflow replacements manually
+Does this impact customer projects/ engagements?
+Yes due to delays of having to manually add a replacement
+Without the feature, what would the customer be facing?
+Potentially having to manually replace users on a large number of workflows if a colleague is out sick
+How is the customer dealing with the problem today? Is there a workaround?
+Currently they manually add replacements to workflows
+Benefits (Please justify the request)
+What should be the desired outcome?
+Each workflow approver can set a nominated delegate themselves in their profile
+How does this impact the user experience? Is it also beneficial for other users?
+Adds security for confidential workflows so that the responsibler user can maintain themselves a suitable delegate",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo1MWNmOTlkNy1hNGFiLTQ1NTctOGNjYS1jZDJiNjg2MmZkMjM=
+Implement Access Rights Assignment for Historical SPG Cases,"According to the customer the current access right concept, as descibed in the Online help https://help.sap.com/docs/signavio-process-governance/user-guide/access-control?locale=en-us, does not meet the customer requirements. Customer described the shortcomings and their impact in the below case scenario.
+Customer expects the option to allow assignment of access rights to historical SPG cases without having to change access rights configuration for a process and re-publish it. E.g. it should be possible to assign new groups with certain rights, assign users to it and they have access to all cases of a process and not only to the ones created from the day the group was assigned to the process and the process was re--punlished.
+Request Details
+During tax audits by the german tax authorities they regilarly ask for access to their system to verify certain circumstances and cases related to governance process instances as part of the audit to verify the adequacy of the system. They expect the auditors to request access to historical SPG cases. This customer has SPG processes without group assignements which have only read access rights, and the only group assigned has full access rights for two SPG administrators and thoses groups did not necessarily exist for all SPG processes from day one of production use of the respective SPG process. Therefore with the current access rights concept and creating a new groups now and assign read only access rights to processes, access to historical cases for the last 3 years are not possible for the auditors.
+Assignign auditors (albeit temporarily, to the existing group whihc already exists for processes, would give the auditors all access rights and is not acceptable as a workaround due to seciruty concerns.
+Use Case
+see above
+Pain Points (Please be detailed)
+described in acess details
+additionally as mentioned there the only workaround might be to create a 3rd level case and get engineering to chnage something on DB level to allow the request access for historical cases, which leads to delays and them potentially failing their audit due to lack of access
+Benefits (Please justify the request)
+Increased user accesptance as the access rights concept is in alignment with other software systems where once access is assigned to an object it allows access to all its intances created not only to the ones since change to access rights and the subsequent re-deploy of process .
+reduced support overhead for custoemr support and SAP Signavio Support including Engineering via 3rd level cases.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTplYmFjNGFmNi05ZGYxLTQ2OWYtYmIyMC0wY2Q2OTljNmNmNzM=
+Enhance Share Function to Align with Role-Based Permissions,"User Story:
+As a process owner I want to manage authorizations of my process (variant), so that users can only view and interact with the parts of the process relevant to their roles and authorizations.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo1M2I4ZDkxZC1iYmYyLTRkMTAtYmViOS05NzdmZjE5YzIwMTA=
+Enhance Share Function to Align with Role-Based Permissions,"Short overview:
+We use the ""share function"" to invite external or internal people.
+When starting to type a name in the field ""Invite people"" all users are visible that have access on the Workspace.
+This is critical for us due to data security reasons .
+We are working in one Workspace where multiple customers have their own project folder. Role + permission settings ensure that they see only the content they are allowed to see. With the share function they see now all users, that means also from other partners and customers.
+I would expect that a person who invites someone would only the users that have the permission to that folder or that specific area depending on the role + permissions concept. With this implementation we would be in alignment with our role + permission settings.
+Request Details 
+Show only person in “invite people” that have permission to a specific folder/area based on the role/permission concept (data security concept for customer projects)
+Use Case
+How will it be used? We are working in one Workspace where multiple customers have their own project folder. Role + permission settings ensure that they see only the content they are allowed to see. With the share function they see now all users
+on the whole Workspace, also from other partners and customers.
+What is the impact? The person who shares sees only permitted users in the “Invite people” field. This ensures data security, meaning that only users are visible that have the permission for the specific customer project folder.
+Pain Points (Please be detailed)
+What is the problem? The share function does not meet the data security + role/permission concept that has been set up for the Workspace. This ensures that each user sees only the content + other users for his/her specific project folder
+Does this impact customer projects/ engagements? Yes, since they see all users working on the Workspace.
+Without the feature, what would the customer be facing? His personal data would be visible for others that should not see them.
+How is the customer dealing with the problem today? We have used before the “invite anyone for feedback” functionality where you add only the e-mail address instead of referring users in the Workspace. With the new “share function” anyone can see anyone.
+Benefits (Please justify the request)
+What should be the desired outcome? I would expect that a person who invites someone would only the users that have the permission to that folder or that specific area depending on the role + permissions concept. With this implementation we would
+be in alignment with our role + permission settings.
+How does this impact the user experience? The customer could rely on our data security /role permission concept.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo1M2I4ZDkxZC1iYmYyLTRkMTAtYmViOS05NzdmZjE5YzIwMTA=
+Enhance Share Function to Align with Role-Based Permissions,"share the dashboards with an extended group, but not with the complete workspace
+Sharing dashboards with a certain user group, in our case process officers, would help them to better manage their process area without depending on us as admin team, having to actively prepare and share reports/dashboards",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo1M2I4ZDkxZC1iYmYyLTRkMTAtYmViOS05NzdmZjE5YzIwMTA=
+Diagram Relocation Without Publisher Rights,"move diagrams (also published) without the publisher rights
+Use Case
+Customer is using Process Governance to approve and publish diagrams
+Often it is necessary, that the models need to be moved to another folder (re-structuring), but literally no one in the tenant has publisher right, and that should stay so
+Pain Points (Please be detailed)
+The users with publisher rights could publish processes without sending them to approval workflow
+You couldn't be sure anymore, if the processes are in places or not (approval before publishing) - some incorrect information could be published
+Benefits (Please justify the request)
+You can stick to the process, and use further approval workflow for publishing, making sure, that only correct information in available in Hub
+The decision, why a user needs publisher rights in unclear.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTowMWJhM2RiZC01Y2E5LTRiZTQtODVlNC01ZmY3YjJhMjc2NGM=
+Create Custom Groups with Admin Equal Privileges,"equest Details
+Customer would like to have the ability to create groups with the same privileges as the Administrators group.
+Use Case
+Integration. For example, integrating Signavio with 3rd party tools for Identity and Access Management. Customers use specific naming convention for their roles/groups in third party tools.
+Pain Points (Please be detailed)
+It's not possible to create a group with the same accesses as the Administrators group neither to change the Administrators group name. Without this ability, roles might have different names between different tools (Signavio and 3rd party). Currently, no workaround available.
+Benefits (Please justify the request)
+The desired outcome would be to have the ability to change the Administrators group name or be able to create groups with the same access rights as the Administrators group. This would help for integration with third party tools as customers might use different roles names in different tools.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTplYWJiY2YxMy1iMGYzLTQyYmItOWY4Mi03YTFiYjQzN2ViNmM=
+granular admin rights for user management,As a customer of Signavio I want to be able to separate specific admin functionalities to separate groups of users. So that I can have some admins that are responsible for user management and group management and some admins that are responsible for tool configurations,https://signavio.productboard.com/detail/MTpQbUVudGl0eTpjNjg0ZTdkNS1kYmQ0LTQwYmUtYTY5OC05ZTk3MjVmYjUxMDQ=
+granular admin rights for user management,"only full workspace administrators have the ability to delete users and manage detailed permissions.
+This limitation poses a security risk and makes the user management process less efficient.
+What the customer is requesting is the implementation of enhanced administrative rights that would enable the creation of administrative roles with specific responsibilities, particularly for user management tasks such as creating, modifying, and deleting user accounts, as well as managing their permissions.
+
+Use Case
+The feature is intended for use by designated administrators within our organization who are responsible for user management.
+It will be used to streamline the process of onboarding and off-boarding users, managing their roles and permissions, and ensuring that access rights are correctly assigned and revoked when necessary.
+The impact of this feature would be a more secure and efficient user management process, leading to cost savings, simplified workflows, and fewer clicks.
+Pain Points (Please be detailed)
+The problem is that without granular administrative rights, only full administrators can manage user accounts, which can lead to bottlenecks and potential security risks.
+For example, if a user needs to be off-boarded quickly, the process may be delayed if a full administrator is not available.
+This impacts our ability to manage projects and engagements effectively, as timely access to the system is crucial.
+Currently, without this feature, we are facing inefficiencies and potential security vulnerabilities.
+The lack of specific administrative roles means that we have to grant broader access than necessary, which is not in line with the principle of least privilege.
+Our workaround involves manual coordination and communication, which is time-consuming and prone to error.
+Benefits (Please justify the request)
+The desired outcome is a more secure and efficient administrative process within SAP Signavio. By implementing enhanced administrative rights for specific user management tasks, we can ensure that the right people have the right access at the right time.
+This will improve the user experience by enabling faster response times for access requests and changes, and it will also benefit other users by providing a more secure and well-managed system environment.
+Overall, this feature would contribute to better governance, reduced risk, and improved operational efficiency.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpjNjg0ZTdkNS1kYmQ0LTQwYmUtYTY5OC05ZTk3MjVmYjUxMDQ=
+Admins able to unlock user accounts,"Possibility for the tenant owner to unlock user account themselves
+At the moment, only support can unlock user accounts for customers",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpjNjg0ZTdkNS1kYmQ0LTQwYmUtYTY5OC05ZTk3MjVmYjUxMDQ=
+Admins able to unlock user accounts,"Customer explicitly asking for an option available to Administrators to unlock user accounts themselves, after users entered a wrong password too many times.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpjNjg0ZTdkNS1kYmQ0LTQwYmUtYTY5OC05ZTk3MjVmYjUxMDQ=
+Admins able to unlock user accounts,"They wish that Administrators are able to Unlock Accounts
+ 
+Of users that too often entered the passwords wrong of their workspace.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpjNjg0ZTdkNS1kYmQ0LTQwYmUtYTY5OC05ZTk3MjVmYjUxMDQ=
+Admins able to unlock user accounts,"Use Case
+What does the customer want the feature for? For admins
+How will it be used? To make unlocking accounts on a workspace easier and less time consuming
+What is the impact? Less time consumed
+Pain Points (Please be detailed)
+What is the problem? Customers need to open tickets to get their accounts unlocked
+Does this impact customer projects/ engagements? Yes as they have to wait for sap support to be available to unlock the account
+Without the feature, what would the customer be facing? Wait times
+How is the customer dealing with the problem today? Is there a workaround?
+Customer has to wait for supports help
+Benefits (Please justify the request)
+What should be the desired outcome? That admins of a workspace can unlock a user account
+How does this impact the user experience? It benefits all users as they only need an administrator to unlock their account, not wait for SAP support after opening a ticket",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpjNjg0ZTdkNS1kYmQ0LTQwYmUtYTY5OC05ZTk3MjVmYjUxMDQ=
+Admins able to unlock user accounts,"Use Case
+• The customer wants their admins to have the ability to unlock user accounts which have become locked. This avoids the need to create support cases and gives their admins greater control.
+• This would allow them to save time and continue working quicker as they avoid needing to contact support.
+• This feature would only allow ADMINS to unlock user accounts.
+Pain Points (Please be detailed)
+• The customer's work is impacted as they cannot login and instead have to wait for support to answer their request.
+• This can have a knock on effect if the customer is doing projects etc.
+• Without the feature the customer will be relying on customer support to handle their request.
+• There is no workaround.
+Benefits (Please justify the request)
+• Admins in the workspace should have the ability to unlock user accounts related to their companies workspace.
+• This would have great benefits for all companies using the Signavio solution as a whole.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpjNjg0ZTdkNS1kYmQ0LTQwYmUtYTY5OC05ZTk3MjVmYjUxMDQ=
+Admins able to unlock user accounts,"Pain Points (Please be detailed)
+
+
+What is the problem? Please
+explain in reproducible steps.
+Customer has to open
+a case with support and wait for the account to be unlocked
+
+
+Does this impact customer
+projects/ engagements?
+Yes
+
+
+Without the feature, what
+would the customer be facing?
+Customer has to wait
+for their case to be picked up by a support agent and the account to be
+unlocked
+
+
+How is the customer dealing
+with the problem today? Is there a workaround?
+Customer has to wait
+for support
+ 
+Benefits (Please justify the request)
+
+
+What should be the desired
+outcome?
+Less cases needing
+to be opened and better user management for admins
+
+
+How does this impact the user
+experience? Is it also beneficial for other users?",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpjNjg0ZTdkNS1kYmQ0LTQwYmUtYTY5OC05ZTk3MjVmYjUxMDQ=
+Admins able to unlock user accounts,"Pain Points (Please be detailed)
+• What is the problem? Please explain in reproducible steps.
+Customer has to open a case with support and wait for the account to be unlocked
+• Does this impact customer projects/ engagements?
+Yes
+• Without the feature, what would the customer be facing?
+Customer has to wait for their case to be picked up by a support agent and the account to be unlocked
+• How is the customer dealing with the problem today? Is there a workaround?
+Customer has to wait for support
+Benefits (Please justify the request)
+• What should be the desired outcome?
+Less cases needing to be opened and better user management for admins
+• How does this impact the user experience? Is it also beneficial for other users?
+It's frustrating for users having to open cases and wait for support to unlock the account",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpjNjg0ZTdkNS1kYmQ0LTQwYmUtYTY5OC05ZTk3MjVmYjUxMDQ=
+Admins able to unlock user accounts,"Request Details
+• The user account has become locked and the user is unable to reset their password without creating a support case asking for it to be unlocked.
+• The user would like to have the ability to unlock user accounts to bypass the need for opening support cases, allowing their admins to unlock accounts.
+Use Case
+• The customer wants their admins to have the ability to unlock user accounts which have become locked. This avoids the need to create support cases and gives their admins greater control.
+• This would allow them to save time and continue working quicker as they avoid needing to contact support.
+• This feature would only allow ADMINS to unlock user accounts.
+Pain Points (Please be detailed)
+• The customer's work is impacted as they cannot login and instead have to wait for support to answer their request.
+• This can have a knock on effect if the customer is doing projects etc.
+• Without the feature the customer will be relying on customer support to handle their request.
+• There is no workaround.
+Benefits (Please justify the request)
+• Admins in the workspace should have the ability to unlock user accounts related to their companies workspace.
+This would have great benefits for all companies using the Signavio solution as a whole.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpjNjg0ZTdkNS1kYmQ0LTQwYmUtYTY5OC05ZTk3MjVmYjUxMDQ=
+Admins able to unlock user accounts,"Use Case
+The customer wants their admins to have the ability to unlock user accounts which have become locked. This avoids the need to create support cases and gives their admins greater control.
+This would allow them to save time and continue working quicker as they avoid needing to contact support.
+This feature would only allow ADMINS to unlock user accounts.
+Pain Points (Please be detailed)
+The customer's work is impacted as they cannot login and instead have to wait for support to answer their request.
+This can have a knock on effect if the customer is doing projects etc.
+Without the feature the customer will be relying on customer support to handle their request.
+There is no workaround.
+Benefits (Please justify the request)
+Admins in the workspace should have the ability to unlock user accounts related to their companies workspace.
+This would have great benefits for all companies using the Signavio solution as a whole.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpjNjg0ZTdkNS1kYmQ0LTQwYmUtYTY5OC05ZTk3MjVmYjUxMDQ=
+Admins able to unlock user accounts,"Time-consuming process: Creating a Support case to unlock an account can take a significant amount of time, especially if there is a backlog of cases. This can lead to delays in the user being able to access their account and continue their work.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpjNjg0ZTdkNS1kYmQ0LTQwYmUtYTY5OC05ZTk3MjVmYjUxMDQ=
+Admins able to unlock user accounts,"Time-consuming process: Creating a Support case to unlock an account can take a significant amount of time, especially if there is a backlog of cases. This can lead to delays in the user being able to access their account and continue their",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpjNjg0ZTdkNS1kYmQ0LTQwYmUtYTY5OC05ZTk3MjVmYjUxMDQ=
+Admins able to unlock user accounts,"Time-consuming process: Creating a Support case to unlock an account can take a significant amount of time, especially if there is a backlog of cases. This can lead to delays in the user being able to access their account and continue their work.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpjNjg0ZTdkNS1kYmQ0LTQwYmUtYTY5OC05ZTk3MjVmYjUxMDQ=
+See dependant processes when deleting user,"Request Details
+In Process Governance, when users are removed, in some cases we receive the information that the users need to be replaced (e.g. because they were responsible for workflows or reports or tasks) as owners.
+However, you only receive this information after you have already deleted the user in user management.
+We would like to find out afterwards what are actually the tasks assigned to deleted users that requires a replacement user.
+Use Case
+Customer deleted some users recently and they do not know with whom they should be replaced with.
+
+Pain Points (Please be detailed)
+Would it be possible to generate a report showing the following:
+The number of users deleted for a selected?
+Which groups in PG they were assigned to?
+Which Workflows they were asigned to?
+The proposed report is not yet available in process governance.
+Benefits (Please justify the request)
+This would be beneficial for customers as there is no way to currently tell which tasks or workflows are assigned to the recently deleted (soft deleted) users. Customer does not know who should be the replacement user of the deleted user, because no reports can be generated to show the required information (tasks,workflows of deleted users).",https://signavio.productboard.com/detail/MTpQbUVudGl0eToxZThkMzFkYS0xMDk0LTRjYzEtYmE4MS1mNWZmYTU4ZGY0ZTI=
+Admin activity report,"please include screenshots at the end with text reference & make sure you assigned the title, product tag, company & priority of your note---
+Request Details:
+What is the situation?
+Customer thinks that the capability of User Access Report and The
+notification and activity feed (signavio.com) are not sufficient to use SAP Signavio service to comply with their operation policy.
+What is the customer requesting?
+Fujitsu IT team have to check what administrator did
+regarding user/user group’s creation, update, deletion for Fujitsu’s
+security compliance check.
+Use Case:
+What does the customer want this feature for? --> For their internal security compliance check
+How will they use this? --> Check what administrator did in process manager in terms of user / user group creation/update operation.
+What is the impact? --> They will terminate the Signavio contract if SAP signavio provide such capablity.
+Pain Points:
+Please be detailed.
+What is the problem? --> Current Signavio capablity does not meet Fujitsu's security policy.
+Does this impact customer projects/engagements? --> Yes, and show stopper to adopt the Signavio solution in their organization.
+Without the feature what issues would the customer be facing? --> IT member cannot comply with their security policy.
+How is the customer dealing with the problem today? Is there a workaround? --> To request Audit Log via customer support. However, the provided log's quality and lead time also don't meet Fujitsu's security operation criteria.
+Benefits:
+Please justify this request.
+What would be the desired outcome? --> Provide admin user activity report capablity.
+*Why/ How does this improve the users experience? * --> They will be able to roll out Signavio to entire organizaiton (i.e. other LoBs).
+Screenshots:",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo5MzBkOGEzOS05N2I5LTQ2NGUtYmYxMi03MjNlYmVmMjdhNGE=
+Handover of cases and tasks,The customer wants to implement a representative regulation to ensure workflow activities are smoothly taken over by the holiday replacements without causing any delays or double assignment of tasks. The substitutes should have access to the tasks only when explicitly requested in advance.,https://signavio.productboard.com/detail/MTpQbUVudGl0eTpiYmUwNjgxOC0xOGMxLTRjNTItOWEwMy04ZGIyNjY0YjVmZjQ=
+Handover of cases and tasks,"Probably this is not a new feature request but the customer's idea is that a person in charge for a task can enter his or her absence in Signavio Process Governance, e.g. to redirect to the deputy in case of an open approval workflow.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpiYmUwNjgxOC0xOGMxLTRjNTItOWEwMy04ZGIyNjY0YjVmZjQ=
+Handover of cases and tasks,The customer is requesting a vacation absence replacement option in the SPG user tasks as a process governance use case to enable replacement users to automatically receive tasks of users who are on vacation.,https://signavio.productboard.com/detail/MTpQbUVudGl0eTpiYmUwNjgxOC0xOGMxLTRjNTItOWEwMy04ZGIyNjY0YjVmZjQ=
+Improve user management in SPG & SPM,"The customer needs a more centralized way to manage users in both Product Manager and Planning Grid, suggesting the ability to add users to user groups in PM and grant group permissions in PG.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo1MzIwYjdlZi1mY2QyLTQ1NGItOGM0NC01ZTgxNWNlYzI1NmM=

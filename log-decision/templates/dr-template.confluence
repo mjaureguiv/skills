@@ -1,0 +1,89 @@
+{panel:title=Decision Record|borderStyle=solid|borderColor=#ccc|titleBGColor=#f0f0f0|bgColor=#fff}
+
+h1. DR-XXX: {{TITLE}}
+
+{status:colour=Blue|title={{STATUS}}}
+
+|| Project | {{PROJECT}} ||
+|| Technical Story | [{{TICKET_ID}}|{{TICKET_URL}}] ||
+|| Status | {{STATUS}} ||
+|| Category | {{CATEGORY}} ||
+|| Function | {{FUNCTION}} ||
+|| Deciders | {{DECIDERS}} ||
+|| Authors | {{AUTHORS}} ||
+|| Outcome | {{OUTCOME}} ||
+|| Date | {{DATE}} ||
+
+{panel}
+
+h2. Problem Statement and Context
+
+{{PROBLEM_STATEMENT}}
+
+h2. Decision Drivers
+
+{{DECISION_DRIVERS}}
+
+h2. Considered Options
+
+{{CONSIDERED_OPTIONS}}
+
+h2. Decision Outcome
+
+{info:title=Decision}
+{{DECISION_OUTCOME}}
+{info}
+
+h3. Rationale
+
+{{RATIONALE}}
+
+h3. Positive Consequences
+
+{panel:borderStyle=solid|borderColor=#90EE90|bgColor=#f0fff0}
+{{POSITIVE_CONSEQUENCES}}
+{panel}
+
+h3. Negative Consequences
+
+{panel:borderStyle=solid|borderColor=#FFB6C1|bgColor=#fff0f5}
+{{NEGATIVE_CONSEQUENCES}}
+{panel}
+
+h2. Next Steps
+
+|| Action || Owner || Deadline ||
+{{NEXT_STEPS_TABLE}}
+
+h2. Pros and Cons of Options
+
+{{#each OPTIONS}}
+h3. {{OPTION_NAME}}
+
+{{OPTION_DESCRIPTION}}
+
+*Good:*
+{{OPTION_PROS}}
+
+*Bad:*
+{{OPTION_CONS}}
+{{/each}}
+
+h2. Links
+
+{{LINKS}}
+
+----
+
+h2. CODES Quality Assessment
+
+{panel:title=Decision Quality Check|borderStyle=solid|borderColor=#4169E1|titleBGColor=#E6E6FA|bgColor=#fff}
+
+|| Dimension || Status || Notes ||
+| *C*larity | {{CODES_C_STATUS}} | {{CODES_C_NOTES}} |
+| *O*wnership | {{CODES_O_STATUS}} | {{CODES_O_NOTES}} |
+| *D*ecision | {{CODES_D_STATUS}} | {{CODES_D_NOTES}} |
+| *E*ngagement | {{CODES_E_STATUS}} | {{CODES_E_NOTES}} |
+| *S*tructure | {{CODES_S_STATUS}} | {{CODES_S_NOTES}} |
+
+{panel}

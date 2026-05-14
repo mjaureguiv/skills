@@ -1,0 +1,115 @@
+insight text
+"Request Details
+In Process Governance currently, we are not able to customize email notifications. A standard/default template is used, which cannot be edited.
+Use Case
+Customer would like to edit Notification templates in PG. 
+Pain Points (Please be detailed)
+Customer uses subtasks in PG added to Cases tasks.  Customer is looking for a  possibility to change the template of the e-mail in subtasks, because now they are getting a Signavio template for this ""New task in case.... was assigned to you"" or ""you are candidate..."" but they want to change that template to add more details to it."
+"Siemens AG requests that in any case Signavio (Process Governance) sends automated emails, they need a signature that guarantees the
+authenticity of the sender. This is a basic requirement in their cybersecurity ruleset."
+"When the workflow is triggered, system automatically sends approver a notification mail.
+however, the mail format is not so user friendly and sophisticated. Customer prefers to configure the mail format by themself."
+"Request from customer:  
+Our mail system classifies incoming external mails as such, so that important tasks may only be observed and completed by users with a delay.
+For this reason, our IT could set up a sub-domain which could be ceded to SAP Signavio for MF-used cloud services. 
+This is a great pity that there is no such option, especially since we use other cloud products from the SAP family (SAP Success Factors) where this is possible. A unified solution within the SAP family would be highly desirable here.
+Currently, we do not offer any possibility for sending e-mails with customer's domains. In general, it is possible, not know if there is this possibility on our AWS.
+Source: https://itsm.services.sap/now/workspace/agent/record/sn_customerservice_case/510d253147787990c7065cbd436d43d1/params/selected-tab-index/0"
+"As a governance-admin, I want to be able to use my corporate design for the automated e-mails coming from Process Governance, in order to avoid concerns of the users of phishing-mails."
+"Hi there,
+Our customer Services Australia has a request to turn off the daily updates ""Cases you were participating in"" as they feel this will be annoying and considered spam from the Signavio platform.  This is from the A/g Director of Business Process Design and Automation, Jason Bishop"
+"die Funktion ""Tägliche Zusammenfassung erhalten"" für unsere gesamte Organisation zu deaktivieren.Hier werden die Kollegen auch über Workflows informiert, zu denen sie keinen Bezug haben. Dies ist aus vielen verschiedenen Gründen kritisch zu betrachten!"
+"The system user system@signavio.com is set as default when an approval workflow is initiated by a user who has an active license in Process Manager but not in Process Governance.
+For Mrs. Lehmann this is not satisfying.
+I explained that the logic behand is just a technical limitation - that the governance system does not know who triggered an approval workflow when this user is not known in Process Governance (has no license in PG). She replied:
+""For us this is a mistake, maybe a conceptual one. Please have that checked.
+As far as I know, the alignment of the workflow has been adjusted in such a way that the focus is on process approvals/governance, at least that was the reason for renaming the tool recently.
+In the context of process governance, however, it is essential that a user who initiates approval receives feedback on the result of a workflow (approval, rejection, justification). This option is currently denied to the user if he is ""only"" a modeler (e.g. with an EnterprisePlus license).
+You force your customers to buy/rent the same number of workflow licenses as they have modeler licenses just so they can start a workflow. But you can start the workflow with a modeler license. As I understand it, a workflow license is only required if a user
+participates in the workflow in the form of assigned tasks or
+self-created workflows.""
+https://jira.signavio.com/browse/SCS-61321"
+checking the attachment size of workflow e-mails because of the new size limits
+"In Signavio Process Governance we have a field type --> Email address. In our workspace there are few processes wherein we use this field to sent email notifications. However we would like to check if there an attribute of this field available which when configured the email are not send. We do not want this feature universal to our workspace, but configurable for specific process.
+For Example : In one of the process, in the field email address, I do not allow users to send email notification to people outside STL Domain"
+"Daimler Legal and Integrity Team would like to have the option to put people or user groups in ""cc"" in their email tasks"
+It should be possible to deactivate or manage (a checkbox) the e-mail notifications for all users in an organization.
+"It should be possible to change the content of the e-mail notification sent by Process Governance.
+----
+Original message:
+Guten Tag,
+ 
+ich würde gerne wissen ob man die automatisch generierte E-Mail-Benachrichtigung an BPOs an einer Stelle umschreiben kann. Konkret geht es um den Fall, wenn einem BPO eine Aufgabe zugewiesen wird. In der automatisch versendeten Mail wird ein Link angegeben, der bei uns zu großen Problemen führt, ich würde hier stattdessen gern auf den Bereich ‚Aufgaben‘ des Hub Next verlinken. Ist das möglich?"
+"The customer asked to hand in the following feature request:
+It would be nice to receive an email as the main task responsible, if a sub task was completed. Daily digest is not enough."
+"Es scheint so als würde das System beim ICS Self Assessment Reminders verschicken für follow-up tasks, obwohl diese weit in der Zukunft liegen. Siehe Mail unten.
+Follow-up tasks sind im März 2021 fällig.
+ 
+Können wir das raschmöglichst anpassen?
+ 
+Vorschlag:
+
+Erster Reminder frühestens 2 Wochen vor dem Fälligkeitsdatum
+Ab dann alle 3 Tage bis zum Fälligkeitsdatum
+Ab Fälligkeitsdatum alle 2 Wochen bis es erledigt ist"
+"Hi Georg,
+
+Unfortunately no, sorry. But I'll make a note in Product Board, it's not the first time I heard about this request.
+
+Best
+Charly
+
+On Mon, 14 Dec 2020 at 11:01, Georg Weber <georg.weber@signavio.com> wrote:
+
+Hi Charly and Saleh,
+
+we don't have any option to cancel the reminders for ongoing tasks, right? So there is also no backdoor the Wolfpack could use? ;)"
+"PWC is asking for automatic e-mail function to be deactivated by the admin for a whole workspace.
+They are building their workflows in such a way that an e-mail task will be send out to those who need to take action, so they have no need for the automatic info send by the tool. Currently users will therefore get more e-mails send then necessary. Some users get bombarded with mails as they are involved as approver or similar in heavily used workflows."
+"The customer is asking if it was possible to add CC and BCC fields to the action type 'send e-mail' (see attachment) in Workflow Accelerator. At least the e-mail variable has got this field already (https://documentation.signavio.com/suite/en-us/Content/workflow-accelerator/developerguide/data-types-and-formats.htm#type-email)
+
+Source of the inquiry: Issue https://jira.signavio.com/browse/SCS-45233"
+"After defining the coreinformation in teh details of a workflow, Bosch would like to refer in email task to the core information incl. all the sub information, which were added to it."
+"It would be great if you could configure a report which is generated automatically after certain amount of time (e.g. every week) and send on a defined e-mail address. 
+"
+The GM of Stadtwerke Stuttgart complained about the daily digest mail. They would prefer to see only open tasks instead of the entire list.
+"Stadtwerke asked for options to modify the look and feel of task notification mails, as well as the daily digest mails"
+"Stadtwerke asked for options to modify the look and feel of task notification mails, as well as the daily digest mails"
+It would be nice if user can approve/reject workflow tasks directly in the email notification they received without logging in Signavio.
+"It should be possible to create a custom header for e-mails (more salutation or introduction), the idea similar to the default footer for organization."
+"quick question, is it possible to customize email content of the workflow task notifications?"
+"8. Daily email update options (other)
+Not addressed in call
+David adds
+Issue: The daily update email covers all cases. Although it is broken up by cases you’re involved in and other cases, it still makes it a large volume of information to go through and can be confusing. The only option is to turn it off completely
+Requested Resolution: Add option for updates to only include changes to cased you’re working on and/or tasks currently assigned to you"
+Changing content or layout of the reminder mail in any way. The prospect just doesn’t like the overall appearance
+Changing content or layout of the reminder mail in any way. The prospect just doesn’t like the overall appearance
+Improve notification grouping
+Improve notification grouping
+"Configuring content, look and sender / subject of built-in notifications important to increase tool acceptance. E-Mails often marked s SPAM, neglected and management does not react to them, as they seem unimportant, not from within organization."
+"Configuring content, look and sender / subject of built-in notifications important to increase tool acceptance. E-Mails often marked s SPAM, neglected and management does not react to them, as they seem unimportant, not from within organization."
+"Hello workflow team,Daimler is sending target e-mails with to-dos to users of a workflow. These users will get another automated e-mail from the workflow systems again about 5 min later informing them of an open task. Am I correct in the assumtion that the automated e-mails with the info that a task has to be done by a user will no longer be send once a user deactivates the option ""receive notifications via email"" ?"
+"https://jira.signavio.com/browse/SCS-36830
+User erhalten die täglichen Benachrichtigungen was alles in der OrganisationWorkflow - Mein Profil - ""Tägliche Zusammenfassung erhalten""User müssen dies jeder selber klickenKundin ist NICHT glücklich über diesen manuellen Mehraufwand (muss jetzt zu jedem User gehen und dies ""verlangen"")will nicht, dass jeder alle Infos erhalten, da die Kollegen dadurch nicht immer glücklich sind…
+TRANSLATION
+Users receive daily notifications that everything in the organizationWorkflow - Profile - ""Get Daily Summary""User must at all this click itselfCustomer is NOT (must go now to each user and ""demand"" this) happy with this manual workloaddoes not want any all information obtained since the colleagues thus are not always happy ..."
+"13. Having the capability of configuring if a ""candidate user for a task"" receive a notification or not"
+Signavio administrators or WA administrators should be notified of failures on reminders. (Let’s say the process owner or modeller has left nab)
+"https://jira.signavio.com/browse/SCS-35301
+Comment peut-on remplacer le nom de l'expéditeur des mails envoyés par l'outil (actuellement ""Orange Bank"") par ""Signavio / Equipe TAC"" ?"
+"Organization: Rock Holdings (5dd7ef37a3052c72aa8984b5)User: Kenny Felder (kennyfelder@quickenloans.com)Signavio Workflow Accelerator version: v3.123.2Browser: Win32 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36URL: undefined/profileSubject: featureMessage: This is a request to have the ability to turn off certain pre-coded emails sent by Signavio's system. We know that there are preferences in My Profile but that turns all of the notifications off. We would like the ability to choose specific notifications to turn off. related ticket: SCS-30403"
+"Currently, a user can not be specific on what emails they want to receive. Can the preferences for receiving notifications via email be more granular and have more option selections on what emails to sen"
+Comment notification being sent to email take roughly 5 minutes. Could we decrease that amount of time when receiving comment notifications?
+they would like to have the possibility to modify the content of system emails like when you get notify when you are assigned to a task or when you get a reminder email
+"I have a quick question about a feature in our workflow. I’m curious if instead of getting constant individual emails, is there a way to set it up so users just receive 1 daily email with everything in their queue?"
+Ensingersplastics do not want the tasks in the e-mail which informs the uer about the new assigned tasks to be in list form.
+"https://jira.signavio.com/browse/SCS-29334
+Right now with the provided solution we will have to reach out to each user and ask them to uncheck the subscription under my profile. However, we are looking for more feasible option at the product level which is by default the setting should be uncheck.
+If user requires notification then we can always ask them to select checkbox."
+"IWB, the automatic notification emails are frequently reported as supicious / spam, any necessary notification is modelled into the workflow itself"
+"They messed up in the past their due date actions and since some cases have a very long run time, they get spammed by mails, although they already selected not to receive notifications."
+"<i>Via Nader…</i>
+Is there any way to deactivate the ""Receive notifications via email"" automatically for all users - as an admin command? The client want's to model a mail task infront of every important user task. So right now the user received 2 mails - one directly and another one after 5 mins. They don't like the system notification at all. But they don't want to ask every process owner to deactivate the notification."
+"<i>Via Nader…</i>
+Is there any way to deactivate the ""Receive notifications via email"" automatically for all users - as an admin command? The client want's to model a mail task infront of every important user task. So right now the user received 2 mails - one directly and another one after 5 mins. They don't like the system notification at all. But they don't want to ask every process owner to deactivate the notification."

@@ -1,0 +1,108 @@
+sent notifications from a case,insight text,
+Emails Configurations,preparing e-mail texts depending on particular case - to avoid numerous e-mail templates and corresponding tasks,https://signavio.productboard.com/detail/MTpQbUVudGl0eTpkN2UwYTI1ZC01NTQ2LTQxYTktYjFiMy01OWM2ZGM1M2RlOTQ=
+Emails Configurations,"Organization admins should get a notification when an email send to a user's email address bounces, resulting in user's email address being put on SES suppression list.
+This is important because even when the problem with the user's email is resolved, they will remain on the suppression list and all SPG email will stop being delivered until they are removed.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpkN2UwYTI1ZC01NTQ2LTQxYTktYjFiMy01OWM2ZGM1M2RlOTQ=
+Emails Configurations,"https://jira.signavio.com/browse/SCS-29334
+Right now with the provided solution we will have to reach out to each user and ask them to uncheck the subscription under my profile. However, we are looking for more feasible option at the product level which is by default the setting should be uncheck.
+If user requires notification then we can always ask them to select checkbox.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpkN2UwYTI1ZC01NTQ2LTQxYTktYjFiMy01OWM2ZGM1M2RlOTQ=
+Emails Configurations,"It should be possible to change the content of the e-mail notification sent by Process Governance.
+----
+Original message:
+Guten Tag,
+ 
+ich würde gerne wissen ob man die automatisch generierte E-Mail-Benachrichtigung an BPOs an einer Stelle umschreiben kann. Konkret geht es um den Fall, wenn einem BPO eine Aufgabe zugewiesen wird. In der automatisch versendeten Mail wird ein Link angegeben, der bei uns zu großen Problemen führt, ich würde hier stattdessen gern auf den Bereich ‚Aufgaben‘ des Hub Next verlinken. Ist das möglich?",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpkN2UwYTI1ZC01NTQ2LTQxYTktYjFiMy01OWM2ZGM1M2RlOTQ=
+Emails Configurations,"<i>Via Nader…</i>
+Is there any way to deactivate the ""Receive notifications via email"" automatically for all users - as an admin command? The client want's to model a mail task infront of every important user task. So right now the user received 2 mails - one directly and another one after 5 mins. They don't like the system notification at all. But they don't want to ask every process owner to deactivate the notification.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpkN2UwYTI1ZC01NTQ2LTQxYTktYjFiMy01OWM2ZGM1M2RlOTQ=
+Emails Configurations,"Is there any way to deactivate the ""Receive notifications via email"" automatically for all users - as an admin command? The client want's to model a mail task infront of every important user task. So right now the user received 2 mails - one directly and another one after 5 mins. They don't like the system notification at all. But they don't want to ask every process owner to deactivate the notification.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpkN2UwYTI1ZC01NTQ2LTQxYTktYjFiMy01OWM2ZGM1M2RlOTQ=
+Emails Configurations,"They messed up in the past their due date actions and since some cases have a very long run time, they get spammed by mails, although they already selected not to receive notifications.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpkN2UwYTI1ZC01NTQ2LTQxYTktYjFiMy01OWM2ZGM1M2RlOTQ=
+Emails Configurations,"IWB, the automatic notification emails are frequently reported as supicious / spam, any necessary notification is modelled into the workflow itself",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpkN2UwYTI1ZC01NTQ2LTQxYTktYjFiMy01OWM2ZGM1M2RlOTQ=
+Emails Configurations,"I have a quick question about a feature in our workflow. I’m curious if instead of getting constant individual emails, is there a way to set it up so users just receive 1 daily email with everything in their queue?",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpkN2UwYTI1ZC01NTQ2LTQxYTktYjFiMy01OWM2ZGM1M2RlOTQ=
+Emails Configurations,"Currently, a user can not be specific on what emails they want to receive. Can the preferences for receiving notifications via email be more granular and have more option selections on what emails to sen",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpkN2UwYTI1ZC01NTQ2LTQxYTktYjFiMy01OWM2ZGM1M2RlOTQ=
+Emails Configurations,"Having the capability of configuring if a ""candidate user for a task"" receive a notification or not",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpkN2UwYTI1ZC01NTQ2LTQxYTktYjFiMy01OWM2ZGM1M2RlOTQ=
+Emails Configurations,"Users receive daily notifications that everything in the organizationWorkflow - Profile - ""Get Daily Summary""User must at all this click itselfCustomer is NOT (must go now to each user and ""demand"" this) happy with this manual workloaddoes not want any all information obtained since the colleagues thus are not always happy ...",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpkN2UwYTI1ZC01NTQ2LTQxYTktYjFiMy01OWM2ZGM1M2RlOTQ=
+Emails Configurations,"Hello workflow team,Daimler is sending target e-mails with to-dos to users of a workflow. These users will get another automated e-mail from the workflow systems again about 5 min later informing them of an open task. Am I correct in the assumtion that the automated e-mails with the info that a task has to be done by a user will no longer be send once a user deactivates the option ""receive notifications via email"" ?",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpkN2UwYTI1ZC01NTQ2LTQxYTktYjFiMy01OWM2ZGM1M2RlOTQ=
+Emails Look & Feel,"USAA would like the ability to remove the auto-generated Workflow case numbers that are included in Signavio summary emails. Currently, USAA uses a different numbering system for their users to keep track, and don’t want the inclusion of a case number to cause any confusion.",
+Emails Look & Feel,Changing content or layout of the reminder mail in any way. The prospect just doesn’t like the overall appearance,https://signavio.productboard.com/detail/MTpQbUVudGl0eTplNWU4MTRlYi03ZDRjLTRhNGMtYWEwNy0yMTZmOTkzYjllMGI=
+Emails Look & Feel,"Stadtwerke asked for options to modify the look and feel of task notification mails, as well as the daily digest mails",https://signavio.productboard.com/detail/MTpQbUVudGl0eTplNWU4MTRlYi03ZDRjLTRhNGMtYWEwNy0yMTZmOTkzYjllMGI=
+Emails Look & Feel,Improve notification grouping,https://signavio.productboard.com/detail/MTpQbUVudGl0eTplNWU4MTRlYi03ZDRjLTRhNGMtYWEwNy0yMTZmOTkzYjllMGI=
+Emails Look & Feel,Improve notification grouping,https://signavio.productboard.com/detail/MTpQbUVudGl0eTplNWU4MTRlYi03ZDRjLTRhNGMtYWEwNy0yMTZmOTkzYjllMGI=
+Emails Look & Feel,"Configuring content, look and sender / subject of built-in notifications important to increase tool acceptance. E-Mails often marked s SPAM, neglected and management does not react to them, as they seem unimportant, not from within organization.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTplNWU4MTRlYi03ZDRjLTRhNGMtYWEwNy0yMTZmOTkzYjllMGI=
+workflow tasks notification configuration,"Request Details: We would like to request the inclusion of a functionality that allows users to exclude weekends and holidays when configuring reminders and escalations in Process Governance. Currently, it is only possible to include reminders and escalation times in days, without considering weekends and holidays.
+Use Case: This feature would be particularly helpful in scenarios where tasks within a workflow have strict deadlines and it is necessary to ensure timely completion. For example, in a customer onboarding process, it may be required to send a reminder to the assigned team member if a task is not completed within two working days. However, if the task is assigned on a Friday, including the intervening weekend in the calculation may cause delays and misalignment with the desired timeline.
+Pain Points: The current lack of functionality to exclude weekends and holidays in reminders and escalations can lead to inefficiencies and delays in task completion. It may also result in incorrect communication of deadlines to team members, impacting overall process governance and adherence.
+Benefits: By incorporating the ability to exclude weekends and holidays in reminders and escalations, Process Governance users will be able to configure more accurate and realistic timelines for task completion. This will enable better alignment with business requirements, improve efficiency, and enhance overall process governance. Task owners will receive timely reminders and escalations that consider working days, leading to smoother and more efficient workflow execution.
+Overall, we believe that the addition of this functionality would be a valuable enhancement to Process Governance, ensuring more effective task management and better support for process governance needs.",https://signavio.productboard.com/detail/MTpQbUVudGl0eToyNDViZTBhNS1hOGUwLTQxYjUtYWY0MS1iYjA2ODM1MWNjNTA=
+Sending notification from customer's domain,"Request from customer:
+Our mail system classifies incoming external mails as such, so that important tasks may only be observed and completed by users with a delay.
+For this reason, our IT could set up a sub-domain which could be ceded to SAP Signavio for MF-used cloud services.
+This is a great pity that there is no such option, especially since we use other cloud products from the SAP family (SAP Success Factors) where this is possible. A unified solution within the SAP family would be highly desirable here.
+Currently, we do not offer any possibility for sending e-mails with customer's domains. In general, it is possible, not know if there is this possibility on our AWS.
+Source: https://itsm.services.sap/now/workspace/agent/record/sn_customerservice_case/510d253147787990c7065cbd436d43d1/params/selected-tab-index/0",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpkMWI1NGM0MS01OTY0LTQwMWUtYTFmYy1kNTJlN2ExYWYzNWM=
+Enable email digest configuration for workflow tasks,"They see optimization potential for the notifications.
+For example, that one receives one ""collective"" mail for tasks that one has to complete within PG. Instead of 5 separate approval mails, only one mail summarizing the 5 pending approvals. In the sense of clarity and reduction of the amount of emails.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpmMDQxYmE5NS1iMGM1LTRjOGYtYWJkYi1hOGViMmU4NDYyNTg=
+Remove auto generated case numbers from notification emails,"USAA would like the ability to remove the auto-generated Workflow case numbers that are included in Signavio summary emails. Currently, USAA uses a different numbering system for their users to keep track, and don�t want the inclusion of a case number to cause any confusion.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpjMTQ2NTA1OS03YTE3LTRiMWQtYWUxNi1iMjYxOGRhOTg3NWQ=
+improve mail content on cases,"Hi all,
+customer ZEISS was asking about the reason to show ""other cases"" in the daily update mail. They consider it to be spam. Is there a rationale why a normal user would see other cases of the same process where they are not involved?
+
+Any chance we can change that behavior?
+
+Best
+Christian",https://signavio.productboard.com/detail/MTpQbUVudGl0eTplNmI4NzA2ZS01MmU0LTRhMDUtOTExOC1hYmYyYTFmNjY4ZTA=
+Configure notification mail format,"When the workflow is triggered, system automatically sends approver a notification mail.
+however, the mail format is not so user friendly and sophisticated. Customer prefers to configure the mail format by themself.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo3MWY1NjAxZC1lYmVkLTQ5ZDMtOWRiMy1iMmNjZjk1YWQyMmM=
+Add corporate design to emails,"As a governance-admin, I want to be able to use my corporate design for the automated e-mails coming from Process Governance, in order to avoid concerns of the users of phishing-mails.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo3Njc1MjdhZS0wOTQ3LTRhZDItOTBiZC1jZmU0MmU4MzE1MmE=
+sent notifications from a case,"It should be possible to track the sent notifications from a case. Especially, reminders and escalations.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpiMzc2MmU4YS05YTFhLTQzYmEtOTIwNS1jN2MyYWViZjJmMDM=
+Improve Email Tasks capabilities,"Daimler Legal and Integrity Team would like to have the option to put people or user groups in ""cc"" in their email tasks",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo3M2ViMDlkZi02ODA4LTQ5MGQtYmE0My0yYzliMmMxZTJlNTQ=
+Improve Email Tasks capabilities,"The customer is asking if it was possible to add CC and BCC fields to the action type 'send e-mail' (see attachment) in Workflow Accelerator. At least the e-mail variable has got this field already (https://documentation.signavio.com/suite/en-us/Content/workflow-accelerator/developerguide/data-types-and-formats.htm#type-email)
+
+Source of the inquiry: Issue https://jira.signavio.com/browse/SCS-45233",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo3M2ViMDlkZi02ODA4LTQ5MGQtYmE0My0yYzliMmMxZTJlNTQ=
+Improve email message when assigned to task,"The customer is requesting the ability to update the email message that is automatically generated when a task is assigned to a candidate group in SPG, similar to how they can update the message in an email task.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo2MGM5MDU0Zi0xYmEwLTQxYjQtYjBmMy1lOGQ4N2JiYzMwMGQ=
+Granular email notifications settings for tasks & cases,"Request Details
+Customer wants an option where they can disable email notifications separately only for tasks or cases or comments.
+Use Case
+Currently, if Receive notifications via email button is disabled in My Profile - Preferences (Process Governance), then the user won't receive notifications both for tasks, cases and comments. Customer does not want to receive notifications for cases and tasks, but they want to receive notifications for comments.
+Pain Points (Please be detailed)
+Customer is bothered by the Signavio email system (PG). They want to be able to individually disable notifications for tasks, cases, comments.
+Benefits (Please justify the request)
+By providing customers to be able to enable and disable separately notifications by their type, they would be able to customize their email notification usage due to their business needs and won't be bothered by the huge amount of emails.
+SNOW case: https://sap.service-now.com/now/cwf/agent/record/sn_customerservice_case/aaa9aebdeb930a548695f3d7cad0cd0b",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo2NzUyNmQ2Yi0yMjk1LTQwN2YtYWM1Yi03MjE5MjJjOThjOGU=
+System Notifications,"And this automatic automatic trigger which should Trigger, for example at 8:00 AM in the morning like 50 controls or so and then.
+If we I don't know if the JavaScript execution is then not working then we don't have like the controls trigger which is.
+And then what we have to do?
+I'll wait then and I'll trigger everything again. But I think the longest period was like 2 hours or so, which we had. But this is this was like a few months ago and this was really annoying because the customer wanted us to trigger everything and we just run into the error again and again and again and couldn't make anything.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo2ZTlhMjY2YS1lNjZiLTQxMzktODZlOS0xNWZiYWFjMzA4YWI=
+Modify email notifications,"Request Details
+In Process Governance currently, we are not able to customize email notifications. A standard/default template is used, which cannot be edited.
+Use Case
+Customer would like to edit Notification templates in PG.
+Pain Points (Please be detailed)
+Customer uses subtasks in PG added to Cases tasks. Customer is looking for a possibility to change the template of the e-mail in subtasks, because now they are getting a Signavio template for this ""New task in case.... was assigned to you"" or ""you are candidate..."" but they want to change that template to add more details to it.
+
+Related KBA: https://me.sap.com/notes/3161082/E
+
+SNOW case: https://sap.service-now.com/now/cwf/agent/record/sn_customerservice_case/bc1e16b7eb8f82906abaf34abad0cdfc/params/selected-tab-index/0/sub/record/sn_customerservice_case/bc1e16b7eb8f82906abaf34abad0cdfc",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpiZmM0MmZkZS1iZTU4LTQyZDYtYTgzMy01YjRkNGNhODc0M2Q=
+Commenting features,"The problem is located in the Process Governance module, specifically in the file upload functionality within comments of cases/tasks. The lack of configuration options to disable uploads is the trigger for this issue.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo3NDEzZGViZC0yNzY1LTQ5OGUtYmM2Mi1kOGQ0NGJjYTZmM2Q=
+Notifications delivery,"Customer asking for some kind of ""sent e-mails"" folder, at least with the information: subject, title, attachments, addressees + possible download of the e-mail as a file.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTowMjlmNmExMS1hZjJjLTRhMjAtYTJkMi02NDg0YjlkM2RhNjg=
+Notifications delivery,"Request Details:
+We are requesting a feature that allows for proactive notification if emails are not successfully sent to users. This feature should provide alerts for any potential compliance issues that may arise due to non-delivery of critical communications.
+Use Case:
+Our organization sends important emails to our customers relating to compliance and regulatory requirements. It is crucial for us to ensure that these emails are successfully delivered and received by the intended recipients. If there are any issues with email delivery, we need to be notified in a timely manner to take appropriate action and prevent potential compliance issues.
+Pain Points:
+Currently, we lack visibility into whether emails are successfully delivered to users. This lack of visibility could lead to compliance issues on the customer side if important communications are not received. Without proactive notification of email delivery issues, we are at risk of non-compliance with regulatory requirements.
+Benefits:
+Proactive notification of email delivery issues will allow us to take immediate action to rectify any non-delivery problems.
+Enhanced visibility into email delivery status will help mitigate compliance risks and ensure that critical communications reach the intended recipients.
+This feature will minimize the potential for customer-side compliance issues by addressing email delivery issues in a proactive and timely manner.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTowMjlmNmExMS1hZjJjLTRhMjAtYTJkMi02NDg0YjlkM2RhNjg=
+Allow comment creators to delete their own comments,"Customer KPMG IT Services GmbH has highlighted the need for comment creators to have the ability to delete their own comments within the Process Governance module. The current functionality allows users to add comments but does not provide options for editing or deleting them. This enhancement aims to give users more control over their input, aiding in better process management and communication.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTphYmY1YzBlYS1kZmNiLTQ4NGMtYjhlZi1hYmNiODcwNzNjZWI=
+Rule-based notifications,"We are requesting the addition of a feature to send email notifications based on a custom date attribute, ""Next Review Date,"" within SAP Signavio BPMN models. The notifications should be sent to process owners and modelers under the following conditions:
+30 days before the ""Next Review Date.""
+On the ""Next Review Date.""
+1 week after the ""Next Review Date.""",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpiNmExNzlkNS00NWU1LTQ2NmEtOGM5Yy1kYTliMTMxNmZiZjE=
+Allow Viewing of Case Comments Without Task Access,"If a user who has only start-rights is mentioned in the case, cannot see the comment, because of missing access rights. It should be possible to show the case without any tasks (or other solution) in order to show the comment.
+Alternatively should be sent a message via e-mail to the mentioned user.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpiNDNiMTQxMi0zZTQ0LTRiMzQtOTRjMC0wNjI3OWVmMjdmMDQ=
+Improve Task Identification Markers in Comments,"For complex models, it can be quite difficult to identify the task that somebody has commented on. Even more so in Editor, where the display does not jump to the task when clicked from the comments list.
+Customer requesting a better marker - using colours for example like for dictionary categories. That way it would be easier to detect the corresponding task on a visual level",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo2MmMwZWUyNy05YzFiLTRmNjAtYTlmZS1kOWRiZDUyYTc0NDU=
+Digital Signature for Emails,"Siemens AG requests that in any case Signavio (Process Governance) sends automated emails, they need a signature that guarantees the
+authenticity of the sender. This is a basic requirement in their cybersecurity ruleset.",https://signavio.productboard.com/detail/MTpQbUVudGl0eTo2MTJmNjhlNS1hNmVlLTRkZmUtYjc0MS1mNjY1NThhNTUwMjE=
+Access to sent notification,"Customer has observed some delays and few discrepancies with the Process Governance email address ( notification@workflow.signavio.com)
+and thus wanted to see the earlier sent emails. And thus the request for a report. More than the report, having an access to the email box would have been advantageous. If its not possible for now, pls consider it in the features request list. Interesting information would be
+email Recepient, email content, email sent date",https://signavio.productboard.com/detail/MTpQbUVudGl0eTpkYmNlMDcwNC02ZWY2LTQyOGUtYjFjYy0xNDJkYjhhNjVkN2I=
