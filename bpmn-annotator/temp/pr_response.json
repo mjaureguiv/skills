@@ -1,0 +1,12 @@
+{
+  "message": "Validation Failed",
+  "errors": [
+    {
+      "resource": "PullRequest",
+      "code": "custom",
+      "message": "A pull request already exists for signavio-pm-agent:fix/mxc-portal-safe-path."
+    }
+  ],
+  "documentation_url": "https://docs.github.com/enterprise-server@3.17/rest/pulls/pulls#create-a-pull-request",
+  "status": "422"
+}

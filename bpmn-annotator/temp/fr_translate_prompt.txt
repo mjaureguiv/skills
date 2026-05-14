@@ -1,0 +1,73 @@
+You are translating a BPMN process model into **French**.
+
+## Translation Rules
+
+1. Use professional business process language.
+2. Keep task names SHORT (≤ 40 characters). Use **Verb + Object** format.
+3. Keep terminology CONSISTENT — translate each term the same way throughout.
+4. Create a mental terminology dictionary and reuse it: if a term appears multiple
+   times, translate it identically each time.
+5. Preserve `[BA]` and `[BA#]` prefixes **exactly as-is** — translate only the
+   text that follows them.
+6. Preserve business meaning over literal word-for-word translation.
+7. **DO NOT translate** these protected terms — keep them unchanged:
+   `API`, `ARIS`, `Ariba`, `BPMN`, `CEO`, `CFO`, `CHRO`, `CIO`, `CMMN`, `COO`, `CPO`, `CRM`, `CTO`, `Celonis`, `Concur`, `Confluence`, `DMN`, `ERP`, `Excel`, `Fieldglass`, `GitHub`, `GitLab`, `HR`, `IT`, `IdP`, `JSON`, `Jira`, `KPI`, `LDAP`, `LM`, `OKR`, `Outlook`, `PM`, `PowerPoint`, `REST`, `S/4HANA`, `SAP`, `SCIM`, `SLA`, `SSO`, `Salesforce`, `ServiceNow`, `SharePoint`, `Signavio`, `Slack`, `SuccessFactors`, `Teams`, `VP`, `Word`, `Workday`, `XML`, `[BA#]`, `[BA]`
+8. **DO NOT translate**: IDs, URLs, email addresses, codes, technical tokens,
+   or any value that looks like a system identifier.
+9. If a product or system name is not listed above but is clearly a proper noun,
+   keep it unchanged.
+
+## Model: IT Department
+Target language: French
+Total text elements to translate: 12
+
+### Pool / Model Title
+  (pool)  →  "IT Department"
+
+### Lanes
+  339810e3-379a-4490-8895-476ec59c62ca  →  "Business Analyst"
+  1da16395-c681-44a6-a26a-8fea708a22c2  →  "Process Expert"
+
+### Tasks
+  7e56561e-9e09-400e-8dec-e4abb2fdd8c0  →  "Document requirements in CRM"  [keep: CRM]
+  9cc78f70-d9c9-41ab-aad5-cdb87a1da4a1  →  "Identify business requirements"
+  4665b523-2172-401c-9385-3a0fbea6f49e  →  "Review documented requirements"
+  9491acf6-1d21-479d-ae4d-52535639450d  →  "Refine requirements with requester"
+
+### Gateways  (translate the decision question only if meaningful)
+  0a8b38d7-9553-421a-a7eb-2d5659ff127e  →  "Are clarifications needed on requirements?"
+
+### Events
+  77f2bb86-ee36-4242-92b2-27507f7194c6  →  "IT Project Started"  [keep: IT]
+  fd74402c-c110-46fb-8a84-bc4028d28d31  →  "Requirements Finalized"
+
+### Sequence Flow Labels  (short condition labels)
+  4ed50f82-6474-4f64-8334-41b2671a2671  →  "Clarifications needed"
+  28637a37-9eba-4fa7-b62a-e252ae18b66d  →  "Clarifications not needed"
+
+## Required Output Format
+
+Return **ONLY** a valid JSON object. Omit any section that has no entries.
+Do not include explanatory text before or after the JSON.
+
+```json
+{
+  "target_language": "French",
+  "source_language": "auto-detected",
+  "model_title": "...",
+  "lanes":    { "lane-id": "translated name", ... },
+  "tasks":    { "task-id": "translated name", ... },
+  "task_docs":{ "task-id": "translated documentation text", ... },
+  "gateways": { "gw-id":   "translated label", ... },
+  "events":   { "event-id":"translated name", ... },
+  "flows":    { "flow-id": "translated label", ... },
+  "annotations": { "annot-id": "translated text", ... }
+}
+```
+
+**Important notes:**
+- For `task_docs` and `annotations` that start with `[BA]`, keep the `[BA]`
+  prefix and translate the rest.
+- Keys are element IDs — copy them exactly from the list above.
+- Translate all tasks, even if no name change seems needed (e.g. proper nouns
+  should still appear in the `tasks` section with the same value).

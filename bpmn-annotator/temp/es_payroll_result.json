@@ -1,0 +1,30 @@
+{
+  "new_model_id": "d5d14c5a056a44768dcf960d3b9e21c6",
+  "dict_links_embedded": 12,
+  "en_map": {
+    "Align with source system administrator": "ba358846b5d5441ea3cd3f2707b4f125",
+    "Assess alert": "b09dfc77f606499f9b01c2bc3b763011",
+    "Check if data needs to be updated in source system": "1de9c63735f84b3abb686ac68edae4a0",
+    "Correct payroll-specific data": "09b565cd42aa4ebea67ed69fa02270b1",
+    "Provide comment and close alert": "b71e3b9c6a90418d848e9e7328427752",
+    "Does the alert require a data change?": "fce51f946eb74839bdf952a2af0f5448",
+    "Does the data need to be updated in the source system?": "f7e29fc7b314454bb2eb3f57086a1381",
+    "Start": "b9a1a18bdcb14b8a8adcd036114b1d94",
+    "End": "bb49b536d74a4101a2821fcd03ffbcc4"
+  },
+  "es_map": {
+    "Alinear con admin. del sistema fuente": "29a3e2d8c831404b8bfb8cc884fb830c",
+    "Evaluar alerta": "2a5a2acc50a2482cac89f6ab54574eb2",
+    "Verificar datos en sistema fuente": "eedd97f0307a42299b2bdb528675947c",
+    "Corregir datos de nómina": "73a271b61d6c497c9c9606d10ca62dba",
+    "Comentar y cerrar alerta": "e28e3f851da9446db8fed49a2caa1bc5",
+    "¿La alerta requiere cambio de datos?": "962918ef2087489b9de15df217703257",
+    "¿Hay que actualizar en el sistema fuente?": "4dce47bcab4d48fbaa020e042c6b92ca",
+    "Inicio": "84360bfde3e04338bdc3bddbe301b6e9",
+    "Fin": "87456970d0664859be397a2958e6d66a",
+    "Departamento de Nómina": "0de46c0ab6cb4835a5b7f54c582685b7",
+    "Agente de Nómina": "ade3eb79764e4f148fdbf0feb90cf02b",
+    "Alinear con jefe o empleado": "3651074c8d304589b0c8d42aec5da3a9"
+  },
+  "url": "https://editor.signavio.com/p/hub/model/d5d14c5a056a44768dcf960d3b9e21c6"
+}

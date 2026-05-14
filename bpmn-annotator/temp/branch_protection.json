@@ -1,0 +1,108 @@
+{
+  "name": "master",
+  "commit": {
+    "sha": "e6089e1aeee30745d94c66b4221dfb1656319c23",
+    "node_id": "MDY6Q29tbWl0NDk5MTYxOmU2MDg5ZTFhZWVlMzA3NDVkOTRjNjZiNDIyMWRmYjE2NTYzMTljMjM=",
+    "commit": {
+      "author": {
+        "name": "Abdelrahman Elfar",
+        "email": "abdelrahman.elfar@sap.com",
+        "date": "2026-05-04T13:19:39Z"
+      },
+      "committer": {
+        "name": "GitHub Enterprise",
+        "email": "noreply+ms@reply.github.tools.sap",
+        "date": "2026-05-04T13:19:39Z"
+      },
+      "message": "Merge pull request #131 from signavio-pm-agent/feature/value-statement-finder\n\nskills/value-statement-finder: Add new skill",
+      "tree": {
+        "sha": "68154effc57361ca07535d39c0cd7bc17a5d52be",
+        "url": "https://github.tools.sap/api/v3/repos/signavio-pm-agent/Signavio_PM_Agent/git/trees/68154effc57361ca07535d39c0cd7bc17a5d52be"
+      },
+      "url": "https://github.tools.sap/api/v3/repos/signavio-pm-agent/Signavio_PM_Agent/git/commits/e6089e1aeee30745d94c66b4221dfb1656319c23",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJp+JzrCRBEzbDUsj7F8gAAsToQABtj3rCdZsyKT2HGWCGhL4sF\nRgelbaLjRROohI7iZMmfLhwR3uODJTpcg0Q3oBjFwh5u4IkE5kcEdCMZ8WhnWB91\n+iYozegCOdiKqLzf9iLNxnVydV2L+0swTWe2o/XztdDbSQF2fJEHprnwUGdt7NA6\nu0v0pwdAlfzOhoBVfP//4mMaCoVOpnsbx80NNf5qfLy4oAnCLD4ZcDXZx5BMswwD\nUadgeSi3sDw0lEJwVYtdo8NVtLr/gueY0twZy3k121E7zsRfgfqzvGUv45Ewg+HC\nWjBPgPPqV6foFM9ajrMBy4PHwXwsVZBQooENiZi2e7giNnn2c0/7GDdUYti4fPyo\nVnK9gAWX+OAOcHQZfQzMmMPkeqnc65PXFYZT9dWzjiiIj/l5s2PF9BTanoCWbfqR\nr12WiqNLUgC01kX3WdXg7bKjqAKLyZLBqu11tayr6SUoCD9L4U779ZGggXCY8YRe\nxUlrc+GA7I8+NjsY93ngDLNju/M+n7eh4/RbFyJg34vf46Hblh7mb++iq4xmlD1v\nYg26ZROR8RdjoZXrqK4Bw1GOhFTa62YsVKzB5d1MzY8GotEENJqFHgypi1xbH2le\nyRA037BA0zIthuITChBFS21bKr34Eck2ncVM3ssbOKaqF/KIKk6a8ftCOzPtC4zS\nsa4zO/ExhETbCXl7vDWE\n=yAd+\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 68154effc57361ca07535d39c0cd7bc17a5d52be\nparent 7b09e5d6ba65b305c150d654af4cfe3ef6f98a05\nparent 07d058a96a78c675599f1ee150aafe314ab6404d\nauthor Abdelrahman Elfar <abdelrahman.elfar@sap.com> 1777900779 +0200\ncommitter GitHub Enterprise <noreply+ms@reply.github.tools.sap> 1777900779 +0200\n\nMerge pull request #131 from signavio-pm-agent/feature/value-statement-finder\n\nskills/value-statement-finder: Add new skill",
+        "verified_at": "2026-05-05T09:14:08Z"
+      }
+    },
+    "url": "https://github.tools.sap/api/v3/repos/signavio-pm-agent/Signavio_PM_Agent/commits/e6089e1aeee30745d94c66b4221dfb1656319c23",
+    "html_url": "https://github.tools.sap/signavio-pm-agent/Signavio_PM_Agent/commit/e6089e1aeee30745d94c66b4221dfb1656319c23",
+    "comments_url": "https://github.tools.sap/api/v3/repos/signavio-pm-agent/Signavio_PM_Agent/commits/e6089e1aeee30745d94c66b4221dfb1656319c23/comments",
+    "author": {
+      "login": "I533792",
+      "id": 21676,
+      "node_id": "MDQ6VXNlcjIxNjc2",
+      "avatar_url": "https://avatars.github.tools.sap/u/21676?",
+      "gravatar_id": "",
+      "url": "https://github.tools.sap/api/v3/users/I533792",
+      "html_url": "https://github.tools.sap/I533792",
+      "followers_url": "https://github.tools.sap/api/v3/users/I533792/followers",
+      "following_url": "https://github.tools.sap/api/v3/users/I533792/following{/other_user}",
+      "gists_url": "https://github.tools.sap/api/v3/users/I533792/gists{/gist_id}",
+      "starred_url": "https://github.tools.sap/api/v3/users/I533792/starred{/owner}{/repo}",
+      "subscriptions_url": "https://github.tools.sap/api/v3/users/I533792/subscriptions",
+      "organizations_url": "https://github.tools.sap/api/v3/users/I533792/orgs",
+      "repos_url": "https://github.tools.sap/api/v3/users/I533792/repos",
+      "events_url": "https://github.tools.sap/api/v3/users/I533792/events{/privacy}",
+      "received_events_url": "https://github.tools.sap/api/v3/users/I533792/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow-serviceuser",
+      "id": 92922,
+      "node_id": "MDQ6VXNlcjkyOTIy",
+      "avatar_url": "https://avatars.github.tools.sap/u/92922?",
+      "gravatar_id": "",
+      "url": "https://github.tools.sap/api/v3/users/web-flow-serviceuser",
+      "html_url": "https://github.tools.sap/web-flow-serviceuser",
+      "followers_url": "https://github.tools.sap/api/v3/users/web-flow-serviceuser/followers",
+      "following_url": "https://github.tools.sap/api/v3/users/web-flow-serviceuser/following{/other_user}",
+      "gists_url": "https://github.tools.sap/api/v3/users/web-flow-serviceuser/gists{/gist_id}",
+      "starred_url": "https://github.tools.sap/api/v3/users/web-flow-serviceuser/starred{/owner}{/repo}",
+      "subscriptions_url": "https://github.tools.sap/api/v3/users/web-flow-serviceuser/subscriptions",
+      "organizations_url": "https://github.tools.sap/api/v3/users/web-flow-serviceuser/orgs",
+      "repos_url": "https://github.tools.sap/api/v3/users/web-flow-serviceuser/repos",
+      "events_url": "https://github.tools.sap/api/v3/users/web-flow-serviceuser/events{/privacy}",
+      "received_events_url": "https://github.tools.sap/api/v3/users/web-flow-serviceuser/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7b09e5d6ba65b305c150d654af4cfe3ef6f98a05",
+        "url": "https://github.tools.sap/api/v3/repos/signavio-pm-agent/Signavio_PM_Agent/commits/7b09e5d6ba65b305c150d654af4cfe3ef6f98a05",
+        "html_url": "https://github.tools.sap/signavio-pm-agent/Signavio_PM_Agent/commit/7b09e5d6ba65b305c150d654af4cfe3ef6f98a05"
+      },
+      {
+        "sha": "07d058a96a78c675599f1ee150aafe314ab6404d",
+        "url": "https://github.tools.sap/api/v3/repos/signavio-pm-agent/Signavio_PM_Agent/commits/07d058a96a78c675599f1ee150aafe314ab6404d",
+        "html_url": "https://github.tools.sap/signavio-pm-agent/Signavio_PM_Agent/commit/07d058a96a78c675599f1ee150aafe314ab6404d"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://github.tools.sap/api/v3/repos/signavio-pm-agent/Signavio_PM_Agent/branches/master",
+    "html": "https://github.tools.sap/signavio-pm-agent/Signavio_PM_Agent/tree/master"
+  },
+  "protected": true,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ],
+      "checks": [
+
+      ]
+    }
+  },
+  "protection_url": "https://github.tools.sap/api/v3/repos/signavio-pm-agent/Signavio_PM_Agent/branches/master/protection"
+}

@@ -1,0 +1,39 @@
+
+=== FEATURES ===
+  [NOW  ] [Process Guardians   ] [100 %] [May 2026      ] Addition of variants and templates to the dictionary’s 
+  [NEXT ] [Process Guardians   ] [50 %] [June 2026     ] Process owner attribute: Assign users as process owners
+  [NEXT ] [Process Guardians   ] [50 %] [June 2026     ] Stable reference content ID in Signavio Diagrams
+  [LATER] [Process Guardians   ] [    ] [—             ] Advanced Approval Framework for Variant Management
+  [LATER] [Process Guardians   ] [10 %] [—             ] Notifications to the template process owner that change
+  [LATER] [Process Guardians   ] [    ] [—             ] Search field for quick diagram selection in subprocess 
+  [LATER] [Process Guardians   ] [10 %] [—             ] Variant Management Reporting
+  [NOW  ] [The Sims            ] [90 %] [May 2026      ] Activity Log for Attribute Changes (for Suite Repo nati
+  [NOW  ] [Dictionary          ] [    ] [—             ] New Internal APIs for Bulk Creation of Dictionary entri
+  [NOW  ] [The Sims            ] [50 %] [—             ] Relationship Overview for Process Diagrams
+  [NOW  ] [The Sims            ] [50 %] [—             ] Relationship Overview for Transformation Manager Object
+  [NEXT ] [Dictionary          ] [40 %] [June 2026     ] Suite Attributes - Reuse attributes across across asset
+  [LATER] [Dictionary          ] [10 %] [—             ] Onboard Dictionary in Suite Repository
+  [LATER] [Dictionary          ] [10 %] [—             ] Onboard NGM for Suite Attributes
+  [LATER] [The Sims            ] [10 %] [—             ] Process Documentation: New Templates Editor (1st increm
+  [LATER] [The Sims            ] [    ] [—             ] Simulation Joule Enhancement: Linking to the Simulation
+  [LATER] [Dictionary          ] [70 %] [—             ] Suite Repo - Enable Multi Language Support for Attribut
+  [LATER] [Dictionary          ] [20 %] [—             ] Suite Repo - Introduce Rich Text Editor in Attributes
+  [LATER] [Dictionary          ] [20 %] [—             ] Suite Repo - NGM Shape (Sub element) level attributes
+  [LATER] [Dictionary          ] [50 %] [—             ] Support Attribute Type Duration
+  [LATER] [Dictionary          ] [50 %] [—             ] Support Document Upload in Asset Link
+  [NOW  ] [Process Vanguards   ] [60 %] [December 2025 ] AI Assisted Modeling - Auto Suggestion
+  [NOW  ] [Process Vanguards   ] [80 %] [February 2026 ] AI-assisted, Modeler Canvas Assistant (Auto Suggestion 
+  [NOW  ] [Process Vanguards   ] [10 %] [May 2026      ] Admin-defined default formats
+  [NOW  ] [Process Vanguards   ] [100 %] [May 2026      ] New Process Modeler (Beta)
+  [NOW  ] [Process Vanguards   ] [80 %] [April 2026    ] Shapes Modernization
+  [NOW  ] [Process Vanguards   ] [80 %] [December 2025 ] Text to Process Integration
+  [NEXT ] [Process Pioneers    ] [    ] [—             ] New Process Modeler (GA)
+  [LATER] [Process Vanguards   ] [70 %] [—             ] Admin Settings : Configuring and managing the subsets (
+  [LATER] [Process Pioneers    ] [    ] [—             ] Diagram duplication
+  [LATER] [Process Vanguards   ] [    ] [—             ] Diagram sharing
+  [LATER] [Process Pioneers    ] [    ] [—             ] Skip folder pop-up in the beginning of creation flow
+  [LATER] [Process Pioneers    ] [50 %] [—             ] View and edit modes
+
+Total: 33
+Features with insights: 21
+Total MXG insights (non-SAP, non-archived): 100

@@ -1,0 +1,30 @@
+{
+  "target_language": "Spanish",
+  "source_language": "English",
+  "model_title": "Departamento de Nómina",
+  "lanes": {
+    "5cd08e2f-8059-4a06-88f4-7faaca1a5c43": "Agente de Nómina"
+  },
+  "tasks": {
+    "de4270d8-dd39-489a-9e4c-22f82a464ae8": "Alinear con jefe o empleado",
+    "5f716c76-3505-4051-8aba-ba28dd7244a0": "Alinear con admin. del sistema fuente",
+    "d4b07083-7833-4cf6-acf6-1428588faceb": "Evaluar alerta",
+    "0f0c237b-03ab-4946-a72f-78bf1f443387": "Verificar datos en sistema fuente",
+    "17231d79-59a3-433f-b1c7-ebba105b08f4": "Corregir datos de nómina",
+    "ea0e65f6-b6ad-4f0f-a4aa-46b48048a248": "Comentar y cerrar alerta"
+  },
+  "gateways": {
+    "978912a2-ef39-4d44-8cab-be053d65292e": "¿La alerta requiere cambio de datos?",
+    "10d5ffd0-5ab6-4e35-9da7-4c4468162113": "¿Hay que actualizar en el sistema fuente?"
+  },
+  "events": {
+    "9ccbea19-26a8-43dd-90d8-c05dbede7b8d": "Inicio",
+    "c49deadb-4bea-4404-84db-7944b2283c3c": "Fin"
+  },
+  "flows": {
+    "79e2313f-af39-4728-85e9-05048223c3e2": "No",
+    "54604d2f-0cbd-480f-9b45-fe5936c22846": "Sí",
+    "24a06672-1687-4679-872e-18a23bd78323": "Sí",
+    "b7b11b5f-4df9-43dc-b851-03c6d2eb671d": "No"
+  }
+}

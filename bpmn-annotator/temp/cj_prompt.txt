@@ -1,0 +1,103 @@
+You are a BPMN documentation expert. Generate structured documentation for this process.
+
+Based ONLY on what the model contains — do not invent steps, systems, or roles.
+
+PROCESS: SAP Signavio Customer Journey
+
+LANES AND TASKS:
+  Lane 'Customer / Prospect' (id=sid-054475a78b3740fd8f1f6cd120a8): tasks=['Research process management solutions', 'Explore trial & attend workshops', 'Review & sign contract', 'Build enterprise process library'], gateways=['Proceed to purchase?']
+  Lane 'Sales & Pre-Sales' (id=sid-2b42258791ec44ccb62ba6961a26): tasks=['Qualify inbound lead', 'Conduct product demo & POC', 'Prepare & send custom proposal', 'Upsell additional licenses & modules'], gateways=[]
+  Lane 'Signavio Platform' (id=sid-455726e7c3f84f4cb59763565249): tasks=['Provision trial environment', 'Provision production tenant', 'Send automated onboarding emails'], gateways=[]
+  Lane 'Customer Success' (id=sid-d648e7e88b4e45958e3826394c0f): tasks=['Run project kickoff meeting', 'Deliver enablement training sessions', 'Conduct quarterly business review'], gateways=[]
+
+TASK LIST (use these exact IDs as keys):
+  id=sid-a6a0a0abeada44e1b42c176d9e2d | name='Research process management solutions' | lane='Customer / Prospect'
+  id=sid-86dd197362324d87b253e4776b1e | name='Explore trial & attend workshops' | lane='Customer / Prospect'
+  id=sid-cbd3c119a7a84b2ebdd085ccf0fc | name='Review & sign contract' | lane='Customer / Prospect'
+  id=sid-9511208b9bda42409fe272c085e8 | name='Build enterprise process library' | lane='Customer / Prospect'
+  id=sid-b359be19ef964672a0cfaf2c9622 | name='Qualify inbound lead' | lane='Sales & Pre-Sales'
+  id=sid-9a3d54009af64a9b8536a0a5669c | name='Conduct product demo & POC' | lane='Sales & Pre-Sales'
+  id=sid-e9e0bf0da8244541b98fc1fb2480 | name='Prepare & send custom proposal' | lane='Sales & Pre-Sales'
+  id=sid-a2e3adca2da244ba8610e7050e4d | name='Upsell additional licenses & modules' | lane='Sales & Pre-Sales'
+  id=sid-8d60cf774675481eb94b045aa93b | name='Provision trial environment' | lane='Signavio Platform'
+  id=sid-5b5351a76ae24a1588abf393b58f | name='Provision production tenant' | lane='Signavio Platform'
+  id=sid-5f220bdea1e1410c89eb85595485 | name='Send automated onboarding emails' | lane='Signavio Platform'
+  id=sid-0a94f2c787c245519d487db669b8 | name='Run project kickoff meeting' | lane='Customer Success'
+  id=sid-73cbee3b64dc4b87ba563e6dee4e | name='Deliver enablement training sessions' | lane='Customer Success'
+  id=sid-b0015b6d80d94bc4ab22d5291e0a | name='Conduct quarterly business review' | lane='Customer Success'
+
+GATEWAYS:
+  Exclusive_Databased_Gateway 'Proceed to purchase?' (id=sid-2382b60d46c74a5c9abf1b83c913, lane=Customer / Prospect)
+
+EVENTS: StartNoneEvent 'Customer identifies need' (lane: Customer / Prospect), EndNoneEvent 'Customer achieves process excellence' (lane: Customer / Prospect)
+
+EXISTING HUMAN DOCUMENTATION (preserve — do not overwrite):
+  (none)
+
+OUTPUT — return a single JSON object with these exact keys:
+
+{
+  "task_docs": {
+    "<task_id>": "<documentation text>"
+  },
+  "lane_summaries": {
+    "<lane_id>": "<summary text>"
+  },
+  "gateway_texts": {
+    "<gateway_id>": "<one-line routing explanation>"
+  },
+  "impact_analysis": "<full impact analysis table as a single string>",
+  "phase_headers": [
+    {"label": "<phase name>", "ref_task_id": "<first task id in phase>"}
+  ]
+}
+
+FORMATTING RULES:
+
+1. Prefix ALL generated values with [BA] on its own first line.
+
+2. Task documentation (max 8 lines):
+   [BA]
+   Description: <what this task does, 1-2 sentences>
+   Purpose:     <why it matters in the process>
+   Inputs:      <what comes in>
+   Outputs:     <what is produced or decided>
+   Responsible: <lane name>
+   Systems:     <only systems explicitly in the task label — else "(inferred)">
+   Risks:       <only if clearly implied by the task name or context>
+
+3. Lane summary (max 10 lines):
+   [BA] <LANE NAME>
+   ══════════════════════════════
+    Tasks    <count> (<first task name> to <last task name>)
+    Systems  <only if a system name appears in a task label>
+    Output   <main deliverable of this lane>
+    Role     <brief role description>
+   ══════════════════════════════
+   <2-line narrative about what this lane contributes to the process>
+
+4. Impact analysis — use this exact table structure:
+   [BA] IMPACT ANALYSIS  ·  <process title>
+   ══════════════════════════════════════════════════════════════
+    IT System              Affected Tasks                   Risk
+   ──────────────────────────────────────────────────────────────
+    <system>               <task names>              HIGH/MED/LOW
+   ══════════════════════════════════════════════════════════════
+    Role / Dept            Owns                         Tasks
+   ──────────────────────────────────────────────────────────────
+    <lane name>            <task names>                  <count>
+   ══════════════════════════════════════════════════════════════
+    RISK STATEMENT
+    HIGH  <highest-risk scenario>
+    MED   <medium-risk scenario>
+   ══════════════════════════════════════════════════════════════
+   If no IT systems are explicitly named, write "(none identified from model labels)"
+
+5. Gateway texts — ONE LINE per gateway:
+   [BA] <What condition does this gateway evaluate? e.g. "Approved? Yes -> next / No -> rework">
+
+6. Phase headers — only if there are clear logical phases (e.g. Preparation / Execution / Closure).
+   Return [] if the process is linear without distinct business phases.
+
+7. Do NOT invent anything — mark inferences with "(inferred)".
+8. If an existing_doc is present (non-BA), include it unchanged as the task_doc value.

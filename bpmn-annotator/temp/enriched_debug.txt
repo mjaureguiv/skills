@@ -1,0 +1,39 @@
+
+=== ROADMAP FEATURES ===
+  [DONE ] [Legacy Process Manager] [90 %  ] [March 2026    ] AI-assisted variant detection [Beta in LabSpace]
+  [DONE ] [Legacy Process Manager] [100 % ] [February 2026 ] Enhance the Decision Table View in Collaboration H
+  [DONE ] [Legacy Process Manager] [100 % ] [January 2026  ] Folder-based Navigation in Variant Management Cent
+  [DONE ] [Legacy Process Manager] [100 % ] [February 2026 ] Search and filter for dimensions and values in the
+  [NOW  ] [Legacy Process Manager] [100 % ] [May 2026      ] Addition of variants and templates to the dictiona
+  [NOW  ] [Legacy Process Manager] [50 %  ] [June 2026     ] Process owner attribute: Assign users as process o
+  [NOW  ] [Legacy Process Manager] [50 %  ] [June 2026     ] Stable reference content ID in Signavio Diagrams
+  [LATER] [Legacy Process Manager] [      ] [August 2026   ] Advanced Approval Framework for Variant Management
+  [LATER] [Legacy Process Manager] [10 %  ] [July 2026     ] Notifications to the template process owner that c
+  [LATER] [Legacy Process Manager] [10 %  ] [July 2026     ] Variant Management Reporting
+  [DONE ] [Suite Repository      ] [100 % ] [February 2026 ] (Joule) AI-assisted BPMN simulation result summary
+  [DONE ] [Suite Repository      ] [100 % ] [February 2026 ] Suite Attributes - Introduce mandatory attributes
+  [NOW  ] [Suite Repository      ] [90 %  ] [May 2026      ] Activity Log for Attribute Changes (for Suite Repo
+  [NOW  ] [Suite Repository      ] [70 %  ] [June 2026     ] Suite Attributes - Reuse attributes across across 
+  [LATER] [Suite Repository      ] [      ] [August 2026   ] New Internal APIs for Bulk Creation of Dictionary 
+  [LATER] [Suite Repository      ] [10 %  ] [October 2026  ] Onboard Dictionary in Suite Repository
+  [LATER] [Suite Repository      ] [10 %  ] [December 2026 ] Onboard NGM for Suite Attributes
+  [LATER] [Suite Repository      ] [50 %  ] [July 2026     ] Relationship Overview for Process Diagrams
+  [LATER] [Suite Repository      ] [50 %  ] [July 2026     ] Relationship Overview for Transformation Manager O
+  [LATER] [Suite Repository      ] [70 %  ] [October 2026  ] Suite Repo - Enable Multi Language Support for Att
+  [LATER] [Suite Repository      ] [20 %  ] [November 2026 ] Suite Repo - NGM Shape (Sub element) level attribu
+  [LATER] [Suite Repository      ] [10 %  ] [September 2026] Suite Repo - Support Attribute Type Risk Managemen
+  [LATER] [Suite Repository      ] [10 %  ] [August 2026   ] Suite Repo - Support Attribute Type Table
+  [NOW  ] [Process Modeler       ] [10 %  ] [May 2026      ] Admin-defined default formats
+  [NOW  ] [Process Modeler       ] [100 % ] [May 2026      ] New Process Modeler (Beta)
+  [NOW  ] [Process Modeler       ] [80 %  ] [April 2026    ] Shapes Modernization
+  [LATER] [Process Modeler       ] [60 %  ] [December 2026 ] AI Assisted Modeling - Auto Suggestion
+  [LATER] [Process Modeler       ] [      ] [November 2026 ] Diagram sharing
+  [LATER] [Process Modeler       ] [      ] [November 2026 ] ED-1200-05: AI assisted service to propse dictiona
+  [LATER] [Process Modeler       ] [      ] [December 2026 ] PINS integration
+  [LATER] [Process Modeler       ] [      ] [November 2026 ] Skip folder pop-up in the beginning of creation fl
+  [LATER] [Process Modeler       ] [80 %  ] [December 2026 ] Text to Process Integration
+  [LATER] [Process Modeler       ] [50 %  ] [December 2026 ] View and edit modes
+
+Total roadmap: 33
+Features with insights: 61
+Total insights: 275

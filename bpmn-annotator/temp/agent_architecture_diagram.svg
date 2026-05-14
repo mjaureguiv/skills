@@ -1,0 +1,194 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="730" viewBox="0 0 620 730">
+
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#555555"/>
+    </marker>
+  </defs>
+
+  <!-- Background -->
+  <rect width="620" height="730" fill="#ffffff"/>
+
+  <!-- ═══════════════════════════════════════════════
+       USER BOX
+  ════════════════════════════════════════════════ -->
+  <rect x="60" y="24" width="500" height="66" rx="6" ry="6"
+        fill="#f0f0f0" stroke="#333333" stroke-width="1.5"/>
+  <text x="310" y="47"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="12.5" font-weight="bold" fill="#111111">
+    USER (Process Manager)
+  </text>
+  <text x="310" y="67"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="10.5" fill="#555555">
+    provides: model URL  ·  target language  ·  intent
+  </text>
+
+  <!-- Arrow 1 -->
+  <line x1="310" y1="90" x2="310" y2="130"
+        stroke="#666666" stroke-width="1.5" marker-end="url(#arrowhead)"/>
+
+  <!-- ═══════════════════════════════════════════════
+       PERCEPTION BOX
+  ════════════════════════════════════════════════ -->
+  <rect x="60" y="132" width="500" height="80" rx="6" ry="6"
+        fill="#ffffff" stroke="#444444" stroke-width="1.5"/>
+  <text x="310" y="154"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="12.5" font-weight="bold" fill="#111111" letter-spacing="1">
+    PERCEPTION
+  </text>
+  <line x1="85" y1="161" x2="535" y2="161" stroke="#e0e0e0" stroke-width="0.8"/>
+  <text x="310" y="178"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="10.5" fill="#444444">
+    GET /model/{id}/json
+  </text>
+  <text x="310" y="198"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="10.5" fill="#444444">
+    Parse:  pools  ·  lanes  ·  tasks  ·  gateways  ·  events  ·  flows
+  </text>
+
+  <!-- Arrow 2 with label -->
+  <line x1="310" y1="212" x2="310" y2="262"
+        stroke="#666666" stroke-width="1.5" marker-end="url(#arrowhead)"/>
+  <text x="318" y="241"
+        text-anchor="start"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="9" font-style="italic" fill="#888888">
+    structured process model representation
+  </text>
+
+  <!-- ═══════════════════════════════════════════════
+       REASONING BOX
+  ════════════════════════════════════════════════ -->
+  <rect x="60" y="264" width="500" height="136" rx="6" ry="6"
+        fill="#ffffff" stroke="#444444" stroke-width="1.5"/>
+  <text x="310" y="286"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="12.5" font-weight="bold" fill="#111111" letter-spacing="1">
+    REASONING
+  </text>
+  <line x1="85" y1="293" x2="535" y2="293" stroke="#e0e0e0" stroke-width="0.8"/>
+  <text x="310" y="312"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="10.5" font-style="italic" fill="#666666">
+    LLM (Claude)
+  </text>
+  <text x="207" y="332"
+        text-anchor="start"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="10.5" fill="#444444">
+    ·  Translate element names
+  </text>
+  <text x="207" y="351"
+        text-anchor="start"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="10.5" fill="#444444">
+    ·  Generate task documentation
+  </text>
+  <text x="207" y="370"
+        text-anchor="start"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="10.5" fill="#444444">
+    ·  Create impact analysis
+  </text>
+  <text x="207" y="389"
+        text-anchor="start"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="10.5" fill="#444444">
+    ·  Explain gateway routing
+  </text>
+
+  <!-- Arrow 3 with label -->
+  <line x1="310" y1="400" x2="310" y2="448"
+        stroke="#666666" stroke-width="1.5" marker-end="url(#arrowhead)"/>
+  <text x="318" y="429"
+        text-anchor="start"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="9" font-style="italic" fill="#888888">
+    structured JSON output
+  </text>
+
+  <!-- ═══════════════════════════════════════════════
+       ACTION BOX
+  ════════════════════════════════════════════════ -->
+  <rect x="60" y="450" width="500" height="95" rx="6" ry="6"
+        fill="#ffffff" stroke="#444444" stroke-width="1.5"/>
+  <text x="310" y="472"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="12.5" font-weight="bold" fill="#111111" letter-spacing="1">
+    ACTION
+  </text>
+  <line x1="85" y1="479" x2="535" y2="479" stroke="#e0e0e0" stroke-width="0.8"/>
+  <text x="310" y="498"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="10.5" fill="#444444">
+    PUT /model/{id}  ·  SAP Signavio Process Manager
+  </text>
+  <text x="310" y="518"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="10.5" fill="#444444">
+    POST /glossary  ·  Dictionary
+  </text>
+  <text x="310" y="537"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="10.5" fill="#444444">
+    POST /publish  ·  Collaboration Hub
+  </text>
+
+  <!-- Arrow 4 -->
+  <line x1="310" y1="545" x2="310" y2="582"
+        stroke="#666666" stroke-width="1.5" marker-end="url(#arrowhead)"/>
+
+  <!-- ═══════════════════════════════════════════════
+       GOVERNANCE BOX  (dashed — cross-tier overlay)
+  ════════════════════════════════════════════════ -->
+  <rect x="60" y="584" width="500" height="116" rx="6" ry="6"
+        fill="#f7f7f7" stroke="#666666" stroke-width="1.5" stroke-dasharray="7,3"/>
+  <text x="310" y="607"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="12.5" font-weight="bold" fill="#111111" letter-spacing="1">
+    GOVERNANCE LAYER
+  </text>
+  <text x="310" y="623"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="9.5" font-style="italic" fill="#888888">
+    (cross-tier)
+  </text>
+  <line x1="85" y1="629" x2="535" y2="629" stroke="#d8d8d8" stroke-width="0.8"/>
+  <text x="310" y="648"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="10.5" fill="#444444">
+    ·  [BA] content marking
+  </text>
+  <text x="310" y="667"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="10.5" fill="#444444">
+    ·  dry-run / human review gate
+  </text>
+  <text x="310" y="686"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="10.5" fill="#444444">
+    ·  BPMN structural constraints
+  </text>
+
+</svg>

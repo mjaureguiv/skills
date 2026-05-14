@@ -1,0 +1,26 @@
+{
+  "target_language": "French",
+  "source_language": "English",
+  "model_title": "Service IT",
+  "lanes": {
+    "339810e3-379a-4490-8895-476ec59c62ca": "Analyste Métier",
+    "1da16395-c681-44a6-a26a-8fea708a22c2": "Expert Processus"
+  },
+  "tasks": {
+    "7e56561e-9e09-400e-8dec-e4abb2fdd8c0": "Documenter les exigences dans CRM",
+    "9cc78f70-d9c9-41ab-aad5-cdb87a1da4a1": "Identifier les exigences métier",
+    "4665b523-2172-401c-9385-3a0fbea6f49e": "Réviser les exigences documentées",
+    "9491acf6-1d21-479d-ae4d-52535639450d": "Affiner les exigences avec le demandeur"
+  },
+  "gateways": {
+    "0a8b38d7-9553-421a-a7eb-2d5659ff127e": "Des clarifications sont-elles nécessaires ?"
+  },
+  "events": {
+    "77f2bb86-ee36-4242-92b2-27507f7194c6": "Projet IT démarré",
+    "fd74402c-c110-46fb-8a84-bc4028d28d31": "Exigences finalisées"
+  },
+  "flows": {
+    "4ed50f82-6474-4f64-8334-41b2671a2671": "Clarifications nécessaires",
+    "28637a37-9eba-4fa7-b62a-e252ae18b66d": "Pas de clarifications"
+  }
+}

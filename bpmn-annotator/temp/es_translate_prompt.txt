@@ -1,0 +1,77 @@
+You are translating a BPMN process model into **Spanish**.
+
+## Translation Rules
+
+1. Use professional business process language.
+2. Keep task names SHORT (≤ 40 characters). Use **Verb + Object** format.
+3. Keep terminology CONSISTENT — translate each term the same way throughout.
+4. Create a mental terminology dictionary and reuse it: if a term appears multiple
+   times, translate it identically each time.
+5. Preserve `[BA]` and `[BA#]` prefixes **exactly as-is** — translate only the
+   text that follows them.
+6. Preserve business meaning over literal word-for-word translation.
+7. **DO NOT translate** these protected terms — keep them unchanged:
+   `API`, `ARIS`, `Ariba`, `BPMN`, `CEO`, `CFO`, `CHRO`, `CIO`, `CMMN`, `COO`, `CPO`, `CRM`, `CTO`, `Celonis`, `Concur`, `Confluence`, `DMN`, `ERP`, `Excel`, `Fieldglass`, `GitHub`, `GitLab`, `HR`, `IT`, `IdP`, `JSON`, `Jira`, `KPI`, `LDAP`, `LM`, `OKR`, `Outlook`, `PM`, `PowerPoint`, `REST`, `S/4HANA`, `SAP`, `SCIM`, `SLA`, `SSO`, `Salesforce`, `ServiceNow`, `SharePoint`, `Signavio`, `Slack`, `SuccessFactors`, `Teams`, `VP`, `Word`, `Workday`, `XML`, `[BA#]`, `[BA]`
+8. **DO NOT translate**: IDs, URLs, email addresses, codes, technical tokens,
+   or any value that looks like a system identifier.
+9. If a product or system name is not listed above but is clearly a proper noun,
+   keep it unchanged.
+
+## Model: Payroll Department
+Target language: Spanish
+Total text elements to translate: 16
+
+### Pool / Model Title
+  (pool)  →  "Payroll Department"
+
+### Lanes
+  5cd08e2f-8059-4a06-88f4-7faaca1a5c43  →  "Payroll Agent"
+
+### Tasks
+  de4270d8-dd39-489a-9e4c-22f82a464ae8  →  "Align with line manager or employee"
+  5f716c76-3505-4051-8aba-ba28dd7244a0  →  "Align with source system administrator"
+  d4b07083-7833-4cf6-acf6-1428588faceb  →  "Assess alert"
+  0f0c237b-03ab-4946-a72f-78bf1f443387  →  "Check if data needs to be updated in source system"
+  17231d79-59a3-433f-b1c7-ebba105b08f4  →  "Correct payroll-specific data"
+  ea0e65f6-b6ad-4f0f-a4aa-46b48048a248  →  "Provide comment and close alert"
+
+### Gateways  (translate the decision question only if meaningful)
+  978912a2-ef39-4d44-8cab-be053d65292e  →  "Does the alert require a data change?"
+  10d5ffd0-5ab6-4e35-9da7-4c4468162113  →  "Does the data need to be updated in the source system?"
+
+### Events
+  c49deadb-4bea-4404-84db-7944b2283c3c  →  "End"
+  9ccbea19-26a8-43dd-90d8-c05dbede7b8d  →  "Start"
+
+### Sequence Flow Labels  (short condition labels)
+  79e2313f-af39-4728-85e9-05048223c3e2  →  "No"
+  54604d2f-0cbd-480f-9b45-fe5936c22846  →  "Yes"
+  24a06672-1687-4679-872e-18a23bd78323  →  "Yes"
+  b7b11b5f-4df9-43dc-b851-03c6d2eb671d  →  "No"
+
+## Required Output Format
+
+Return **ONLY** a valid JSON object. Omit any section that has no entries.
+Do not include explanatory text before or after the JSON.
+
+```json
+{
+  "target_language": "Spanish",
+  "source_language": "auto-detected",
+  "model_title": "...",
+  "lanes":    { "lane-id": "translated name", ... },
+  "tasks":    { "task-id": "translated name", ... },
+  "task_docs":{ "task-id": "translated documentation text", ... },
+  "gateways": { "gw-id":   "translated label", ... },
+  "events":   { "event-id":"translated name", ... },
+  "flows":    { "flow-id": "translated label", ... },
+  "annotations": { "annot-id": "translated text", ... }
+}
+```
+
+**Important notes:**
+- For `task_docs` and `annotations` that start with `[BA]`, keep the `[BA]`
+  prefix and translate the rest.
+- Keys are element IDs — copy them exactly from the list above.
+- Translate all tasks, even if no name change seems needed (e.g. proper nouns
+  should still appear in the `tasks` section with the same value).
