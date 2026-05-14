@@ -1,0 +1,17 @@
+=== DTO Demo URLs ===
+
+DTO Demo URLs
+EMAIL: Release of the DTO Demo package
+DATE: THU 06/03/2025
+Team,
+I am pleased to announce that the DTO demo which was originally built for the Sparx and potentially for the Gartner briefing, is now available.
+Here are the links:
+DTO - Demonstration Landing Page (*)
+DTO - Demo Recording  (**)
+DTO - Click-through demo with player
+DTO - Click-through demo without player
+DTO - Demo Script
+The last page of the demo includes links, a QR code and a button to launch the demo.
+Please note that the demo is also accessible via the SAP Signavio - Demo and Innovation Team - Demo Highlights .
+@Buecheler, Sebastian Would it be possible to pass the baton to your team to handle the communication and the publishing in Content Discovery please?
+Thanks JP

@@ -1,0 +1,807 @@
+# 2025 QKS SPARK Matrix RFI - SAP Responses
+# Products: SAP Signavio, SAP LeanIX, WalkMe
+# Source: 2025_SAP_QKS_RFI_Digital Twin of an Organisation_FINAL.xlsx
+#
+# Column Structure:
+#   Col0 = Section header | Col1 = Category | Col2 = Question | Col3 = ANSWER | Col4-5 = Remarks/Roadmap
+====================================================================================================
+
+SHEET: General Questions
+====================================================================================================
+
+### ROW 0: SPARK Matrix: Digital Twin of an Organization, 2025
+
+### ROW 2: Nipuna M
+**ANSWER:** Nikhilesh Naik
+
+### ROW 3: nipunam@qksgroup.com
+**ANSWER:** nikhileshn@qksgroup.com
+
+### ROW 8: Company Name
+**ANSWER:** SAP
+
+### ROW 9: Product Name/Version Getting Evaluated
+**ANSWER:** SAP Signavio, SAP LeanIX and WalkMe
+
+
+## SECTION: 1. REVENUE DETAILS
+
+### ROW 14: 1a. Overall > 2024
+**ANSWER:** SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 15: 1a. Overall > Growth from 2023
+**ANSWER:** SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 16: 1a. Overall > Projected Growth 2025
+**ANSWER:** SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 18: 1b. For the product > 2024
+**ANSWER:** SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 19: 1b. For the product > Growth from 2023
+**ANSWER:** SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 20: 1b. For the product > Projected Growth 2025
+**ANSWER:** SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 22: 1c. By Geography
+**ANSWER:** SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 23: 1c. By Geography > EMEA
+**ANSWER:** SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 24: 1c. By Geography > JAPAC
+**ANSWER:** SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 25: 1c. By Geography > Other
+**ANSWER:** SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 27: 1d. By Company Size > SMB
+**ANSWER:** SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 28: 1d. By Company Size > Mid-Market
+**ANSWER:** SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 29: 1d. By Company Size > Large
+**ANSWER:** SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 30: 1d. By Company Size > Enterprise
+**ANSWER:** SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 32: 1e. By Deployment Model > On-Premise
+**ANSWER:** NA
+
+### ROW 33: 1e. By Deployment Model > Cloud
+**ANSWER:** 1
+
+
+## SECTION: 2. CUSTOMER DETAILS FOR ESM
+
+### ROW 37: 2a. Number of Customers > Total Number of Customers using DTO
+**ANSWER:** SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 38: 2a. Number of Customers > Total Number of New Customers acquired in 2024
+**ANSWER:** SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 40: 2b.  By Company Size > SMB (0-$50mn)
+**ANSWER:** SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 41: 2b.  By Company Size > Mid-Market ($51-$200mn)
+**ANSWER:** SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 42: 2b.  By Company Size > Large (($201-$500mn))
+**ANSWER:** SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 43: 2b.  By Company Size > Enterprise ($501 and above)
+**ANSWER:** SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 45: 2c. Top Customers > Please provide the names of your top 5 customers for the solution
+**ANSWER:** NTT
+
+
+## SECTION: 3. INDUSTRY PRESENCE
+
+### ROW 55: 3. What are the top industry verticals from your existing customer base? (Rankings on a scale of 1 - 10, where 1=highest, 10=lowest) > Ranking (1-10)
+**ANSWER:** Top Use Cases
+
+### ROW 56: 3. What are the top industry verticals from your existing customer base? (Rankings on a scale of 1 - 10, where 1=highest, 10=lowest) > 3
+**ANSWER:** Transformation is the top use case for every industry, we also see the other use cases described in question 4C proportionally present across verticals
+
+### ROW 57: 3. What are the top industry verticals from your existing customer base? (Rankings on a scale of 1 - 10, where 1=highest, 10=lowest) > 4
+
+### ROW 58: 3. What are the top industry verticals from your existing customer base? (Rankings on a scale of 1 - 10, where 1=highest, 10=lowest) > 12
+
+### ROW 59: 3. What are the top industry verticals from your existing customer base? (Rankings on a scale of 1 - 10, where 1=highest, 10=lowest) > 5
+
+### ROW 60: 3. What are the top industry verticals from your existing customer base? (Rankings on a scale of 1 - 10, where 1=highest, 10=lowest) > 11
+
+### ROW 61: 3. What are the top industry verticals from your existing customer base? (Rankings on a scale of 1 - 10, where 1=highest, 10=lowest) > 10
+
+### ROW 62: 3. What are the top industry verticals from your existing customer base? (Rankings on a scale of 1 - 10, where 1=highest, 10=lowest) > 1
+
+### ROW 63: 3. What are the top industry verticals from your existing customer base? (Rankings on a scale of 1 - 10, where 1=highest, 10=lowest) > 9
+
+### ROW 64: 3. What are the top industry verticals from your existing customer base? (Rankings on a scale of 1 - 10, where 1=highest, 10=lowest) > 2
+**ANSWER:** including regulatory
+
+### ROW 65: 3. What are the top industry verticals from your existing customer base? (Rankings on a scale of 1 - 10, where 1=highest, 10=lowest) > 8
+
+### ROW 66: 3. What are the top industry verticals from your existing customer base? (Rankings on a scale of 1 - 10, where 1=highest, 10=lowest) > 6 (Banking, Finance) 7 (Professional Services)
+
+
+## SECTION: 4. PRODUCT CAPABILITIES
+
+### ROW 72: 4a. Please describe your company's DTO key features and functionalities, in brief. > Remarks on Key USP
+**ANSWER:** Roadmap
+
+### ROW 73: 4a. Please describe your company's DTO key features and functionalities, in brief. > Real-time analysis and monitoring of processes, ensuring operational excellence and efficiency. Includes process mining, modeling, business intelligence, and AI-driven insights.
+
+### ROW 74: 4a. Please describe your company's DTO key features and functionalities, in brief. > Enables comprehensive process modeling and governance using various notations such as BPMN and DMN. Supports process attributes, collaborative modeling, taxonomy repository and live insights for continuous performance monitoring. The Joule co-pilot enhances user experience with a conversational interface for intuitive process modeling. AI-assisted process recommendations and performance indicator suggestions became generally available in August 2024.
+
+Value for Digital Twin of an Organization: Provides a structured approach to gather, organize and manage process knowledge across the organization and all relevant stakeholders, get a wide visibility across all processes (including the ones which are not even fully digitized), collaboratively define process improvement targets and to-be states.
+**ANSWER:** The AI-assisted process modeler, including text-to-process conversion, is currently in SAP Labs and planned for general availability in March 2025. It accelerates model creation by converting text, images, and unstructured files (e.g., PDFs) into BPMN models. The system provides expert recommendations for process structures and performance indicators based on thousands of best practices, reducing complexity and improving efficiency.
+
+### ROW 75: 4a. Please describe your company's DTO key features and functionalities, in brief. > Enables data-driven process discovery, conformance checking, and performance benchmarking. Uses advanced analytics and AI-powered insights to identify inefficiencies, bottlenecks and deviations from intended process models and detect actionable root causes of process issues. Provides a comprehensive view of business process execution by leveraging event logs from enterprise systems. Integrations with our risk mining, task mining and user behavior and productivity mining partners does further extend the reach of the end-to-end observability.
+
+Value for Digital Twin of an Organization: Establishes a (near-)real-time, data-driven representation of business processes, enabling continuous monitoring, optimization, and conformance to enterprise standards. Facilitates proactive decision-making by identifying root causes of inefficiencies and recommending corrective actions.
+**ANSWER:** AI-driven process analysis, "Text to Insights," and "Text to Widget" enhance accessibility and usability. The text-to-insight feature is currently available as a beta, and text-to-widget and text-to-insight will be added shortly. The whole package will then go to GA later this year. Additional AI features like the dashboard explainer will help democratize the analysis by guiding citizen users in interpreting analytical findings. AI-assisted business rules-based conformance checking will boost our conformance checking capability, allowing us to detect non-compliant behaviours out of best practices without requiring an upfront definition of target process models.
+AI-assisted experience mining will be delivered via our upcoming Process Context AI solution, which allows us to analyze unstructured feedback data and correlate it to process mining event logs.
+
+### ROW 76: 4a. Please describe your company's DTO key features and functionalities, in brief. > Enables step-by-step, single-instance, and multi-instance process simulations. Estimates the impact on costs, time, and resources while allowing comparison of different scenarios to support decision-making. Integrated simulation ensures organizations can assess transformation initiatives before execution.
+
+Value for Digital Twin of an Organization: Supports predictive analysis and scenario modeling, allowing enterprises to test and optimize business processes in a virtual environment before implementation. Enhances real-time visibility into operational impacts, facilitating data-driven transformation.
+**ANSWER:** Data-driven simulation automatically populates and defines simulation scenarios based on parameters derived from event log data. Then, as a natural next step, AI-assisted simulation automatically tests and identifies the most relevant simulation scenarios, proactively recommending the most appropriate improvement initiatives.
+
+### ROW 77: 4a. Please describe your company's DTO key features and functionalities, in brief. > Supports complex event processing (CEP) and streaming analytics through integration with SAP BTP (Business Technology Platform) and SAP Business Data Cloud, leveraging our partnership with Databricks. Enables real-time ingestion, processing, and analysis of high-velocity data streams to detect patterns and trigger automated responses.
+
+Value for Digital Twin of an Organization: Enhances real-time visibility by continuously monitoring enterprise-wide data streams. Supports data-driven decision-making by integrating live operational insights into enterprise models, ensuring an accurate and dynamic representation of business processes.
+**ANSWER:** We are planning a direct integration between SAP Signavio and the Databricks component of SAP Business Data Cloud, besides the integration via the data warehousing layer, which is already available today.
+
+### ROW 78: 4a. Please describe your company's DTO key features and functionalities, in brief. > Enables automated triggers based on predefined conditions using SIGNAL, our process mining SQL dialect, to derive actionable insights from process data. Integrates seamlessly with SAP Build and third-party tools for automated workflows and process optimization.
+
+Value for Digital Twin of an Organization: Enhances real-time operational improvement and responsiveness by enabling event-driven automation within business processes. Supports data-driven decision-making by facilitating immediate corrective actions and process improvements based on live operational data.
+**ANSWER:** Agentic-AI-based orchestration of various improvement and transformation initiatives, including process automation, process redesign and re-engineering, system corrections, and walk-throughs for end users to enhance digital adoption of enterprise systems.
+
+### ROW 79: 4a. Please describe your company's DTO key features and functionalities, in brief. > Our AI-assisted root cause analysis, released in GA in February 2025, identifies the underlying factors affecting key performance indicators (KPIs) by automatically testing all potential hypotheses within business process-related data. It enables users to uncover causal relationships and performance drivers by analyzing historical and real-time data, going beyond simple correlation-based techniques.
+
+Value for Digital Twin of an Organization: Enhances data-driven decision-making by providing deep insights into process inefficiencies and their root causes. By enabling continuous monitoring and analysis, it supports enterprise transformation initiatives by pinpointing actionable improvements that optimize operational performance.
+**ANSWER:** Joule-based conversational interface will be released this year. We then plan to extend the engine providing root cause analysis for process behaviors, i.e. process event graphs, besides analytical metrics.
+
+### ROW 80: 4a. Please describe your company's DTO key features and functionalities, in brief. > Enables automated notifications and alerts based on predefined process mining data rules, process model changes and process governance workflows. Notifications can be delivered via email, Microsoft Teams, SAP Integration Suite (including both its Cloud Integration and its Event Mesh capabilities), SAP Build Process Automation and standard webhooks to any third party system, to ensure timely awareness of critical process events and deviations.
+
+Value for Digital Twin of an Organization: Supports real-time visibility into enterprise processes by proactively alerting stakeholders to anomalies, inefficiencies, or compliance risks. Enhances data-driven decision-making by ensuring that relevant teams receive immediate insights into deviations from expected process performance.
+
+### ROW 81: 4a. Please describe your company's DTO key features and functionalities, in brief. > The process mining engine now supports hourly data refreshes, with ongoing improvements aimed at achieving near-real-time updates within minutes. All relevant insights and metrics from SAP Signavio's process analysis and mining products can be integrated towards SAP Analytics Cloud, to offering monitoring of critical KPIs to the wider enterprise BI audience.
+Additionally, the live insights feature enables the assignment of process insights directly within documented as-is and to-be business processes in SAP Signavio Process Manager, allowing continuous performance monitoring in the context of process documentation. This enhancement ensures continuous monitoring and analysis of business processes based on the latest available data, responding to increasing customer demand for faster insights.
+All analytical canvases, from process analysis and mining and process management, can be shared in SAP Signavio Collaboration Hub to foster alignment and collaboration across all relevant stakeholders.
+
+Value for Digital Twin of an Organization: By increasing the frequency of process data updates and embedding live insights into documented processes, this feature enhances real-time visibility into enterprise operations. It enables organizations to detect inefficiencies, monitor performance trends, and make data-driven decisions with minimal latency, contributing to an accurate and dynamic representation of the business landscape.
+**ANSWER:** Enhance monitoring capabilities by integrating SAP Analytics Cloud with SAP Signavio Journey Modeler, enabling comprehensive insights into business performance across key customer and employee experience stages.
+
+### ROW 82: 4a. Please describe your company's DTO key features and functionalities, in brief. > Measuring and optimizing enterprise performance using KPI frameworks, predictive analytics, and scenario planning.
+
+### ROW 83: 4a. Please describe your company's DTO key features and functionalities, in brief. > Enables value analysis and initiative management within our integrated transformation suite. Supports organizations in identifying transformation opportunities and driving them across people, processes, data, and systems. Integrates external insights and partner contributions to enhance initiative management and value analysis.
+
+Value for Digital Twin of an Organization: Provides a structured approach to identifying transformation initiatives supported by business cases based on real-time business insights, and execute them with collaborative initiative management. By leveraging financial and operational data, organizations can proactively address challenges, optimize processes, and align initiatives with strategic objectives, ensuring a continuously updated and accurate representation of enterprise operations.
+**ANSWER:** Expanded capabilities enable users, including transformation leads, to automatically receive recommendations for suggested transformation initiatives by simply uploading financial or business-related documents. These AI-driven recommendations offer actionable insights without the need for deep process knowledge, making them accessible to both experienced professionals and beginners in Business Process Management (BPM). Currently, the AI-assisted transformation advisor is available in the SAP Lab Space.
+
+### ROW 84: 4a. Please describe your company's DTO key features and functionalities, in brief. > Stores time series data, enabling interactive charts, fact sheet integration, and dashboard/reporting visualization.
+
+Value for Digital Twin of an Organization: Provides visibility into enterprise performance, supports trend analysis, and enables data-driven decision-making.
+**ANSWER:** AI-assisted process analysis - text to insights, currently available in beta and foreseen to be released in GA in 2025, allows natural language querying of the metrics library.
+
+### ROW 85: 4a. Please describe your company's DTO key features and functionalities, in brief. > SAP provides a comprehensive set of KPIs to measure and optimize business processes, enterprise architecture, and IT landscape performance. These KPIs enable organizations to evaluate cost, risk, automation levels, compliance, cycle times, rework, and other critical performance factors. SAP offers predefined process performance indicators (PPIs) linked to end-to-end business processes, along with process-agnostic metrics applicable across different domains. Additionally, custom KPIs can be defined for assessing enterprise metrics, with robust reporting capabilities supporting in-depth analysis. Intuitive dashboards provide a visual representation of KPI trends, and integrations with external data sources allow organizations to incorporate real-time insights, such as incident trends for specific applications or service-level performance. These capabilities empower businesses to continuously improve efficiency, mitigate risks, and drive strategic decision-making.
+
+Value for Digital Twin of an Organization
+By aggregating key enterprise and process performance metrics into a structured, visual framework, these KPIs support the creation of a dynamic and continuously updated Digital Twin of an Organization (DTO). They provide real-time insights into enterprise performance, IT landscape health, and operational efficiency, enabling proactive risk management, cost optimization, and business process improvements. The ability to integrate internal and external data sources ensures an accurate and holistic view, facilitating strategic decision-making and continuous transformation efforts.
+**ANSWER:** AI-assisted process analysis offers a dynamic platform that allows users to generate custom Key Performance Indicators (KPIs) by utilizing natural language prompts. This innovative approach streamlines the process, making it easier for individuals and teams to define, track, and measure specific performance metrics tailored to their unique needs and objectives. With this tool, users can effortlessly transform their descriptive queries into actionable insights, enhancing decision-making and performance management. How? simply text to SIGNAL which will support creating custom KPIs from natural language prompts.
+
+### ROW 86: 4a. Please describe your company's DTO key features and functionalities, in brief. > A diverse set of dashboards is available, each tailored to support different decision-making scenarios and personas by leveraging enterprise architecture, process management, and process mining data.
+
+Enterprise Architecture Dashboards:
+- The Onboarding & Adoption Dashboard helps administrators track key onboarding KPIs and milestones, ensuring clear visibility into adoption progress.
+- The Executive Dashboard provides IT and business leaders with a comprehensive view of key performance indicators (KPIs), project statuses, and strategic initiatives. Users can seamlessly navigate from high-level KPIs to detailed reports, leveraging interactive charts and trend analysis. Customizable settings ensure relevance to organizational priorities, while role-based access control restricts visibility to authorized users, with administrators granted full access.
+- Interactive graphical extensions enhance architectural representations, making it easy to share insights across platforms like Confluence and SharePoint.
+
+Process Management Dashboard:
+- This unified governance dashboard provides a consolidated view of workspace activities and process content, ensuring streamlined oversight and effective management.
+
+Process Analysis & Mining Dashboards:
+- A drag-and-drop dashboard builder allows users to create custom dashboards that integrate reports, diagrams, KPIs, and external content.
+- Process mining dashboards can be tailored to specific personas or use cases, providing deep insights into performance trends, inefficiencies, and optimization opportunities.
+- Seamless integration with SAP Analytics Cloud, Tableau, and Power BI enables enterprise BI users to share analytical findings across the organization.
+By combining powerful visualization, customization, and integration capabilities, these dashboards empower stakeholders to monitor performance, drive data-driven decisions, and optimize enterprise outcomes.
+
+Value for Digital Twin of an Organization: Enables visualization of enterprise architecture, process management and process mining data, supporting dynamic decision-making and continuous monitoring of business and IT landscapes. By integrating multiple data sources and visualization options, dashboards provide a comprehensive and interactive representation of an organization’s digital state, ensuring stakeholders have actionable insights to govern processes and drive transformation initiatives.
+**ANSWER:** We are upgrading SAP LeanIX and SAP Signavio dashboards with AI-driven insights, improved navigation, and enhanced data visualization to support strategic decision-making and performance optimization.
+
+AI-Driven Enhancements
+- AI-assisted process analysis (beta) enables users to generate dashboards from natural language prompts, simplifying complex investigations.
+- An AI-assisted dashboard explainer helps interpret analytical findings for faster decision-making.
+
+Key Dashboard Updates
+- Enterprise Architecture Executive Dashboard (Launching April 2025) provides real-time KPIs to track transformation progress, portfolio fitness, and IT-business alignment.
+- Process Management & Mining Dashboards offer a drag-and-drop builder for custom analytics, integrating with SAP Analytics Cloud, Tableau, and Power BI.
+- Improved usability with structured collections and sub-collections ensures better organization and navigation.
+
+These enhancements empower enterprise architects, IT leaders, and analysts to streamline workflows, gain insights faster, and optimize enterprise performance.
+
+### ROW 87: 4a. Please describe your company's DTO key features and functionalities, in brief. > Reports provide a comprehensive, data-driven view of an organization's architectural landscape. They enable users to visualize and analyze critical information, such as application portfolios, technology stacks, dependencies, and risk exposure. Reports can be customized to support different stakeholders, facilitating transparency and alignment across enterprise architecture and IT strategy.
+
+Value for Digital Twin of an Organization: Supports visibility by aggregating and structuring enterprise data for informed decision-making. Enhances transparency and communication, ensuring a shared, dynamic representation of IT landscapes, dependencies, and transformation initiatives.
+
+### ROW 88: 4a. Please describe your company's DTO key features and functionalities, in brief. > Enables organizations to track identified and realized value for improvement opportunities. Facilitates collaboration by allowing stakeholders to monitor progress within the scope of an initiative, ensuring alignment with business objectives.
+
+Value for Digital Twin of an Organization: Supports data-driven decision-making by providing transparency into the impact of transformation initiatives. Enhances real-time visibility into value realization, ensuring that strategic goals are met and continuously optimized.
+**ANSWER:** We plan to greatly expand the breadth of pre-built value analysis content for common scenarios, like the ones implied by large S/4 migration programs.
+
+### ROW 89: 4a. Please describe your company's DTO key features and functionalities, in brief. > Enables users to analyze improvement opportunities by leveraging best-practice metrics, manual data, KPIs, and industry benchmarks. Supports collaborative tracking of value realization to ensure continuous performance enhancements.
+
+Value for Digital Twin of an Organization: Provides a data-driven approach to identifying inefficiencies and optimizing enterprise processes. Enhances real-time visibility into performance gaps and improvement potential, supporting strategic transformation initiatives.
+**ANSWER:** AI-assisted Transformation Advisor, currently available in SAP Signavio Labs, allows users to automatically get recommendations on suggested transformation initiatives by just uploading financial or business-related documents.
+
+### ROW 90: 4a. Please describe your company's DTO key features and functionalities, in brief. > Proactively monitors enterprise performance by generating automated notifications and alerts based on predefined KPI thresholds, predictive analytics, and scenario-based triggers. Notifications can be delivered via email, Microsoft Teams, SAP Integration Suite (leveraging Cloud Integration and Event Mesh), SAP Build Process Automation, and standard webhooks to third-party systems—ensuring real-time awareness of critical business performance trends, risks, and optimization opportunities.
+
+Value for Business Performance & Decision Intelligence:
+Enhances decision intelligence by continuously tracking performance indicators and detecting early warning signs of inefficiencies, compliance risks, or deviations from strategic goals. By integrating predictive analytics and scenario planning, it empowers organizations to take proactive measures, optimize operations, and improve overall business outcomes.
+
+### ROW 91: 4a. Please describe your company's DTO key features and functionalities, in brief. > Joule is an AI co-pilot designed to deliver intelligent answers by leveraging business data across the SAP portfolio. It assists users by providing relevant context and insights, enabling faster decision-making and task execution.
+
+Value for Digital Twin of an Organization: By integrating AI-driven knowledge retrieval, Joule enhances real-time visibility and contextual awareness within an enterprise. It ensures that decision-makers have immediate access to relevant business insights, contributing to a more accurate and dynamic representation of organizational processes.
+**ANSWER:** Following the launch of the initial set of Joule skills, our intention is to greatly broaden the range of capabilities available. We aim to seamlessly integrate Joule across all of our solutions, ensuring a cohesive and enhanced user experience. This expansion will not only enhance the functionality of Joule but also provide users with more tools and features to improve their overall engagement with our services.
+
+### ROW 92: 4a. Please describe your company's DTO key features and functionalities, in brief. > Provides real-time integration of operational system data with modeled business processes and enterprise architecture. Enables continuous synchronization of digital representations with live system states, ensuring up-to-date insights across the organization. Enhances data integration mechanisms to bridge gaps between structured and unstructured data, improving the completeness and accuracy of the enterprise digital twin.
+
+Value for Digital Twin of an Organization: Facilitates a dynamic, real-time view of enterprise operations by merging system-derived and manually modeled data. Enhances data-driven decision-making by providing accurate, actionable insights into process performance, dependencies, and bottlenecks.
+
+### ROW 93: 4a. Please describe your company's DTO key features and functionalities, in brief. > Provides an integrated solution for documenting and tracking Architecture Decision Records (ADRs) within the same system as the enterprise architecture inventory. Enables architecture review boards and stakeholders to link decisions to relevant fact sheets, ensuring visibility and alignment. Includes template-based decision documentation with advanced text formatting, filtering, reporting, and visualization capabilities. Admins can configure user permissions and customize templates for structured decision-making.
+
+Value for Digital Twin of an Organization: Strengthens governance and transparency by embedding architecture decision-making into the enterprise's digital representation. Supports visibility into architectural choices, enabling informed decision-making and alignment across teams. Enhances traceability and historical insights for continuous improvement in architecture strategy.
+
+More information, please visit: https://docs-eam.leanix.net/docs/architecture-decisions
+
+### ROW 94: 4a. Please describe your company's DTO key features and functionalities, in brief. > Provides access to a comprehensive set of industry benchmarks (based on 4000 datapoints), expanding from 26 in 2023 to a total of 184 today, with continuous growth planned. The next phase includes integrating benchmarks into blocker metrics across all process flows, adding hundreds of additional benchmarks. This enables organizations to assess performance across key metrics, identify inefficiencies, and set realistic improvement targets.
+
+Value for Digital Twin of an Organization: Enhances visibility into enterprise performance by providing data-driven insights that allow organizations to compare against industry standards. This capability supports continuous optimization, enabling fact-based decision-making and targeted transformation efforts.
+**ANSWER:** We have significantly broadened our coverage of industry benchmarks, implementing ongoing improvements aimed at seamlessly integrating these benchmarks into the key performance metrics within our process workflows. This ensures that our metrics not only reflect industry standards but also enhance our operational efficiency by providing deeper insights into performance outcomes.
+
+### ROW 95: 4a. Please describe your company's DTO key features and functionalities, in brief. > Mapping, modeling, and analyzing enterprise architecture components, including applications, integrations, and dependencies.
+
+### ROW 96: 4a. Please describe your company's DTO key features and functionalities, in brief. > Provides a highly flexible and configurable metamodel that allows organizations to tailor data structures by adding attributes and tags. Enables customization of Fact Sheet governance states, validation rules, and mandatory fields through an intuitive configuration UI. Supports the creation of custom architecture metamodels, including configurable data models, dashboards, and reports. Offers role-based access control for precise data governance.
+
+Value for Digital Twin of an Organization: Enables a structured and adaptable data foundation, ensuring that the digital twin accurately reflects the enterprise’s evolving architecture. Facilitates visibility into relationships, dependencies, and governance status, enhancing data-driven decision-making and transformation initiatives.
+
+More information please visit:  https://docs-eam.leanix.net/docs/configure-name-and-definition-of-a-factsheet
+**ANSWER:** We are enhancing the metamodel to improve control, compliance, and governance. Upcoming updates include refined subscription permissions to restrict role-based assignments, ensuring stricter access controls to granular architecture elements (fact sheet subtypes). A new optional extension for DORA compliance will support financial institutions with automated impact assessment fields.
+Additionally, workspace views will help organize and filter data for different user groups. Instead of showing all information (fact sheet types) at once, admins can configure views for specific teams and purposes, filtering data to show users only what's relevant to their work. This will reduce distractions and helps users concentrate on relevant information.
+
+### ROW 97: 4a. Please describe your company's DTO key features and functionalities, in brief. > Provides out-of-the-box integrations with SAP Signavio, ServiceNow, Collibra, Microsoft Teams, Jira, Confluence, and other enterprise platforms, enabling seamless data ingestion and synchronization with minimal configuration.
+
+Value for Digital Twin of an Organization: Ensures real-time visibility into enterprise architecture by continuously populating and maintaining an accurate system inventory with up-to-date, meaningful data, facilitating informed decision-making and enterprise-wide alignment.
+**ANSWER:** As part of our commitment to enhancing integrations, we are improving integration sync logging to increase transparency and usability. By [expected timeframe, e.g., Q2 2025], users will benefit from clearer, more actionable log entries that provide direct visibility into data flow changes, making it easier to track modifications at the fact sheet level and ensuring greater trust in synced workspace data. These enhancements support a more intuitive experience for [target audience, e.g., enterprise architects, IT leaders], enabling better decision-making and integration oversight.
+
+Expanding our integration capabilities, we are introducing support for Jira Asset & Configuration Management, a centralized repository for IT assets, services, and infrastructure. This integration will provide organizations with a holistic view of their technology landscape, ensure compliance with standards, and offer insights for informed architecture decisions.
+
+Building on our successful ServiceNow integration, we are extending SAP LeanIX connectivity to the Jira CMDB ecosystem. This will seamlessly synchronize IT asset and configuration data, aligning ITSM and enterprise architecture workflows to improve visibility, control, and transformation planning.
+
+### ROW 98: 4a. Please describe your company's DTO key features and functionalities, in brief. > Automates the identification and management of SaaS applications through integrations with Single Sign-On (SSO), Secure Access Service Edge (SASE), and Cloud Access Security Broker (CASB) solutions. Discovered applications can be automatically or manually linked to existing or new fact sheets, enriched with data from a reference catalog.
+
+Value for Digital Twin of an Organization: Enhances transparency into the organization’s SaaS ecosystem by providing a dynamic, real-time representation of cloud-based applications, supporting compliance, cost optimization, and risk management.
+
+### ROW 99: 4a. Please describe your company's DTO key features and functionalities, in brief. > Automates the discovery and aggregation of SAP system and service data directly from SAP sources. Provides a comprehensive, real-time view of the organization's SAP landscape, reducing manual efforts, eliminating data gaps, and ensuring high-quality system insights. Supports ERP transformation initiatives by streamlining the discovery and exploration phases, while enabling automated updates to the application landscape as it evolves.
+
+Value for Digital Twin of an Organization: Ensures an accurate, real-time representation of SAP systems within the enterprise architecture, improving decision-making for IT and business transformation. Enables dynamic synchronization of the digital model with the actual IT environment, reducing risk and effort in maintaining an up-to-date enterprise view.
+**ANSWER:** We are enhancing application discovery to provide full visibility into SAP landscapes by extending automated discovery capabilities to SAP Private Cloud systems. This builds on our existing support for SAP SaaS/public cloud and on-premise landscapes, ensuring a comprehensive and unified view of your SAP applications. As part of this update, we will enhance the existing integration to simplify configuration and adoption. This enhancement, planned for Q1 2025, will enable IT and enterprise architecture teams to improve operational efficiency, streamline application management, and drive more informed decision-making. In Q2 2025, we plan to extend the integration further to discover SAP BTP services and extensions.
+
+### ROW 100: 4a. Please describe your company's DTO key features and functionalities, in brief. > Enables integration with collaboration tools such as Microsoft Teams, Jira, and Confluence, allowing for workspace notifications, synchronized tracking, embedded reports, and improved workflow efficiency.
+
+Value for Digital Twin of an Organization: Strengthens cross-functional collaboration and decision-making by embedding real-time architectural insights into enterprise workflows, ensuring alignment between teams and accelerating transformation initiatives.
+
+### ROW 101: 4a. Please describe your company's DTO key features and functionalities, in brief. > Provides curated data and best-practice recommendations for business capabilities, applications, IT components, and technology categories. Fact sheets linked to the catalog automatically synchronize with standardized taxonomy and classification updates. Discovery features leverage the catalog to enrich newly identified items with relevant metadata.
+
+Value for Digital Twin of an Organization: Ensures data consistency and governance by aligning enterprise architecture elements with industry-standard references. Reduces data discrepancies and enhances strategic planning by providing authoritative insights into technology stacks, business capabilities, and application landscapes.
+**ANSWER:** We are expanding access to the reference catalog in Application Portfolio Management. All workspaces will be able to use base IT component data, improving standardization beyond Technology Risk and Compliance. Non-admin users will gain the ability to view, filter, and import business capabilities, enhancing usability and data accuracy. Additionally, we will update the catalog to TBM Taxonomy 5.0, incorporating enhanced AI modeling and improved support for cloud and SaaS investments. These updamake it more holistictes drive efficiency, visibility, and stronger governance, enabling better IT portfolio management.
+
+### ROW 102: 4a. Please describe your company's DTO key features and functionalities, in brief. > Provides industry-specific business capability maps for import, ensuring alignment with standardized frameworks. When imported, business capability fact sheets are automatically created and linked to the catalog. If a fact sheet with the same name already exists, its name and description are updated from the catalog. Users can also link existing fact sheets directly to catalog items instead of importing.
+
+Value for Digital Twin of an Organization: Enables a structured, standardized representation of business capabilities, ensuring consistency and comparability across enterprises. Supports real-time visibility into business architecture and facilitates data-driven decision-making for enterprise transformation.
+**ANSWER:** The business capability reference content is subject to continuous updates and currently encompasses 18 industries. A new industry, aerospace and defense, will be introduced at the beginning of March. Additionally, the mining, banking, and healthcare industries are scheduled to be added in the second quarter of 2025.
+
+### ROW 103: 4a. Please describe your company's DTO key features and functionalities, in brief. > Provides multiple APIs to enable seamless data exchange and interoperability with external systems. The Integration API facilitates flexible connections to third-party platforms, allowing for efficient data import and export. The GraphQL API enables querying and mutating data within fact sheets, supporting customized reporting and analytics. REST APIs provide access to diagrams and visualizations, ensuring all customer-accessible functions in the UI are also available programmatically.
+
+Value for Digital Twin of an Organization: Ensures continuous synchronization of enterprise data across systems, enabling real-time visibility and dynamic updates within the Digital Twin. Supports automated data ingestion and retrieval, empowering organizations to maintain an accurate, up-to-date representation of their IT and business landscape. Enhances decision-making by providing seamless access to critical enterprise insights.
+
+More Information, please visit: https://dev.leanix.net/docs/available-apis
+**ANSWER:** We are excited to announce the introduction of the Unified Search API, which consolidates our existing search capabilities into a more powerful and consistent experience built on GraphQL. This API will be rolled out incrementally throughout the first half of 2025. Key enhancements include improved filtering, expanded sorting options, and advanced search operators, providing users with greater flexibility and efficiency. These updates will improve data retrieval, integration, and usability, empowering users to manage their use cases with increased accuracy and control. Additionally, these API changes will significantly impact product capabilities and the user interface.
+
+### ROW 104: 4a. Please describe your company's DTO key features and functionalities, in brief. > Enables seamless import of projects from SAP Cloud ALM as fact sheets and export of initiatives to SAP Cloud ALM, ensuring bidirectional visibility. The integration allows enterprise architecture teams to align strategic initiatives with project execution in SAP Cloud ALM. Data synchronization flows from SAP Cloud ALM, ensuring that project updates are continuously reflected in fact sheets. While initiatives can be exported to create projects in SAP Cloud ALM, subsequent changes to initiative fact sheets do not retroactively update in SAP Cloud ALM.
+
+Value for Digital Twin of an Organization: Facilitates real-time synchronization between enterprise architecture initiatives and project execution, ensuring an up-to-date and accurate representation of transformation projects within the Digital Twin. This integration enhances visibility into project progress, dependencies, and alignment with enterprise goals, driving informed decision-making and governance.
+
+### ROW 105: 4a. Please describe your company's DTO key features and functionalities, in brief. > Enables seamless synchronization between enterprise architecture and data governance by integrating with Collibra Enterprise Data Catalog (EDC). Facilitates the identification, classification, and governance of data assets, ensuring alignment between data architecture and IT landscape. Supports bidirectional data synchronization to maintain an up-to-date inventory of applications, data flows, and governance policies.
+
+Value for Digital Twin of an Organization: Establishes a unified and real-time representation of enterprise data assets, enhancing visibility into data lineage, regulatory compliance, and governance impact on IT architecture. Enables data-driven decision-making for application rationalization, technology investments, and compliance initiatives by linking architectural insights with data policies and standards.
+
+### ROW 106: 4a. Please describe your company's DTO key features and functionalities, in brief. > Implements single sign-on (SSO) using the SAML protocol, supporting three types of Identity Providers (IDPs). Enables seamless authentication via an internal IDP, an internal LDAP-based IDP leveraging Shibboleth in a Docker container, or an external enterprise-managed IDP. Customers requiring a custom SSO setup beyond the default internal IDP can configure a dedicated domain (e.g., customer.company.net) to integrate with their preferred IDP.
+
+Value for Digital Twin of an Organization: Ensures secure and centralized identity management, enabling seamless access to enterprise architecture data across systems. By standardizing authentication and authorization, SSO enhances data integrity, prevents unauthorized access, and fosters real-time collaboration within an organization's Digital Twin.
+
+### ROW 107: 4a. Please describe your company's DTO key features and functionalities, in brief. > Leverages generative AI to automate enterprise architecture documentation, enhance data utilization, and streamline research processes. Powered by dedicated OpenAI models hosted on Microsoft Azure, ensuring secure and confidential handling of enterprise data.
+
+Value for Digital Twin of an Organization: Automates data entry and analysis, reducing manual effort while ensuring accurate and up-to-date enterprise architecture insights. Enhances real-time visibility by accelerating data processing, enabling organizations to make faster, data-driven decisions that support enterprise transformation.
+
+More information, please visit: https://docs-eam.leanix.net/docs/ai-capabilities
+**ANSWER:** As part of our ongoing innovation, we are introducing Joule – AI Copilot, an advanced conversational assistant designed to enhance efficiency and ease of use within SAP LeanIX. The copilot enables users to quickly navigate to saved reports or diagrams, locate specific fact sheets within their inventory, and access relevant SAP LeanIX documentation—all through intuitive natural language interactions. This enhancement will streamline workflows, reduce time spent searching for critical information, and improve user productivity by providing immediate, context-aware responses.
+
+SAP’s Joule AI solution is already being leveraged in Business Process Management and Process Mining (SAP Signavio), and the Enterprise Architecture Management (SAP LeanIX) product will follow soon. By integrating AI-driven assistance, Joule ensures a more intuitive and intelligent experience, empowering users to make faster, data-driven decisions while aligning with SAP’s broader strategy of embedding AI across its product portfolio.
+
+The AI-based Inventory Builder, currently available to select clients, will be generally available in Q2 2025. It uses AI to extract structured data from architecture documents, identifying fact sheets and relationships within unstructured content. This streamlines enterprise architecture management by automating data extraction and reducing manual effort.
+
+### ROW 108: 4a. Please describe your company's DTO key features and functionalities, in brief. > Ensuring regulatory compliance, risk assessment, and internal controls through process governance and policy alignment.
+
+### ROW 109: 4a. Please describe your company's DTO key features and functionalities, in brief. > Software Bill of Materials (SBOM) provides a comprehensive and continuously updated inventory of all software components, libraries, and dependencies within an organization’s application landscape. By generating SBOM files in industry-standard formats such as SPDX and CycloneDX, it ensures compatibility with security frameworks and regulatory requirements. The SBOM capability automates data ingestion from CI/CD pipelines, container registries, and third-party software sources, ensuring real-time accuracy. It integrates with vulnerability management systems to detect security risks in open-source and third-party components while also tracking compliance with software licensing policies and regulatory mandates such as Executive Order 14028, NIST SSDF, and the EU Cyber Resilience Act. Additionally, it enables proactive monitoring of component changes, helping organizations maintain a verifiable software inventory while mitigating risks associated with unverified dependencies.
+
+Value for Digital Twin of an Organization: By providing a real-time and structured view of the software supply chain, SBOM plays a critical role in establishing a Digital Twin of an Organization. It enhances cybersecurity posture by identifying vulnerabilities before they can be exploited and supports regulatory compliance by generating audit-ready documentation for risk governance. With greater visibility into software component health, versioning, and security status, organizations can make data-driven decisions regarding software procurement, modernization, and risk management. Furthermore, SBOM strengthens software supply chain resilience, ensuring that businesses can effectively assess third-party risks, maintain software integrity, and safeguard operational continuity.
+**ANSWER:** As part of our ongoing commitment to enhancing software transparency and compliance for IT leaders and enterprise architects, SAP LeanIX is introducing SBOM ingestion support for GitHub Enterprise in Q1 2025. This enhancement simplifies the process of importing SBOMs generated within CI/CD pipelines, eliminating manual steps and enabling seamless analysis of open-source dependencies and technology stacks. By streamlining SBOM integration, organizations can improve software supply chain visibility, enhance security posture, and accelerate compliance efforts—without additional operational overhead. While SAP LeanIX will continue to focus on SBOM analysis rather than generation, this update ensures customers can maximize the value of their existing SBOM processes with greater efficiency and automation.
+
+### ROW 110: 4a. Please describe your company's DTO key features and functionalities, in brief. > Enables bidirectional synchronization between ServiceNow and the enterprise architecture repository, ensuring alignment between IT service management (ITSM) and enterprise architecture data. Facilitates automated data exchange, reducing manual effort and ensuring consistency across systems. Supports configuration item (CI) imports, dependency mapping, and real-time updates.
+
+Value for Digital Twin of an Organization: Enhances real-time visibility into the IT landscape by integrating ITSM data with enterprise architecture insights. Enables data-driven decision-making by providing an accurate, up-to-date representation of applications, dependencies, and IT services. Strengthens enterprise transformation initiatives by aligning ITSM processes with strategic architecture management.
+
+More Information, please visit: https://docs-eam.leanix.net/docs/servicenow
+
+### ROW 111: 4a. Please describe your company's DTO key features and functionalities, in brief. > Enables seamless synchronization between enterprise architecture and data governance by integrating with Collibra Enterprise Data Catalog (EDC). Facilitates the identification, classification, and governance of data assets, ensuring alignment between data architecture and IT landscape. Supports bidirectional data synchronization to maintain an up-to-date inventory of applications, data flows, and governance policies.
+
+Value for Digital Twin of an Organization: Establishes a unified and real-time representation of enterprise data assets, enhancing visibility into data lineage, regulatory compliance, and governance impact on IT architecture. Enables data-driven decision-making for application rationalization, technology investments, and compliance initiatives by linking architectural insights with data policies and standards.
+
+### ROW 112: 4a. Please describe your company's DTO key features and functionalities, in brief. > Provides robust GRC capabilities through integration with tools such as SAP Risk and Assurance Management and Datricks. Public APIs enable connectivity with third-party GRC solutions, facilitating risk customization and control mapping across all levels of business processes.
+
+Value for Digital Twin of an Organization: Ensures a comprehensive and real-time representation of enterprise risks, controls, and compliance measures. By linking risk data directly to business processes, it enhances visibility, supports proactive risk mitigation, and strengthens governance frameworks, enabling organizations to make informed, data-driven decisions.
+
+### ROW 113: 4a. Please describe your company's DTO key features and functionalities, in brief. > Strategic alignment of IT and business operations, scenario modeling, and investment planning to support continuous transformation.
+
+### ROW 114: 4a. Please describe your company's DTO key features and functionalities, in brief. > EA Capabilities: The Architecture Roadmap and Planning module enables the planning and visualization of transformation initiatives and their impact on the enterprise architecture. It supports scenario planning, allowing users to model different transformation scenarios without modifying the existing architecture until a scenario is selected for execution. The module provides roadmap visualization through Landscape, Matrix, Portfolio, and Roadmap reports, which overlay initiatives to generate views of the future-state architecture. The Project Roadmap report facilitates the visualization of all planned or active projects, highlighting dependencies and clustering projects based on related context objects such as Business Capabilities or Objectives.
+
+Value for Digital Twin of an Organization: Enables organizations to model, analyze, and compare transformation scenarios before execution, ensuring data-driven decision-making. By providing real-time visibility into dependencies and architectural changes, the feature enhances strategic planning and alignment, ensuring that enterprise transformations are executed with precision.
+**ANSWER:** Enhanced Transformation Visibility in Roadmap Planning - This update brings transformation insights directly into the Fact Sheet details page and Relations Explorer, providing instant context on ongoing and planned initiatives. By embedding transformation visibility at key touchpoints, enterprise architects and portfolio managers can quickly assess dependencies, risks, and opportunities—streamlining decision-making and ensuring better alignment between strategy and execution.
+
+### ROW 115: 4a. Please describe your company's DTO key features and functionalities, in brief. > Enables value analysis and initiative management within an integrated transformation suite. Supports organizations in identifying transformation opportunities and driving them across people, processes, data, and systems. Integrates external insights and partner contributions to enhance initiative management and value analysis.
+
+Value for Digital Twin of an Organization: Provides a structured approach to identifying transformation initiatives supported by business cases based on real-time business insights, and execute them with collaborative iniative management. By leveraging financial and operational data, organizations can proactively address challenges, optimize processes, and align initiatives with strategic objectives, ensuring a continuously updated and accurate representation of enterprise operations.
+**ANSWER:** Expanded capabilities allow users, including transformation leads, to automatically get recommendations on suggested transformation initiatives by just uploading financial or business-related documents. AI-driven recommendations provide actionable insights without requiring deep process knowledge, making it accessible to experienced professionals and BPM beginners. The AI-assisted transformation advisor is currently available in the SAP Lab Space.
+
+### ROW 116: 4a. Please describe your company's DTO key features and functionalities, in brief. > Value Accelerators provide a structured approach to accelerating business transformation by combining best practices, reference process models, predefined metrics, and transformation artifacts. The Value Accelerator Library serves as a centralized marketplace embedded within the suite, enabling business users to easily access and apply curated content tailored to their specific needs. Customers benefit from SAP and non-SAP system connectors, predefined performance indicators and blockers, external benchmarks, over 1,500 correction and innovation recommendations, and a repository of 7,000+ process models spanning multiple lines of business and industries. The "plug-and-gain" approach, introduced in mid-2023, enables rapid insights into SAP ERP process landscapes by automatically detecting inefficiencies and transformation opportunities.
+
+Value for Digital Twin of an Organization:
+Value Accelerators contribute to a real-time, data-driven representation of enterprise processes, allowing organizations to model, analyze, and optimize their operations with prebuilt intelligence. By integrating best practices and industry benchmarks, enterprises can reduce transformation time, improve process efficiency, and drive continuous optimization. The ability to access a comprehensive process repository enhances decision-making and ensures alignment with enterprise-wide transformation goals.
+**ANSWER:** We have a comprehensive roadmap designed to expand our coverage of both SAP and non-SAP content. Recently, we released cross-system content that addresses use cases involving Salesforce and SAP, as well as Microsoft Dynamics and SAP. Looking ahead, we have additional diverse use cases planned, including those for Coupa, Oracle, and other systems.
+
+### ROW 117: 4a. Please describe your company's DTO key features and functionalities, in brief. > Combines data-driven insights (process mining) with people-driven analysis (process modeling) to create a comprehensive view of enterprise operations. This bi-directional integration allows generating process model out of discovered variants in process mining, overlaying live process mining insights in process modelling, and leveraging process models back in process mining for conformance checking. This enables continuous discovery, monitoring, and in-depth analysis of business processes, fostering collaboration across organizational boundaries.
+
+Value for Digital Twin of an Organization: Establishes an observability layer that ensures a data-backed representation of enterprise processes. Enables organizations to identify inefficiencies, simulate transformation scenarios, and drive data-driven decision-making for continuous improvement.
+**ANSWER:** We are unifying the repository across process management and process mining to more easily share and access objects like process activities and their documentation, metrics, calculated attributes etc., on both analytical and modelling canvases, fostering alignment across different personas. We also plan to improve our BPMN generation algorithms further by inferring DMN decisions from process mining event logs.
+
+### ROW 118: 4a. Please describe your company's DTO key features and functionalities, in brief. > Understanding and optimizing customer, employee experience using journey modeling and user-centric process improvements.
+
+### ROW 119: Subscription > Enables collaboration and accountability by assigning subscription roles to denote responsible and relevant personas for each object. A built-in comments section provides a communication thread for discussions, facilitating quick resolution of questions and concerns. Notifications (both in-platform and via email) are triggered for process or fact sheet owners upon changes, comments, or updates, ensuring continuous awareness and engagement.
+
+Value for Digital Twin of an Organization: Supports real-time visibility and governance by maintaining clear ownership and communication around enterprise assets. Ensures that key stakeholders remain informed about modifications, fostering an accurate and continuously updated digital representation of the organization.
+
+### ROW 120: Subscription > Provides a structured approach to task delegation and tracking, allowing users to create and assign tasks, ask questions, set due dates, add descriptions, and receive notifications for updates or reminders. Supports both manual task creation and automation-driven task generation. Enables governance enforcement by integrating with automated workflows, ensuring critical actions such as approvals, mandatory data entries, and risk assessments are completed in a timely manner.
+
+Value for Digital Twin of an Organization: Ensures data integrity and governance by systematically managing tasks related to data quality, compliance, and enterprise risk. Facilitates real-time collaboration and accountability, enabling organizations to maintain an accurate, up-to-date representation of their IT and business landscapes. By embedding to-dos within governance workflows, enterprises can drive consistency in data collection and decision-making, supporting a more reliable and actionable Digital Twin.
+
+### ROW 121: Subscription > Enables collaborative data collection from multiple stakeholders through structured surveys, eliminating the need for manual email outreach. Supports customized messaging, progress tracking, and automatic integration of collected data into fact sheets. Allows both admin and non-admin users to create and manage surveys, ensuring flexibility and ease of use.
+
+Value for Digital Twin of an Organization: Enhances data accuracy and completeness by streamlining stakeholder input, reducing manual data maintenance efforts, and ensuring up-to-date enterprise information for real-time decision-making.
+**ANSWER:** We are enhancing Surveys with enforced due dates and aggregated voting for more structured and efficient stakeholder input collection. Enforced due dates ensure timely responses with set deadlines, automated reminders, and real-time tracking. Aggregated voting allows multiple stakeholders to contribute to the same question, supporting weighted inputs and consensus-driven decision-making. These improvements streamline data collection, minimize manual follow-ups, and enhance decision-making.
+
+### ROW 122: Subscription > Transform customer, employee, or supplier experiences using an intuitive tabular canvas that combines both outside-in and inside-out views, helping you identify how process transformation impact key stakeholders such as customers. Transformation managers can align people, processes, data and technology by linking persona's activities into underlying processes' diagrams, process mining and business metrics, sentiment, organizational units, and IT systems to  SAP Signavio Process Transformation Suite facilitates collaboration and governance of journey landscape. The Complexity Score provides a quantitative measure of journey model complexity, helping to optimize processes for better outcomes.
+
+Value for Digital Twin of an Organization: Enhances the Digital Twin by incorporating experience modeling and data into enterprise process modeling, enabling a holistic view of interactions across touchpoints. Supports data-driven decision-making by aligning customer insights with operational realities.
+**ANSWER:** Best practice journeys to be published in value accelerators library for SAP Signavio: Leverage SAP experts' and partners' process know-how to understand how your key stakeholders experience end-to-end processes. A fast start to modelling customer, employee and supplier journeys instead of starting from scratch.
+
+Administrators can install best practice journey models from SAP Signavio Value Accelerators Library into their workspace, and journey modellers can edit them. 
+
+Direct integration between SAP Analytics Cloud: Strengthen data-driven experience management by adding SAP Analytics Cloud widgets into SAP Signavio Transformation Suite via adding widgets into journey steps.
+
+### ROW 123: Subscription > Process Context AI transforms how businesses understand their processes by linking operational data with real user experiences. By integrating customer feedback with process mining, journey modeling, and process modeling, it uncovers hidden inefficiencies, highlights experience gaps, and helps organizations enhance process effectiveness and user satisfaction.
+
+Value for Digital Twin of an Organization: Enables a dynamic and data-driven representation of customer interactions across enterprise processes. Enhances real-time visibility into user experience bottlenecks, supports root-cause analysis, and informs continuous process optimization.
+
+### ROW 124: Subscription > Facilitates value-driven analysis and initiative management within an integrated transformation suite, focusing on customer and employee journeys. Enables organizations to identify experience-driven transformation opportunities and execute them across people, processes, data, and systems. Incorporates external insights (e.g., experience data, sentiment analysis) and partner contributions to enhance journey-based initiative management, ensuring continuous optimization through user interactions and value analysis.
+
+Value for Digital Twin of an Organization: Provides a structured framework to uncover transformation initiatives based on real-time insights into customer and employee experiences. By leveraging journey intelligence, operational and experience data, organizations can proactively optimize processes, address pain points, and align transformation efforts with strategic objectives. This ensures a continuously evolving and accurate representation of enterprise operations, leading to improved satisfaction, engagement, and business outcomes.
+**ANSWER:** Expanded capabilities empower users—including transformation leads—to gain AI-driven recommendations for optimizing customer and employee experiences by simply uploading journey-related, financial, or business documents. These intelligent recommendations provide actionable insights into pain points, inefficiencies, and opportunities for improvement without requiring deep process knowledge. This makes journey intelligence and user-centric process improvements accessible to both experienced professionals and those new to experience-driven transformation. The AI-assisted journey intelligence advisor is currently available in the SAP Lab Space.
+
+### ROW 125: Subscription > Joule, the AI-powered co-pilot, provides an intuitive conversational interface that enhances user experience by enabling natural language interactions across the overall SAP portfolio. Now integrated into the SAP Signavio Collaboration Hub, it supports users in three key areas:
+
++ Informational: Retrieve insights about the process landscape, task ownership, and root cause analysis through natural language queries.
++ Navigational: Receive guided assistance in locating features, plans, and diagrams within the platform.
++ Transactional: Execute tasks such as creating process models through text-based commands.
+
+Value for Digital Twin of an Organization: Joule enhances the Digital Twin by enabling real-time, AI-driven interaction with enterprise process data. It improves accessibility to insights, accelerates decision-making, and streamlines process execution through AI-assisted automation, ensuring an up-to-date and actionable representation of enterprise operations.
+**ANSWER:** Following the launch of the initial set of Joule skills, we are committed to significantly broadening the variety of skills available. Our goal is to seamlessly integrate Joule into all our solutions, enhancing functionality and improving user experience. This extensive expansion will not only increase the usability of Joule but also ensure that it effectively meets the diverse needs of our customers across different applications. We look forward to unveiling these enhancements and providing even more value through our integrated offerings.
+
+### ROW 126: Subscription > AI-driven workflow automation, task orchestration, and process execution across different business units and IT systems.
+
+### ROW 127: Subscription > Leverages Large Process Models to enhance process optimization through AI-driven recommendations for best practice design, performance measurement, text-based model generation, and democratized process mining and analysis.
+
+Value for Digital Twin of an Organization: Enables an intelligent, real-time representation of enterprise processes by automating discovery, analysis, and continuous improvement. AI-driven insights facilitate data-driven decision-making, accelerating enterprise transformation and ensuring optimal process efficiency.
+**ANSWER:** Agent Discovery and Monitoring: Identifies opportunities for AI agents within enterprise processes and provides continuous monitoring of their performance.
+
+Agent Integration: Automates toolchain configurations and resolves inefficiencies detected in process models, streamlining workflows and ensuring seamless AI adoption across business operations.
+
+### ROW 128: Subscription > Enables the discovery, monitoring, and integration of AI agents within enterprise processes. Provides insights into AI agent performance and automates toolchain configurations to resolve inefficiencies detected in process models and analyses.
+
+Value for Digital Twin of an Organization: Supports real-time visibility into AI-driven process automation, ensuring continuous optimization and adaptive workflows. Enhances decision-making by integrating AI-generated insights into operational models, enabling more intelligent and autonomous enterprise transformation.
+**ANSWER:** Agentic AI Discovery - discover on which processes, and where, the maximum potential for deploying AI Agents lives.
+Agent mining - Ensure you know what AI agents are doing to your processes, mine their execution merged into process event logs and observe their impact on process performance.
+Agent governance - Ensure AI agents behave in a compliant way through rule-based conformance.
+Agent enhancement - Improve AI agents execution by making agents aware of the process context, providing them with models, event logs, conformance rules, best practices, value drivers and improvement suggestions.
+
+### ROW 129: Subscription > Enables automation of enterprise architecture (EA) workflows and governance processes through a no-code workflow engine and through robotic process automation. Manages ownership and quality governance of architectural artifacts, ensuring data consistency and collaboration. Supports governance, compliance, standards management, and architecture-as-code use cases. A low-code integration API enables real-time data synchronization, automated notifications, and dynamic attribute assignments based on calculated assessments and predefined triggers.
+
+Value for Digital Twin of an Organization: Automates the continuous update and validation of enterprise architecture data, ensuring real-time accuracy and alignment with governance policies. Enhances decision-making by maintaining a high-quality, consistent digital representation of IT assets, processes, and dependencies.
+**ANSWER:** Upcoming enhancements will feature calculated fields, event-based attribute assignments, data inheritance across entity relations, and sophisticated API-driven automation.
+
+### ROW 130: Subscription > Supports native connectivity to all major databases, data warehouses and data lakes. Enables seamless integration to a wide variety of enterprise systems via SAP Business Data Cloud and SAP Integration Suite for connectivity and extraction. Enables reuse of existing third party data integration technologies via a public ingestion API. Enhances transformation and modeling features by introducing object-driven modeling, supporting flexible case selection and streamlined data harmonization.
+
+Value for Digital Twin of an Organization: Ensures real-time synchronization of enterprise data, enabling a comprehensive and continuously updated representation of the organization. Facilitates accurate modeling of business processes, IT landscapes, and enterprise architectures to support data-driven decision-making and transformation initiatives.
+**ANSWER:** We are implementing object-based visual data modeling to define multiple perspectives on the same data model, enabling analysts to easily switch between them. Additionally, we will utilize AI-assisted data transformation to accelerate data integration and modeling processes. Furthermore, we aim to simplify the integration of non-SAP sources by expanding the range of pre-built connectivity templates based on the SAP Integration Suite. This will allow data from non-SAP systems to be fed into Signavio more efficiently.
+
+### ROW 131: Subscription > This section contains the same information as previously stated in the table above. Please refer to the earlier response for details
+
+### ROW 135: 4b. Please provide details about your strength in the following categories > Rating (1-10)
+**ANSWER:** Remarks
+
+### ROW 136: 4b. Please provide details about your strength in the following categories > 9
+**ANSWER:** Our methods typically fall into two categories: customer-led self-service or consultant-led implementations.
+
+In a self-service setup, customers gather the necessary expertise within their organization, typically forming a team of data engineers, analysts, business users, and process owners. In consultant-led implementations, consultants handle the end-to-end process from connecting to the data sources, leveraging out-of-the-box connectors, data transformation and analysis templates available through value accelerator packages that reduce implementation effort and shorten time-to-value. Pre-configured and ready-to-use value accelerators are available to both customers and partners to kick-start their transformation programs and accelerate and simplify every phase of the journey.
+Also, the plug-and-gain approach enables SAP ERP customers to build upon a wide set of pre-built best practice process analytics and recommendations and benchmarks natively from their systems without any data management effort.
+Our business transformation management solutions supporting DTO (both LeanIX and SAP Signavio) are recognized for their easy-to-use and highly intuitive interface, significantly reducing the time required for users to become proficient. The short ramp-up phase means new users can quickly get up to speed and leverage the platform's capabilities without extensive training.
+The solution's best-in-class usability (e.g. SAP LeanIX and SAP Signavio are rated 4.7 out of 5 on Peer Insights) supports broad collaboration and high productivity. As an example, this usability in LeanIX extends to the state-of-the-art diagram editor, which enhances the user experience by allowing the easy creation and management of diagrams.
+AI-assisted capabilities throughout the portfolio further simplify user interaction with our solutions, lowering the barriers of entry to expert fields such as process modelling and mining. For example,  with the new prompt-based process mining features (text to insights and text to the widget), the user inserts a natural language prompt that will result in the generative AI creation of a widget and further increase ease of use and time to value. Similarly, users can generate BPMN diagrams simply from a text description regardless of technical background.
+
+### ROW 137: 4b. Please provide details about your strength in the following categories > 10
+**ANSWER:** We offer several roles and structures to ensure success to our DTO customers.
+
+ - The strategic customer office regularly collaborates closely with customers and partners to understand their needs and validate our roadmap plans.
+ - Regional customer success partners support our customers along their entire transformation journey, developing success plans, providing best practices, conducting workshops and more. 
+ - In addition, virtual global customer success partners ensure a comprehensive post-sales digital customer experience with automated customer engagements and support, while providing self-service content. 
+ - Customer success engineers provide the technical perspective and expertise. For example, they handle configuration requests, custom reports, and technical guidance.
+ - SAP help desk is available 24/7. This is supplemented by solution support for educational and technical issues and product and engineering for more difficult, deeper technical issues. Our tiered support system manages and routes requests efficiently, maintaining a 98% support satisfaction rate with a 2-hour first reply time (LeanIX data). 
+ - Onboarding services - SAP LeanIX's comprehensive suite of onboarding services include training and enablement, knowledge transfer, implementation and deployment, pre-built assets and model libraries, online learning, webinars, help guides, and community pages. This best-in-class approach is being extended to SAP Signavio as well.
+ - Professional Services offer specialized implementation and advisory services, including EA maturity assessments and business capability modelling. We also provide courses on methodologies, procedures, and best practices for deployment. These include establishing Centers of Excellence (CoEs) within an organization, developing business process management (BPM) and DTO disciplines and transformation as a capability, and establishing methodologies for value identification and realization.
+
+ We also present our solutions as part of the SAP Executive Advisory Boards (EAB) to seek input on how we can deliver better value.  
+ Additionally, we leverage SAP Influence portal, our external facing customer feedback channel for customers to raise their product topics and highlight feature requests. We measure our performance using metrics such as Net Promoter Score and satisfaction rates after each interaction and project completion. Across our portfolio, we record excellent customer service. This is measured with metrics such as an NPS score of 70+, and retention rates of approx 88%.
+
+### ROW 141: 4c. What are the top use cases of DTO based on your existing customers? > Remarks
+
+### ROW 142: 4c. What are the top use cases of DTO based on your existing customers? > Operational excellence is a core objective for our customers across procurement, finance, supply chain, application rationalization, and modernization. Our DTO plays a critical role in helping them achieve this goal. Companies may begin with a targeted process improvement initiative—such as optimizing procure-to-pay to enhance fulfilment accuracy—or embark on a broader transformation that reshapes multiple functions, like transitioning to shared services or the GBS model. By delivering granular insights into process optimization, resource utilization, and efficiency gains, our DTO enables organizations to approach transformation as a continuous capability. This ensures sustained performance improvement and empowers companies to elevate their operational standards over time.
+
+### ROW 143: 4c. What are the top use cases of DTO based on your existing customers? > Managing IT complexity requires a structured approach to modernization, technical debt reduction, and sustainability. This use case enables real-time visibility into the IT landscape through automated discovery, lifecycle data management, and obsolescence risk assessments. By integrating internal systems and external partnerships, organizations can optimize performance, reduce cost, scale with agility, and embed sustainability into decision-making. As part of a Digital Twin of an Organization, it supports data-driven transformation and ensures IT investments align with long-term business goals.
+
+### ROW 144: 4c. What are the top use cases of DTO based on your existing customers? > In an era of rapid technological change, AI advancements, and market volatility, automation is essential for businesses to remain agile and optimize resource deployment. Successful enterprise automation requires complete visibility into manual processes, performance impacts, and automation potential.
+
+Organizations can scale automation effectively across diverse environments by integrating enterprise observability—insights from processes, user tasks, communications, and AI-driven automation. Automation quality, orchestration, and validation are crucial for transformation initiatives and operational excellence.
+
+Validation is key in reassuring customers that automation initiatives will be stable and reliable before deployment. Customers can validate automation scenarios with continuous robotic testing by leveraging SAP Signavio, SAP Build, and endorsed partner UiPath. This helps identify potential risks—such as stability and reliability—before they impact operations, ensuring automation aligns with IT transformation objectives and drives sustainable success.
+
+### ROW 145: 4c. What are the top use cases of DTO based on your existing customers? > When making operational changes, organizations are keen to have visibility and understand the impact on the satisfaction (NPS) and experience of their customers, employees and suppliers' journeys. Our DTO capabilities are proving highly effective in the Customer Excellence domain because we are uniquely able to connect customer experience with Operational Excellence in our DTO; users can operationalize exceptional experiences at scale, ensuring both efficiency and customer satisfaction.
+
+### ROW 146: 4c. What are the top use cases of DTO based on your existing customers? > As organizations want to change their business model, a DTO enables them to simulate and align their business operations and technology to the new strategic outcomes. Using process mining and integrated roadmap planning of our enterprise architecture solutions, you can design your to-be state and ensure structured execution and clear impact visualization.
+
+### ROW 147: 4c. What are the top use cases of DTO based on your existing customers? > Digital Twins of an Organization (DTOs) enhance resilience and cybersecurity, particularly in regulated industries like Financial Services. By supporting compliance with frameworks such as the Digital Operational Resilience Act (DORA) and the Network and Information Security Directive 2 (NIS2), DTOs provide organizations with the visibility and control needed to manage risk effectively and safeguard critical assets. As AI adoption grows, strong governance within DTOs ensures transparency, accountability, and regulatory trust. By monitoring AI models, verifying data integrity, and detecting anomalies, DTOs bridge the gap between AI innovation and responsible governance, safeguarding critical assets and ensuring long-term resilience.
+
+### ROW 148: 4c. What are the top use cases of DTO based on your existing customers? > The objective for most customers of an ERP modernization project is to have a manageable transformation, reduce risks, and deliver value on investment. By leveraging an end-to-end framework that offers insights into the starting point (as is) and potential future scenarios (to-be) through simulation, DTOs can help to manage their transformation and deliver value promptly and effectively. In addition, customers can highlight risks and improvement gains along the transformation journey, building the capability of managing continuous change within the organisation.
+
+
+## SECTION: 5. ENHANCEMENTS AND R&D
+
+### ROW 159: 5a. Please describe any new feature, functionality, or enhancement done in DTO offering in 2024. > Overall impact on the solution offering
+
+### ROW 160: 5a. Please describe any new feature, functionality, or enhancement done in DTO offering in 2024. > Provides access to an extensive and continuously expanding set of industry benchmarks, increasing from 26 in 2023 to 184 today. Benchmarks are integrated into blocker metrics across all process flows, with hundreds more in preparation. This allows organizations to gain a comprehensive view of their performance, identify improvement areas, and set realistic transformation targets based on industry standards.
+
+Value for Digital Twin of an Organization: Supports data-driven decision-making by enabling organizations to measure performance in real-time against industry benchmarks. Enhances operational visibility, facilitates continuous process optimization, and ensures enterprises can proactively address inefficiencies as part of their continuous transformation initiatives.
+
+### ROW 161: 5a. Please describe any new feature, functionality, or enhancement done in DTO offering in 2024. > Root cause analysis identifies underlying factors contributing to deviations in key performance indicators (KPIs) by automatically testing multiple hypotheses within business process data. This enables users to uncover correlations and causal relationships that impact process efficiency and outcomes.
+
+Value for Digital Twin of an Organization: By continuously analyzing process-related data and providing automated insights into performance drivers, this capability enhances real-time visibility into operational inefficiencies. It enables organizations to simulate potential corrective actions and optimize business processes proactively, understand their impact within underlying applications, contributing to a more accurate and data-driven representation of the enterprise.
+
+### ROW 162: 5a. Please describe any new feature, functionality, or enhancement done in DTO offering in 2024. > Provides transformation leaders with a centralized platform to manage improvement opportunities, benchmark performance against industry peers, and drive value-based decision-making. It enables organizations to collect insights from multiple sources, orchestrate transformation initiatives, and maintain a comprehensive view of value potential to guide enterprise-wide change. The latest version enhances collaborative management of transformation by assigning insights and initiatives to users, offering a structured approach to assessing impact and optimizing enterprise performance.
+
+Value for Digital Twin of an Organization: Supports the creation of a dynamic and continuously evolving Digital Twin by integrating transformation insights into a unified environment. Enables real-time visibility into improvement opportunities and facilitates data-driven decision-making to align strategic initiatives with business goals.
+
+### ROW 163: 5a. Please describe any new feature, functionality, or enhancement done in DTO offering in 2024. > Successful business transformations require three key elements: robust tooling, a proven methodology, and high-quality content that accelerates time to value. Value Accelerators provide this foundation through best practices, reference process models, pre-built metrics, and actionable insights.
+
+Over the past year, significant progress has been made in making deep process and transformation expertise easily accessible. The launch of the Value Accelerator Library in 2024 introduced a centralized marketplace embedded within the suite, allowing business users to find and apply the most relevant content effortlessly. In mid-2023, the Plug and Gain approach was introduced, providing rapid diagnostics and data-driven insights into SAP ERP landscapes. Organizations now benefit from SAP and non-SAP system connectors, key performance indicators, external benchmarks, 1,500+ correction and innovation recommendations, and 7,000+ process models spanning industries and business functions.
+
+Value for Digital Twin of an Organization: Value Accelerators contribute to an accurate, real-time representation of the enterprise by integrating best practices with live system data. Organizations gain structured insights, allowing them to standardize processes, monitor performance, and continuously optimize operations. The ability to benchmark against industry standards and leverage automated diagnostics ensures informed decision-making and enterprise-wide transformation.
+
+### ROW 164: 5a. Please describe any new feature, functionality, or enhancement done in DTO offering in 2024. > AI-assisted process modeling accelerates and simplifies the creation of process models by leveraging AI-driven automation. It enables users to convert text, images, and unstructured files such as PDFs into BPMN models. Additionally, AI-powered recommendations provide process optimization suggestions and performance indicator benchmarks based on thousands of best practices, ensuring organizations can build upon proven frameworks without starting from scratch. The conversational AI assistant enhances user experience by enabling intuitive, guided process modeling through natural language interactions.
+
+Latest Development:
+AI-assisted process recommendations and performance indicator recommendations have been generally available since August 2024. The AI-assisted process modeler, including text-to-process functionality, is planned for general availability in early March 2025 and is currently accessible via SAP Signavio Lab.
+
+Value for Digital Twin of an Organization:
+This capability enhances the accuracy and efficiency of process modeling, ensuring a real-time, data-driven representation of enterprise processes. By embedding AI-driven insights and best-practice recommendations, organizations can continuously refine their operational workflows, reducing complexity and improving decision-making. The integration of AI-assisted modeling ensures that digital process representations remain up to date, facilitating enterprise-wide transformation and operational resilience.
+
+### ROW 165: 5a. Please describe any new feature, functionality, or enhancement done in DTO offering in 2024. > Advanced AI-powered capabilities democratize process analysis and mining, making them accessible to a broader audience. Users can leverage natural language queries to execute tasks, gain insights, and identify root causes efficiently. Innovations such as model-less conformance checking and AI agents enhance analytical precision, enabling users to address complex process challenges that were previously difficult to resolve. The AI Process Analyzer, Text-to-Insights, and Text-to-Widget functionalities are available to all customers via an open beta program.
+
+Latest Development: The AI-assisted process analysis and mining functionalities are currently in open beta, allowing users to experiment with and refine their use cases before full-scale deployment.
+
+Value for Digital Twin of an Organization: These AI-driven capabilities provide real-time insights into process performance, deviations, and inefficiencies, enhancing the accuracy and depth of the enterprise’s digital twin. By enabling intuitive analysis through natural language interaction, organizations can accelerate data-driven decision-making, optimize business processes, and drive enterprise transformation.
+
+### ROW 166: 5a. Please describe any new feature, functionality, or enhancement done in DTO offering in 2024. > Enables users to identify business challenges and set up transformation initiatives by leveraging AI-powered document analysis. Users can upload financial or business-related documents to receive automated insights and actionable recommendations without requiring in-depth knowledge of process landscapes. This facilitates rapid identification of improvement areas, making it accessible even to those new to business process management. The AI-assisted transformation advisor is currently available for customers in the SAP Lab Space.
+
+Value for Digital Twin of an Organization: Provides data-driven decision-making by transforming unstructured business data into actionable insights. Enhances real-time visibility into enterprise transformation initiatives by offering AI-generated recommendations tailored to organizational challenges. Supports continuous enterprise optimization by making process intelligence accessible to all stakeholders.
+
+### ROW 167: 5a. Please describe any new feature, functionality, or enhancement done in DTO offering in 2024. > Joule, the AI-powered co-pilot, provides an intuitive conversational interface that enhances user experience by enabling natural language interactions across the overall SAP portfolio. Now integrated into the SAP Signavio Collaboration Hub, it supports users in three key areas:
+
++ Informational: Retrieve insights about the process landscape, task ownership, and root cause analysis through natural language queries.
++ Navigational: Receive guided assistance in locating features, plans, and diagrams within the platform.
++ Transactional: Execute tasks such as creating process models through text-based commands.
+
+Value for Digital Twin of an Organization: Joule enhances the Digital Twin by enabling real-time, AI-driven interaction with enterprise process data. It improves accessibility to insights, accelerates decision-making, and streamlines process execution through AI-assisted automation, ensuring an up-to-date and actionable representation of enterprise operations.
+
+### ROW 168: 5a. Please describe any new feature, functionality, or enhancement done in DTO offering in 2024. > Enables the discovery, monitoring, and integration of AI agents within enterprise processes. Provides insights into AI agent performance and automates toolchain configurations to resolve inefficiencies detected in process models and analyses. A pre-built library of SAP agents is available (See https://www.sap.com/products/artificial-intelligence/ai-agents.html.)
+
+Value for Digital Twin of an Organization: Supports real-time visibility into AI-driven process automation, ensuring continuous optimization and adaptive workflows. Enhances decision-making by integrating AI-generated insights into operational models, enabling more intelligent and autonomous enterprise transformation.
+
+### ROW 169: 5a. Please describe any new feature, functionality, or enhancement done in DTO offering in 2024. > Automates the discovery and aggregation of SAP system and service data directly from SAP sources. Provides a comprehensive, real-time view of the organization's SAP landscape, reducing manual efforts, eliminating data gaps, and ensuring high-quality system insights. Supports ERP transformation initiatives by streamlining the discovery and exploration phases, while enabling automated updates to the application landscape as it evolves.
+
+Value for Digital Twin of an Organization: Ensures an accurate, real-time representation of SAP systems within the enterprise architecture, improving decision-making for IT and business transformation. Enables dynamic synchronization of the digital model with the actual IT environment, reducing risk and effort in maintaining an up-to-date enterprise view.
+
+### ROW 170: 5a. Please describe any new feature, functionality, or enhancement done in DTO offering in 2024. > Automates the discovery of the SAP application landscape across on-premise and cloud environments, providing instant visibility into deployed systems. Reduces manual effort, eliminates blind spots, and enhances data quality by continuously updating system insights based on SAP modeling best practices. The latest development introduces an automated approach to landscape updates, streamlining the discovery and exploration phases of transformations and ensuring alignment with SAP best practices.
+
+Value for Digital Twin of an Organization: Establishes a comprehensive and up-to-date digital representation of SAP system landscapes, facilitating real-time visibility into enterprise IT assets. Supports data-driven decision-making by ensuring accurate system documentation, accelerating transformation initiatives, and enabling proactive management of IT landscapes.
+
+### ROW 171: 5a. Please describe any new feature, functionality, or enhancement done in DTO offering in 2024. > Software Bill of Materials (SBOM) provides a comprehensive and continuously updated inventory of all software components, libraries, and dependencies within an organization’s application landscape. By generating SBOM files in industry-standard formats such as SPDX and CycloneDX, it ensures compatibility with security frameworks and regulatory requirements. The SBOM capability automates data ingestion from CI/CD pipelines, container registries, and third-party software sources, ensuring real-time accuracy. It integrates with vulnerability management systems to detect security risks in open-source and third-party components while also tracking compliance with software licensing policies and regulatory mandates such as Executive Order 14028, NIST SSDF, and the EU Cyber Resilience Act. Additionally, it enables proactive monitoring of component changes, helping organizations maintain a verifiable software inventory while mitigating risks associated with unverified dependencies.
+
+Value for Digital Twin of an Organization: By providing a real-time and structured view of the software supply chain, SBOM plays a critical role in establishing a Digital Twin of an Organization. It enhances cybersecurity posture by identifying vulnerabilities before they can be exploited and supports regulatory compliance by generating audit-ready documentation for risk governance. With greater visibility into software component health, versioning, and security status, organizations can make data-driven decisions regarding software procurement, modernization, and risk management. Furthermore, SBOM strengthens software supply chain resilience, ensuring that businesses can effectively assess third-party risks, maintain software integrity, and safeguard operational continuity.
+
+Note: This feature is currently available to a select group of clients, and its general availability is scheduled for Q1 2025.
+
+### ROW 172: 5a. Please describe any new feature, functionality, or enhancement done in DTO offering in 2024. > Provides curated data and best-practice recommendations for business capabilities, applications, IT components, and technology categories. Fact sheets linked to the catalog automatically synchronize with standardized taxonomy and classification updates. Discovery features leverage the catalog to enrich newly identified items with relevant metadata.
+
+Value for Digital Twin of an Organization: Ensures data consistency and governance by aligning enterprise architecture elements with industry-standard references. Reduces data discrepancies and enhances strategic planning by providing authoritative insights into technology stacks, business capabilities, and application landscapes.
+
+### ROW 173: 5a. Please describe any new feature, functionality, or enhancement done in DTO offering in 2024. > Provides industry-specific best practices for business capabilities, enriched with recommendations on the most suitable SAP applications to support each capability. Enables direct integration of reference business architecture into business capability catalogs, offering targeted guidance for capability mapping and transformation planning. Supports linking existing business capabilities to SAP’s reference architecture and importing predefined structures for enhanced strategic alignment. Includes predefined transformation pathways to accelerate SAP S/4HANA migration and enterprise modernization.
+
+Value for Digital Twin of an Organization: Enhances the accuracy and completeness of the enterprise’s digital representation by embedding industry-standard business capability frameworks and SAP application recommendations. Enables real-time, data-driven decision-making by aligning business architecture with IT landscapes. Facilitates enterprise transformation by streamlining strategic planning, optimizing application landscapes, and expediting SAP S/4HANA transition.
+
+### ROW 174: 5a. Please describe any new feature, functionality, or enhancement done in DTO offering in 2024. > Captures the technology stack for services, enabling teams to identify technology experts and align their work with engineering leadership. Supports the creation and publication of a Tech Radar, providing an overview of adopted technologies, enforcing standards, and facilitating decision-making regarding technology usage and emerging market trends. Combines automated discovery of technologies based on Kubernetes footprint and code composition with manual input from teams, ensuring a comprehensive and up-to-date representation of the tech landscape.
+
+Value for Digital Twin of an Organization: Enhances real-time visibility into the organization’s technology landscape by continuously mapping and categorizing technology components. This enables data-driven decision-making on technology adoption, standardization, and deprecation, ensuring alignment between IT strategy and business transformation initiatives.
+
+### ROW 175: 5a. Please describe any new feature, functionality, or enhancement done in DTO offering in 2024. > Enables structured modeling of AI governance and adoption through a meta model extension, supporting best practices for integrating AI across custom-off-the-shelf (COTS) software, SaaS, and self-built applications. Provides a standardized approach to capture AI-related capabilities, processes, algorithms, data objects, interfaces, and operational toolchains.
+
+Value for Digital Twin of an Organization: Establishes a comprehensive AI governance framework, offering real-time visibility into AI’s impact on business objectives, automation potential, and process enhancements. Facilitates data-driven decision-making by mapping AI algorithms, data utilization, and integration points within enterprise applications, ensuring transparency and compliance in AI adoption.
+
+### ROW 176: 5a. Please describe any new feature, functionality, or enhancement done in DTO offering in 2024. > Provides an out-of-the-box onboarding dashboard tailored for enterprise architects managing the IT landscape. Includes a health report to track onboarding progress and integrated enablement content, such as guided workflows and access to best-practice reports. Direct integration with learning resources ensures users can quickly gain insights and operational knowledge. Persona-specific dashboards offer structured goals, tasks, and step-by-step guidance to accelerate value realization.
+
+Value for Digital Twin of an Organization: Enables enterprise architects to efficiently model and maintain an accurate, real-time representation of the IT landscape. By streamlining onboarding and providing guided insights, the feature accelerates the adoption of structured data-driven decision-making, ensuring that IT governance and transformation initiatives are grounded in a well-documented and continuously updated enterprise architecture.
+
+### ROW 177: 5a. Please describe any new feature, functionality, or enhancement done in DTO offering in 2024. > In 2024, we expanded our global hosting footprint to 11 regions, adding Japan, Brazil, and Singapore to our existing locations. This expansion enhances performance, compliance, and data sovereignty for customers operating in these regions. The new hosting capabilities in Japan ensure lower latency, improved system reliability, and adherence to local regulatory requirements. Customers benefit from a secure and high-performance environment, enabling seamless IT governance and enterprise architecture management.
+
+Value for Digital Twin of an Organization: For organizations leveraging SAP LeanIX to build a Digital Twin of an Organization (DTO), the expanded hosting infrastructure provides a critical foundation for real-time data integration, enhanced system performance, and regulatory compliance. With data residency in Japan and reduced latency, enterprises can achieve more accurate IT landscape analysis, improve risk management, and drive continuous business transformation with greater confidence.
+
+### ROW 178: 5a. Please describe any new feature, functionality, or enhancement done in DTO offering in 2024. > Leverages AI to extract structured information from architecture documents, including images, presentations, PDFs, and Word files. Identifies fact sheets and relationships within unstructured content, allowing users to review and selectively import relevant data into a workspace. This AI-driven capability streamlines enterprise architecture management by automating data extraction and reducing manual effort.
+
+Value for Digital Twin of an Organization: As part of AI-powered enterprise architecture management, this feature accelerates the transformation of unstructured documentation into structured, actionable insights. By enabling real-time visibility into IT landscapes, it supports data-driven decision-making and enterprise transformation. Removing tedious and time-consuming tasks allows architects to focus on strategic initiatives that drive business value.
+
+NOTE: This feature is currently available to a select group of clients, and its general availability is scheduled for Q2 2025.
+
+### ROW 179: 5a. Please describe any new feature, functionality, or enhancement done in DTO offering in 2024. > The enhanced ServiceNow integration improves IT asset management by ensuring accurate, automated, and structured data synchronization across complex IT environments:
+
+-  AI-Powered Field Mapping: Intelligent suggestions simplify the configuration process by identifying the best table fields for synchronization, reducing setup time and errors.
+-  Automated Aggregation: Minor versions of software and hardware assets in ServiceNow are merged into a single fact sheet, improving inventory quality and eliminating redundant data.
+-  Multi-Instance Synchronization: A single workspace can now integrate with multiple ServiceNow instances, ensuring consistency across federated IT landscapes.
+-  Strict Mode Enhancements: Only unlinked records are removed, while manually created fact sheets and multi-source integrations remain intact, preventing data loss.
+-  Reference Catalog Integration: Automatically links synchronized assets to the reference catalog, updating vendor lifecycle information in real time and reducing manual effort.
+-  Aggregation Overview: Provides full transparency into how software installations are consolidated, allowing users to review and trace individual records and their associated hardware directly within ServiceNow.
+
+Value for Digital Twin of an Organization: This integration strengthens real-time visibility and data consistency across IT assets, enabling more accurate enterprise modeling. Automated lifecycle tracking enhances risk management, while structured aggregation reduces complexity, supporting data-driven decision-making and enterprise transformation.
+
+
+## SECTION: 6. COMPETITORS
+
+### ROW 193: 5c. Please provide details about your Roadmap. > Overall
+**ANSWER:** Celonis
+
+### ROW 199: 5c. Please provide details about your Roadmap. > BY Geography - NA
+**ANSWER:** IBM
+
+### ROW 204: 5c. Please provide details about your Roadmap. > BY Geography - EMEA
+**ANSWER:** Celonis
+
+### ROW 209: 5c. Please provide details about your Roadmap. > BY Geography - JAPAC
+**ANSWER:** Fujitsu
+
+
+## SECTION: 7. DIFFERENTIATORS
+
+
+## SECTION: 8. PARTNER ECOSYSTEM
+
+### ROW 223: 8. Please provide details about your partnership ecosystem for the DTO market > Name of the technology/capability/feature
+
+### ROW 224: 8. Please provide details about your partnership ecosystem for the DTO market > Risk mining
+
+The partnership between SAP Signavio and Datricks (SAP Endorsed App) combines the offerings and expertise of both companies to offer advanced risk mining capabilities to ensure financial integrity. Datricks provides AI-powered risk mining for financial integrity to detect, prevent, and mitigate financial risk in business processes. Combined with SAP Signavio, customers get proactive and data-driven risk mitigation to accelerate their business transformation. This enables streamlined risk assessment in business processes and optimized and prioritized audit and compliance focus.
+
+### ROW 225: 8. Please provide details about your partnership ecosystem for the DTO market > Strategy management and execution (OKR)
+with planned integrations into SAP Signavio and SAP LeanIX.
+
+Tangible Growth is a transformation tool that aligns business strategy with execution, providing data-driven insights and actionable roadmaps for sustainable growth. Its integration with SAP Signavio and LeanIX enhances process intelligence and enterprise architecture management, ensuring seamless transformation execution.
+
+SAP Signavio optimizes business processes, while LeanIX aligns IT landscapes with strategic goals. Together, they enable faster decision-making, improved governance, and holistic transformation management, ensuring organizations can drive measurable growth, operational efficiency, and future-proofed enterprise architecture in a dynamic business environment.
+
+### ROW 226: 8. Please provide details about your partnership ecosystem for the DTO market > Enhancing IT Visibility and Management
+SAP LeanIX and ServiceNow integrate seamlessly to enhance IT Service Management (ITSM) and Enterprise Architecture Management (EAM). This partnership enables:
+
+- Real-time Data Sync: ServiceNow’s Configuration Management Database (CMDB) stays aligned with SAP LeanIX for accurate, up-to-date insights.
+- Optimized IT Processes: Combining ITSM and EAM streamlines IT asset management, incident response, and change management.
+- Greater Transparency: Improved visibility into IT landscapes supports better decision-making and risk management.
+Setup is simple via the SAP LeanIX Integration app. This collaboration helps organizations enhance efficiency, accuracy, and strategic agility.
+
+### ROW 227: 8. Please provide details about your partnership ecosystem for the DTO market > Enhancing Data Governance and IT Alignment
+
+Collibra EDC (Enterprise Data Catalog) is a leading data governance platform that enables organizations to gain deeper visibility and control over their data assets. As a technology partner of SAP LeanIX, Collibra enhances data governance by bridging enterprise architecture and data architecture. This integration, further strengthened by its connection to the SAP Data Cloud, ensures that IT and business leaders have accurate, real-time insights to drive informed decisions on data management, application rationalization, technology investments, and compliance initiatives.
+
+By synchronizing key metadata between Collibra, SAP LeanIX, and SAP Business Data Cloud, organizations can assess the impact of data policies, regulations, and standards on IT architecture, fostering greater alignment across business and IT strategies. This integration also leverages SAP Data Cloud’s data harmonization capabilities, enriching metadata management and enabling seamless access to governed enterprise data.
+
+This guide provides a comprehensive overview of the integration’s benefits, the types of data synchronized across Collibra, SAP LeanIX, and SAP Business Data Cloud, activation steps, and detailed instructions on syncing data between these platforms.
+
+### ROW 228: 8. Please provide details about your partnership ecosystem for the DTO market > Task, user behaviour and productivity mining
+By integrating with different Task Mining vendors, we provide a holistic, data-driven understanding of business operations, seamlessly connecting high-level process flows with granular user tasks. ​We empower SAP Signavio customers to get enhanced visibility into user interactions across SAP and non-SAP systems, as well as enterprise and productivity applications. Doing so SAP Signavio is enabling organizations to unlock their full potential in process optimization and operational excellence. Furthermore these insights help customers to discover and prioritize use cases for automation, GenAI and Agentic AI.
+
+### ROW 231: 8. Please provide details about your partnership ecosystem for the DTO market > Sentiment and customer experience data
+Drive comprehensive business transformation by connecting human experiences with underlying process execution:
+- Enhance process and journey maps with customer sentiment and feedback, providing a complete view of process execution and customer experience.
+- Directly measure the impact of  process changes on customer experience, ensuring improvements are effective and customer-centric. 
+- Leverage CX insights in SAP Signavio transformation initiatives to create a 360° view of the processes.
+
+### ROW 234: 8. Please provide details about your partnership ecosystem for the DTO market > Remarks
+
+### ROW 235: 8. Please provide details about your partnership ecosystem for the DTO market > SAP has hundreds of Channel Partners, while the given top ten are the ten Channekl Partners with the highest revenue contribution to the SAP BTM and DTO solutions. Partners are shared in the order of their revenue contribution (highest revenue first).N
+
+### ROW 236: 8. Please provide details about your partnership ecosystem for the DTO market > NTT Data is the top-performing reselling partner for our transformation and digital twin technologies, consistently driving the highest revenue across our ecosystem. Their expertise in digital transformation and enterprise technology solutions makes them a global leader in implementing SAP Signavio and LeanIX at scale.
+
+### ROW 237: 8. Please provide details about your partnership ecosystem for the DTO market > All for One stands out as a premier European partner with deep expertise and unwavering commitment to SAP Signavio and LeanIX. Their strong regional presence and specialized focus enable businesses to accelerate their transformation journeys with tailored solutions and best-in-class implementation support.
+
+### ROW 238: 8. Please provide details about your partnership ecosystem for the DTO market > Kapish is our strategic partner in the Asia Pacific region, bringing specialized expertise in process and enterprise architecture management. Their deep understanding of digital transformation ensures that organizations across APAC successfully adopt and leverage SAP Signavio and LeanIX for business optimization.
+
+### ROW 239: 8. Please provide details about your partnership ecosystem for the DTO market > IBM is the partner with the broadest global influence, leveraging its deep industry expertise and advanced technology capabilities to drive large-scale transformation initiatives. As a trusted SAP partner, IBM helps enterprises worldwide unlock the full potential of digital twin technologies and process intelligence solutions.
+
+### ROW 240: 8. Please provide details about your partnership ecosystem for the DTO market > Carahsoft is a key partner in the U.S. public sector, helping government agencies and adjacent industries modernize their processes and enterprise architecture. Their expertise in procurement and large-scale software deployments ensures seamless adoption of SAP Signavio and LeanIX in highly regulated environments.
+
+### ROW 241: 8. Please provide details about your partnership ecosystem for the DTO market > PT Equine Global is a leading SAP Gold Partner in Indonesia, specializing in delivering cutting-edge digital transformation solutions with a strong foundation in SAP technologies. Their deep domain expertise in enterprise process optimization and IT solutions enables organizations to maximize value from SAP Signavio and LeanIX.
+
+### ROW 242: 8. Please provide details about your partnership ecosystem for the DTO market > Accenture and Navisite (accenture aquisition) play complementary roles in SAP’s partner ecosystem, with Accenture serving as the most influential global partner driving large-scale enterprise transformation, while Navisite focuses on mid-market and corporate clients. Together, they help organizations of all sizes accelerate their digital transformation and optimize their business processes with SAP Signavio and LeanIX.
+
+### ROW 243: 8. Please provide details about your partnership ecosystem for the DTO market > Scheer is a distinguished SAP partner with decades of expertise in process management, now expanding its impact into enterprise architecture management. Their combination of academic insights, industry knowledge, and hands-on experience makes them a trusted advisor for businesses looking to drive digital transformation with SAP Signavio and LeanIX.
+
+### ROW 244: 8. Please provide details about your partnership ecosystem for the DTO market > KING ICT is a recognized SAP Partner Center of Expertise, demonstrating a strong track record in delivering digital transformation solutions across various industries. With a focus on enterprise process optimization and IT-driven innovation, KING ICT enables organizations to streamline operations and enhance business agility using SAP Signavio and LeanIX.
+
+### ROW 245: 8. Please provide details about your partnership ecosystem for the DTO market > Valantic is one of Germany’s strongest SAP partners, combining top-tier business consulting capabilities with deep transformation expertise. Their integrated approach to process intelligence and enterprise architecture ensures that businesses achieve sustainable growth and innovation through SAP Signavio and LeanIX solutions.
+
+### ROW 246: 8. Please provide details about your partnership ecosystem for the DTO market > We have an additional list of Consulting and Advisory Partners that are not managed through our Channel, because their main Focus is not on reselling our software, but on transformation projects. We are also sharing the Top Partners here.
+
+
+## SECTION: 9. TECHNOLOGY AND MARKET TRENDS
+
+### ROW 253: 9a. What are the top 5 key trends for DTO solution from technology and market perspective. > How are you striving to align with the trends?
+
+### ROW 254: 9a. What are the top 5 key trends for DTO solution from technology and market perspective. > Achieving cost and efficiency gains requires clear visibility into how functions and processes interconnect—something traditional methods fail to provide. That’s why we leverage Digital Twins of an Organization (DTOs) to uncover optimization opportunities.
+
+DTOs offer a real-time, dynamic view of business operations through comprehensive analytics, intelligent mining and recommendations, helping organizations pinpoint inefficiencies, assess impacts and root causes, and drive smarter decisions . By embracing this approach, we ensure that cost reductions, efficiency improvements, and value creation are data-driven and strategic.
+
+### ROW 255: 9a. What are the top 5 key trends for DTO solution from technology and market perspective. > Creating seamless customer and employee experiences requires a deep understanding of how processes, systems, and interactions come together. Without this visibility, inefficiencies, bottlenecks, and inconsistencies can disrupt the user journey and satisfaction.
+
+We leverage Digital Twins of an Organization (DTOs) to provide a real-time, end-to-end view of journeys, helping customers identify and eliminate friction points. By continuously analyzing how processes impact and interconnect with the experience journeys, we can anticipate the effect of operational changes on customers / employees to ensure  continuous satisfaction and efficiency.
+
+### ROW 256: 9a. What are the top 5 key trends for DTO solution from technology and market perspective. > As AI transforms Digital Twin of an Organization (DTO) strategies, ensuring transparency, compliance, and control has become critical. Without strong governance, AI-driven insights/recommendations risk being misaligned with enterprise goals, regulatory requirements, and ethical standards.
+
+We are embedding AI-driven governance into our DTO approach to enforce policies, maintain trust, and ensure AI-powered decisions align with enterprise architecture. This ensures that as AI adoption accelerates, organizations can confidently leverage AI-driven insights while maintaining compliance, security, and operational integrity.
+
+### ROW 257: 9a. What are the top 5 key trends for DTO solution from technology and market perspective. > With regulations evolving and risk landscapes growing more complex, real-time oversight is essential for maintaining compliance and managing risk effectively. Static, siloed approaches no longer suffice in today’s fast-changing environment.
+
+We leverage Digital Twins of an Organization (DTOs) including risk mining capabilities to provide dynamic, real-time visibility into processes, controls, and dependencies. This enables proactive compliance management, risk mitigation, and faster responses to regulatory changes—ensuring organizations stay ahead of risks while maintaining operational integrity. Further, AI-powered risk mining ensures financial integrity while detecting, preventing, and mitigating financial risks in business processes.
+
+### ROW 258: 9a. What are the top 5 key trends for DTO solution from technology and market perspective. > With increased market volatility and disruption, companies are aiming to achieve stronger levels of operational resilience. Our DTO approach helps them mimic the as-is reality, analyze, and self-adjust autonomous business operations by feeding real-time data and enabling agentic AI.
+
+
+## SECTION: 1
+
+
+## SECTION: 2
+
+
+## SECTION: 3
+
+
+## SECTION: 4
+
+
+## SECTION: 5
+
+
+====================================================================================================
+SHEET: Criteria Specific Questions
+====================================================================================================
+
+### Question 1.0
+How does your solution/platform handle data ingestion from multiple sources?
+
+### Question 2.0
+Do you have pre-built connectors for popular enterprise systems?
+
+### Question 3.0
+What methods do you use for data normalization and synchronization across various data sources?
+
+### Question 4.0
+What types of data formats and protocols are supported for data ingestion?
+
+### Question 5.0
+Can your platform handle both batch and real-time data processing?
+
+### Question 6.0
+What is the underlying architecture of your digital twin platform (e.g., microservices, monolithic, hybrid)?
+
+### Question 7.0
+How does your platform handle distributed computing for scaling purposes?
+
+### Question 8.0
+How does your platform handle scalability when expanding the digital twin model (e.g., more devices, additional processes)?
+
+### Question 9.0
+What mechanisms are in place for failover, redundancy, and high availability?
+
+### Question 10.0
+What modeling techniques do you use to represent complex organizational processes (e.g., discrete event simulation, agent-based modeling, system dynamics)?
+
+### Question 11.0
+Can the product model both physical and business processes (e.g., manufacturing processes, supply chain logistics)? If yes, please explain
+
+### Question 12.0
+What types of models can be created for the Digital Twin?
+
+### Question 13.0
+What level of granularity do you support for modeling real-world processes and assets?
+
+### Question 14.0
+Can the solution perform predictive analytics to enhance operational efficiency and support decision-making?
+
+### Question 15.0
+How does the solution leverage AI/ML for predictive maintenance, demand forecasting, or process optimization?
+
+### Question 16.0
+How do you manage edge computing, particularly for processing data closer to the source in IoT or manufacturing environments?
+
+### Question 17.0
+How do you manage authentication, authorization, and auditing within the platform?
+
+### Question 18.0
+How customizable is the user interface to suit different users?
+
+### Question 19.0
+How does the platform handle lifecycle management of both virtual and physical assets (e.g., tracking asset performance, end-of-life, upgrades)?
+
+
+====================================================================================================
+SHEET: Technology Excellence Criteria (Scoring Weights)
+====================================================================================================
+
+ROW 2: Technology Excellence | Weightage | Parameters | Description
+ROW 3: Advanced Digital Modeling & Simulation | 0.25 | Advanced Digital Modeling & Simulation | Ability to create high-fidelity models of the organization, including processes, assets, and workflows, to simulate different operational scenarios and predict outcomes.
+ROW 4: Real-Time Data Integration & Synchronization | 0.2 | Real-Time Data Integration & Synchronization | Seamless integration with IoT devices, ERP systems, and other enterprise software to continuously update and synchronize the digital twin with real-world data in real time
+ROW 5: AI-Driven Predictive Analytics & Optimization | 0.15 | AI-Driven Predictive Analytics & Optimization | Use of AI and machine learning to forecast trends, optimize operations, and identify areas for improvement by analyzing data from the digital twin and real-world systems.
+ROW 6: Scenario Planning & What-If Analysis | 0.1 | Scenario Planning & What-If Analysis | Running simulations to test different operational scenarios, evaluate risks, and assess the impact of changes on the organization’s performance
+ROW 7: Interoperability and Integration | 0.15 | Interoperability and Integration | Ensuring that the DTO integrates smoothly with various enterprise applications (ERP, CRM, SCM, etc.) and other third-party tools for comprehensive data flow and decision-making
+ROW 8: Scalability & Cloud-Native Architecture | 0.05 | Scalability & Cloud-Native Architecture | Support for scalable, cloud-based deployments that can handle growing data, complexity, and organizational expansion, ensuring flexibility and adaptability
+ROW 9: Technology Vision & Roadmap | 0.05 | Technology Vision & Roadmap | What is the future plan associated with capabilities, organizational strategies, new product development, etc.
+ROW 10: Application Diversity and Use Cases | 0.05 | Application Diversity and Use Cases | The ability of a Digital Twin of an Organization (DTO) to support a wide range of use cases across various departments providing tailored solutions to enhance operational efficiency and decision-making.

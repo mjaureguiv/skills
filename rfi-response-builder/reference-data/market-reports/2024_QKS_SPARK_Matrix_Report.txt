@@ -1,0 +1,2886 @@
+=== SPARK Matrix DTO Q2 2024 Report ===
+Pages: 94
+
+
+--- PAGE 1 ---
+1
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+SPARK Matrix™: 
+Digital Twin of an Organization 
+Solution, Q2 2024 
+Market Insights, Competitive Evaluation, and Vendor Rankings 
+April, 2024
+Enterprise Architecture Planning
+
+--- PAGE 2 ---
+2
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Quadrant Knowledge Solutions conducted 
+an extensive analysis of major DTO 
+vendors, assessing their products, 
+market presence, and customer value 
+proposition through expert interviews, 
+use case analysis, and industry expertise. 
+We evaluated vendors on various 
+criteria, categorized into “Technological 
+Excellence” and “Customer Impact” for 
+Digital Twin of an Organization (DTO) 
+providers. From our research, we 
+identified 19 significant players in the 
+market, including Ardoq, Arrayworks, 
+Bee360, Bizzdesign, BOC Group, 
+BOXARR, BusinessOptix, CANEA, Celonis, 
+Edge Total Intelligence, Holocentric, IBM, 
+iGrafx, Interfacing Technologies, Mavim, 
+QPR Software, QualiWare, SAP Signavio, 
+and Software AG. 
+The report provides a comparative 
+analysis of the providers’ performance, 
+offering valuable insights to Enterprise 
+Architecture professionals, process 
+managers, and IT professionals for 
+informed decision-making.
+Summary of Summary of 
+ReportReport
+Key Findings Key Findings 
+SPARK MatrixTM identified IBM, 
+Celonis, SoftwareAG, SAP Signavio, 
+iGrafx, Mavim, BOC Group, Bee360, 
+QualiWare, Interfacing Technologies, and 
+BusinessOptix as SPARK leaders.  Ardoq, 
+Bizzdesign, QPR Software, Edge Total 
+Intelligence, CANEA, BOXARR and Strong 
+Contenders, Holocentric and Arrayworks 
+as Aspirants.  
+DTO vendors have made significant 
+strides in AI & Analytics, Automation, 
+Process Conformance Excellence, What-if 
+Simulation, Data & Process Repository, 
+Journey Modeling, Process & Task Mining, 
+and Enterprise Visibility. They automate 
+testing of future process scenarios, 
+uncover workflow patterns, and predict 
+outcomes within a unified platform.
+Organizations’ crate efficient DTO 
+solutions by aligning technologies with 
+customer and business needs and 
+integrating diverse software to create 
+a digital representation of processes, 
+applications, and architecture. This 
+model, simulated with real-time 
+data, continually enhances process 
+performance.
+--- PAGE 3 ---
+3
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Figure: Creating Digital Twin of an Organization
+--- PAGE 4 ---
+1
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Figure: 2024 SPARK Matrix™
+(Strategic Performance Assessment and Ranking)
+Digital Twin of an Organization Solution Market
+SPARK Matrix™: 
+Strategic Performance Assessment and Ranking
+SPARKL eadersAspirantsS trongC ontenders
+SPARKM atrix
+ : Digital Twin of an Organization (DTO)S olution,Q 2 2024
+April 2024 ©QuadrantK nowledge Solutions
+tcapmIremotsuC
+Technology Excellence
+Celonis 
+Software AG
+CANEA
+QualiWare
+SAPS ignavio
+IBM
+g
+w
+a
+re
+QPR Software
+Ardoq
+Bizzdesign 
+Edge Total 
+Intelligence
+Mavim Bee360
+BusinessOptix
+Arrayworks
+BOXARR
+iGrafx
+BOCG roup
+Holocentric
+Interfacing 
+Technologies
+OXA
+S
+ f
+AN
+E
+l
+i
+W
+I
+T
+p
+IBM
+O
+entr
+Mav
+i
+m
+
+--- PAGE 5 ---
+2
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Key Competitive Factors and 
+Technology Differentiators
+Journey-to-Process:  This enables organizations to increase the scope of the 
+DTO to customer-facing touchpoints and implications of business processes. The 
+ability to include internal and external customer data (NPS, sentiment, CSAT, VoC) 
+and internal Business Process data (Cycle times) enables practitioners to have a 
+DTO that is not only centered on internal processes. Only adopting a customer-
+centric approach might lead to a gap between the organizational offerings in 
+terms of the companies’ strengths and the customers’ wants. Likewise, if the 
+organization decides to focus solely on its offerings depending on its capabilities 
+and disregard the customers’ desires, the company might end up offering a quality 
+product that could witness a low demand in the market. Thus, a balance between 
+the two strategies is essential to bring together the best of the product offering 
+in the precise market where there is a high demand for the same. This can be 
+achieved by making use of DTO which provides in-depth analysis with regards 
+to the organizational process and functioning and the customers’ requirements.
+End-to-End Transformation Platform: The DTO platform helps to manages all 
+aspects of an initiative in one place. Vendors are having the ability to model an 
+organization from multiple perspectives (top-down, bottom-up, cross-functional 
+and/or at detailed levels) within a single area of necessities. Users should evaluate 
+vendors that enables all levels of the organization’s team (and external parties) to 
+see high-level and detailed views of models and processes relative to their role 
+in an initiative and/or the organization. Vendors are also offering out-of-the-box 
+performance metrics that permits team members to compare themselves with 
+peers from the same and from different departments. This differentiating factor 
+allows teams to compare themselves with good and bad performing entities within 
+the organization and improve their performance. 
+Support Strategy to Execution Initiatives: A fully integrated, powerful, and 
+future proof DTO solution should support strategy to execution initiatives within 
+an organization. It is supported by role based and customizable dashboards 
+provides relevant information to everyone. This means that all aspects of the 
+strategy can easily be visualized and clarified on all levels in the organization. The 
+overall status of the strategy can easily be viewed as well as the ability to quickly 
+drill down in to the details of each goal, KPI, initiative, action, etc. Users should 
+evaluate vendors providing native integration between Strategy Management, 
+Project Management, Document Management, Workflow Management and 
+--- PAGE 6 ---
+3
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Process Management you have a solution that will assist in creating strategy, 
+ensure that all activities are aligned with the strategy, allow employees to focus on 
+important activities and, as a result, strengthen your completeness and increase 
+profitability.
+Enterprise Architecture Support: The vendors should support EA tools that 
+will allow organizational leaders to focus on strategic activities that align specific 
+businesses, applications, and IT requirements with the business outcomes 
+to achieve common goals for the entire organization. EA manages all IT asset 
+inventory regardless of where they reside, as well as the key characteristics 
+of those assets, which include technical capabilities, application architecture, 
+databases, value streams, and others. Further, it helps users to reveal areas of 
+excessive technical debt, outdated and obsolete applications, and duplicated 
+assets and remove them because EA is no longer aligned with business needs 
+to save cost. The platform should also offer technology roadmapping tools that 
+can automatically manage and update application status, pinpointing applications 
+that are outdated, require greater investment, and put the legacy applications on 
+a path of replacement.
+Process Mining Support: Process mining is one of the key enablers of DTO, 
+as it uses data directly from operational systems and creates a visualization 
+of processes. Process mining also offers contextual data to help see beyond 
+process operations and identify the reasons behind their occurrence. As a 
+process discovery, analysis, and monitoring tool, process mining automatically 
+discovers and connects current data with the pre- existing data to provide the 
+actual visualization of the process flow. Through its root cause analysis, process 
+mining monitors the performance and reflects the causes of inefficiencies and 
+bottlenecks in the process. It automates the simulation process and continuously 
+monitors the KPIs defined by the organizations, allowing digital optimization and 
+digital transformation of the organizations. Hence, a DTO solution offers process 
+mining capabilities like comprehensive data aggregation, process modeling, data 
+mining, deriving business rules, and running simulations. Also read “Digital Twin 
+of an Organization: A holistic process-driven decision-making solution”.
+Task Mining Support: Task mining enables companies to understand how 
+user perform their task by monitoring their actions. It can capture task logs and 
+exchange them with process mining’s process event logs for exploding the 
+level of the analysis from process mining events into task data logs. Vendors 
+are offering Bring Your Own Task Mining as a flexible API-based architecture 
+enabling customers to integrate with any task mining tool. 
+--- PAGE 7 ---
+4
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Process Conformance: Vendors are enhancing their conformance checking 
+capability which compare the actual process steps with the ideal process model 
+which includes BPMN models in event logs. If the actual process matches the 
+model, it’s in conformance, if there is a difference it indicates deviation from the 
+intended process flow.
+Maturity of What-if analysis: The platform should have the ability to create 
+what-if scenarios that allow leaders to understand the impact of any change 
+related to costs, resources, timeline, and benefits in the projects, programs, and 
+portfolios of an organization. The users should be able to quickly respond to any 
+possible changes in the portfolio to triage problem and predict future outcomes 
+with scenario planning. Thus, the users should evaluate vendors who are utilizing 
+emerging technologies like AI to predict the project, program, or portfolio roadmap 
+and provide recommendations to take future decisions. 
+Full fledge Automation Platform: Automation allows DTO users to quickly move 
+from insights to development and then monitor post implementation performance 
+of the model. To leverage this some of the vendors are offering automation solutions 
+such as RPA, workflow automation, API, for faster execution of processes. This is 
+executed on a real- time basis and implemented with immediate feedback, and 
+with corresponding corrections in the output values. ML, AI, and big data analytics 
+are the primary drivers which differentiate organizations’ operational excellence 
+from one another. Thus, an organizational setup heavily reliant on a process-
+driven approach would further have the autonomy to communicate with different 
+processes, gather and compare critical data points, and gauge the need to tweak 
+certain parameters as per requirement– all in a virtually simulated environment.
+Decision Rule Mining & Root Cause: Vendors are offering Decision Model and 
+Notation (DMN) models with decisions populated by its decision rule mining 
+capability. Decision rules are used for data simulation and root cause analysis of 
+deviations detected by the conformance checking analysis. It leverages AI/ML 
+algorithms to discover and derive business rules (descriptive and discriminative) 
+and root-causes behind process deviations/non-conformances.
+Multilevel Analysis & Process Documentation: this enables to discover and 
+visualize digital representation along with overall and fine-grained statistics. It also 
+provides an end-to-end holistic view of the processes containing multiple business 
+entities through process mining/ task mining capability. In addition, vendors are 
+also allowing teams to document, share and collaborate through an intuitive and 
+easily accessible web tool. Process mining, task mining and multilevel process 
+--- PAGE 8 ---
+5
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+mining together provide the user with the most precise and accurate dynamic 
+model in the market.
+Integration and Interoperability: The DTO can integrate processes through 
+adapters/connectors like RESTful APIs, message-oriented middleware (MOM), 
+files and databases to receive and send data. The platforms also have adapters 
+for web services, packaged applications, or sensor data in event streams or 
+historical databases. The vendors are also offering seamless integration with 
+collaborative tools that help employees to accomplish their tasks more efficiently. 
+Users should evaluate the DTO solution that provides an integral approach to 
+operate and transform the processes and structure of the whole organization.
+Ease of Implementation: DTO solution should support large enterprises’ needs 
+with its scalable technical architecture that allows for load-balanced deployment 
+across multiple organizational processes. The DTO ensures that organizations 
+are safeguarded from potential vulnerabilities in the context of business lifecycle 
+uncertainty, product safety & security, uncertainty in the operational cycle, and 
+repeatability of operations. The DTO also promotes a streamlined day-to-day 
+operational sequence of the activities and real-time cross-functional collaboration. 
+It offers lesser time to model and to visualize the organization, along with ensuring 
+ease of analyzing and understanding the operational virtual model. The more 
+simplified and easier to implement the DTO, the higher is the probability and rate 
+of adoption, thus promoting an exponential increase in operational efficiency. 
+The users should also evaluate vendors that can capture automation, innovation, 
+process improvement, transformation opportunities in less time.
+Supporting a Variety of Use Cases: A DTO primarily drives the digital 
+transformation, reduces process redundancies, and promotes a configured 
+enterprise architecture capable of handling a variety of system complexities. 
+The DTO is meant to mirror the entire organizational system to understand the 
+technology trends and leverage & accommodate technologies like AI, ML and 
+IoT into the purview of the organizational jurisdiction seamlessly. A DTO ideally 
+supports a plethora of use cases in practically any field of operation globally, 
+and the potential to tap into it is practically unlimited. A DTO could be used for 
+improved enterprise-level decision-making, customer experience management, 
+impact on change communication within the organization, monitoring business 
+transformations in the digital context, amalgamating the project implementation 
+--- PAGE 9 ---
+6
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+and project strategy, cost optimization, and benchmarking & streamlining 
+operational tasks. Users should evaluate the DTO vendors that support their 
+organization-specific and industry-specific use cases to ensure an enhanced 
+technology ownership experience.
+Smarter Insights - Data-Driven and Human-Based: Modern business environment 
+is quite complex owing to exponentially increasing data packets being generated, 
+intricate processes and complex human behavior and the interrelation and 
+interdependencies between them. A DTO can provide key insights and predictive 
+suggestions based on the available data and process information. By utilizing 
+intelligent data handling tools, business analysis, automatic task management, and 
+the incorporation of human behavior patterns and actions, the system can come 
+up with better and more realistic solutions for manageable process workflows. 
+Hence, many vendors are focusing on offering smarter insights by combining 
+both data-driven insights with a touch of human operations management.
+Scalability: Previously, organizations would focus on individual monitoring 
+devices for recording and analyzing process flows from the inventory to the 
+delivery and understanding the run-time data to figure out the downtime, 
+maintenance requirements, process output efficiency and improvements, as 
+and when required. Nowadays, companies seek wide predictive maintenance, 
+critical asset deployment analysis, and system & network monitoring. Thus, the 
+scalability of the DTO solution is critical for integrating the increasing number 
+of processes, systems, departments, and stakeholders. Scalability also helps 
+redefine and visualize the organizational mission and redesign the processes 
+and technology offerings since it provides an elaborate understanding of the 
+organization’s capacity to perform if the scale of operations was to increase 
+multiple times and whether there would be any breakdowns in the functioning of 
+the system operations.
+Vendors Domain Knowledge and Industry Experience: As the DTO market 
+is evolving, the users should evaluate vendors based on their specific domain 
+knowledge to provide an innovative, holistic virtual representation of the 
+organization’s process and position themselves as the provider of the wide range 
+of use cases. Users are also advised to consider the vendor’s capability of offering 
+advanced technological tools like AI/ML into their platform in forecasting, planning, 
+and predefining what next step should be taken to continuously improve process 
+outcomes. Users must carefully examine vendors who are replacing tools in the 
+areas of enterprise architecture management, IT financial management, strategy 
+execution management, task management, and project & portfolio management.
+--- PAGE 10 ---
+7
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Product strategy and Roadmap: Provision of DTO requires a systematic 
+understanding of the application for which the system needs to be used, along with 
+keeping track of the current technological trends and value propositions that are 
+expected by organizations. Further, DTO vendors focuses more on technological 
+and simulation enhancements and fast-track situation-specific insights making 
+use of advanced analytics, including AI & ML, for better predictive modelling. 
+Faster and smarter insights utilizing predictive data modelling and analytics, 
+increased support for a variety of use cases, and enhanced platform integration 
+capabilities are some of the product strategies that vendors are looking forward 
+for incorporation. Additionally, increasing support for big data, IoT data, and 
+event data, along with a focus on comprehensive surveillance solutions with 
+sophisticated data integration and analytics capabilities, would result in the 
+incorporation of customized model development and propel the existing process 
+and workflow technologies.
+Continuous Monitoring and Feedback:  Real-time data addition, processing, 
+and continuous analysis are of paramount importance for the efficient functioning 
+of a DTO system. The platform is also equipped with notification, alerting, and 
+triggering capabilities for sending emails, text messages, or other alerts. It also 
+exports and shares results with configurable and customizable visualization 
+dashboards to align and meet stakeholders’ expectations. The simulations that 
+are undertaken are based on assumptions conforming to many parameters. Time 
+and the demands of the real-time change in events can distort the values of 
+these parameters. The system needs the flexibility to accommodate deviations, 
+uncertainties, and changes in values based on human effort. Hence, the DTO 
+offering needs a provision for continuous feedback supply, which would enhance 
+the output provided and result in continuous improvements in the current 
+predictive models, resulting in more accurate insights.
+Supporting Technologies: The DTO vendors have been evolved from various 
+solutions providers such as enterprise architecture planning (EA), process 
+mining, strategy to execution management, business process management, and 
+business performance management.  Now the vendors having expertise in low 
+code automation, quality management, business continuity management, and 
+customer journey mapping are also looking forward to providing DTO solutions for 
+organizations to map processes, performance, quality, and customer interaction 
+data to create more enhanced DTO solutions.
+--- PAGE 11 ---
+8
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Following are the profiles of the leading digital twin 
+of an organization solution vendor with a global 
+impact. The following vendor profiles are written 
+based on the information provided by the vendor’s 
+executives as part of the research process. The 
+Quadrant research team has also referred to the 
+company’s website, whitepapers, blogs, and other 
+sources for writing the profile. A detailed vendor 
+profile and analysis of all the vendors, along with 
+various competitive scenarios, are available as a 
+custom research deliverable to our clients. Users 
+are advised to directly speak to respective vendors 
+for a more comprehensive understanding of their 
+technology capabilities. Users are advised to consult 
+Quadrant Knowledge Solutions before making any 
+purchase decisions regarding DTO technology 
+and vendor selection based on research findings 
+included in this research service.
+Vendors Profile and Vendors Profile and 
+AnalysisAnalysis
+--- PAGE 12 ---
+9
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+SAP
+URL : https://www.signavio.com/
+SAP Signavio (part of SAP) was founded in 2010 and is headquartered in 
+Berlin, Germany. SAP Signavio solutions transform enterprises in intelligent 
+and sustainable ways by offering industry-specific end-to-end business process 
+management. SAP is offering DTO solution through SAP Signavio Process 
+Transformation Suite and LeanIX Enterprise Architecture (acquired 2023). 
+SAP Signavio and LeanIX offer a comprehensive portfolio of features to 
+streamline processes, enterprise architecture management and drive business 
+transformation. The solutions cover Process Data Management, which connects 
+to diverse data sources, and Process Discovery, utilizing tailored canvases and 
+accelerators. Process Analytics provides visualization and insights, while Actions 
+automate tasks through SAP Build Process Automation. Task Mining integrates 
+with partners for task log capture, and Pre-built Analytics offer SAP ERP insights 
+in 24 hours. Live Insights, Canvas-based Modeling, Simulation, Journey Modeling, 
+Benchmarking, Value Accelerators, Process AI, Transformation Management, 
+Governance, Decision Management, Risk Indicators, and Integration form its 
+core functionalities. Additionally, features like Bi-directional Integration with the 
+connector for SAP Solution Manager and integration with LeanIX - Application 
+Portfolio Management, Technology Risk & Compliance, Roadmap and Architecture 
+Planning, and Business AI capabilities -, for  Enterprise Architecture Management 
+contribute to enhancing decisions and driving business transformation. 
+
+--- PAGE 13 ---
+10
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Analyst Perspective 
+Key Differentiators 
+• SAP’s portfolio merges process and enterprise architecture optimization 
+capabilities along with third-party features to enhance enterprise observability 
+for business transformation. SAP Signavio integrates discovery, mining, 
+modeling, and execution, promoting a data-driven approach to process 
+optimization. This comprehensive solution accelerates model creation, fosters 
+continuous improvement, and reduces redundant tools and costs, making it 
+highly appealing.
+• Process AI provides Generative AI-powered applications based on Large 
+Process Models infused with unique process and SAP knowledge across 
+the SAP Signavio product suite. Use cases include a process and KPI 
+recommender that offers process and domain owners preconfigured process 
+models recommendations drawn from a database of thousands of best 
+practices, alongside the identification of relevant performance and compliance 
+KPIs from thousands of options, grounded in SAP’s years of industry-leading 
+experience and best practices. Additional upcoming use cases include 
+prompt-based analytics, text and picture to process, knowledge and context 
+augmentation, improvements and action recommendations and more, all 
+powered with generative AI.
+• SAP offers value accelerators that provide out-of-the-box best practices and 
+domain expertise supporting transformation and improvement use cases as 
+part of the SAP Signavio and LeanIX portfolio. This helps customers to start 
+their projects more easily and upon a strong foundation of expertise, accelerate 
+the time to value of their transformation and improvement initiatives. 
+• SAP Signavio provides benchmarking and out-of-the-box metrics, offering 
+pre-defined and easily extractable metrics including over 60 process flows 
+and a comprehensive set of over 2,500 tested metrics, developed through 
+decades of consulting projects in collaboration with SAP customers, alongside 
+benchmarking capabilities for comparing performance with peers and 
+assessing entities within their own structure, with pre-selected comparison 
+sets for convenience.
+--- PAGE 14 ---
+11
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+• Journey Modelling and Connecting Experience to Processes (Journey-to-
+process) enables organizations to extend the Digital Twin of an Organization 
+(DTO) to customer-facing touchpoints, integrating external customer data 
+(such as NPS and sentiment) and internal Business Process data (like cycle 
+times), facilitating a holistic DTO that incorporates the broader customer 
+experience alongside the impact of business processes.
+• Automated Insights comprises a portfolio of advanced statistics run 
+autonomously by a dedicated engine, allowing users to guide auto-generation 
+by selecting target metrics, objects, and attributes, with the ability to save and 
+collaboratively share insights, including textual descriptions and value drivers.
+Product Strategy  
+• Technology Roadmap: SAP aims to enhance data management and 
+connectivity by integrating SAP Datasphere capabilities into SAP Signavio 
+and providing additional prebuilt connectivity templates using SAP Integration 
+Suite. They also plan to expand API offerings to include access to engines for 
+external analytical and transactional applications, fostering an open ecosystem. 
+Furthermore, they are enhancing enterprise-grade scalability and security, 
+aiming to analyze processes with up to 2 billion events and improve access 
+rights management. Additionally, the company is improving Suite integration 
+through a shared dictionary and data platform to streamline integration and 
+reuse of configured objects across products for validation, benchmarking, and 
+AI training.
+• Strategic Roadmap: The company is focused on five core areas aimed at 
+enhancing and expanding Digital Twin of an Organization (DTO). The company 
+is refining Large Process Model to integrate advanced AI applications like 
+Prompt-based Process Discovery and Process & KPI Recommender systems, 
+along with SAP’s Business AI capabilities like Joule. It is also prioritizing AI-
+driven analytics to offer actionable recommendations, speeding up decision-
+making and execution, while deploying sophisticated analytical tools for deeper 
+insights from complex datasets. Furthermore, the platform support enterprise-
+wide modeling and governance scenarios and expanding repository of best 
+practices and value accelerators to fast-track organizational transformations.
+--- PAGE 15 ---
+12
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Market Strategy  
+• Geo-expansion Strategy: SAP is segmenting the market into four main 
+clusters. In established markets like NA, Australia, and Western Europe, for 
+large enterprises (both SAP and non-SAP companies), the company strategy 
+involves a customer-centric approach focused on targeted accounts and 
+industries, utilizing account-based marketing to ensure customer satisfaction, 
+value-driven outcomes, and company-wide adoption. In the same established 
+markets for mid-market companies, SAP support customers in identifying 
+individual processes with the most significant impact achievable within budget, 
+typically through specialized partner-driven initiatives with SAP support, 
+focusing on landing and expanding based on outcomes. In emerging markets 
+such as LAC, Eastern Europe, India, and SEA, for both large enterprises and 
+mid-market companies, the company strategy involves targeting based on 
+individual company pain points and challenges, while raising awareness to 
+educate. 
+• Vertical wise Roadmap: It is constantly strengthened and leverages expertise 
+from SAP and the partner ecosystem to provide stronger industry reach. In 
+addition, the company is planning to provide stronger coverage for value 
+accelerators (currently coverage for 15 industries) that can be leveraged 
+across industries (potentially with slight adaptation) to build a strong and 
+reusable foundation. .  
+• Use Case Support:  SAP focuses on various use cases such as digital business 
+optimization and transformation, customer experience, cost optimization, 
+operational excellence, business process outsourcing, application innovation 
+and rationalization, sustainability, risk management, ERP modernization and 
+migration. 
+Customer/ User Success Strategy   
+• SAP’s implementations typically follow two approaches: self-service or 
+consulting driven. In self-service, customers assemble a team comprising 
+data engineers, analysts, business users, and process owners, while 
+consulting-driven implementations involve consultants handling end-to-
+end implementation, including connecting to data sources, leveraging out-
+of-the-box connectors, and using value accelerator packages to reduce 
+--- PAGE 16 ---
+13
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+implementation effort and time-to-value. Additionally, SAP Signavio’s plug 
+and gain approach empowers SAP ERP customers to access pre-built best 
+practice process analytics and benchmarks from their systems effortlessly, 
+gathering high-level event logs across seven end-to-end processes, with 
+further pre-configured value accelerators available for process analyses on 
+both SAP and non-SAP systems like Salesforce and Jira, while upcoming 
+prompt-based process mining in 2024 will enhance ease of use and time to 
+value by enabling users to create widgets using natural language prompts. 
+• SAP offers various stages in clients’ DTO journey, including digital 
+modernization, transformation, and business change, focusing on automating 
+processes, reducing risk, increasing collaboration, and simplifying operations. 
+The company also offer accelerators for event logging and analytics, with 
+support available from SAP Signavio Consulting or certified partners, and 
+engage customers through meetups, workshops, early adopter programs, 
+regular check-ins, and valuable insights shared via blogs, maintaining high 
+levels of customer satisfaction reflected in metrics like an NPS score. 
+Trend Analysis 
+• The DTO solution market is moving towards technological trends which include 
+Generative AI and AI-driven analytics, holistic DTO approach, sustainability 
+and green agenda, faster and easier creation of DTOs, and interdependence 
+& connectivity. 
+• In these spaces, SAP Signavio Process AI, offering advanced capabilities and 
+access to LPM-based services for driving advanced analytics and simulations, 
+complementing the agnostic capabilities in SAP Signavio Process Intelligence 
+and SAP Signavio Process Insights, providing comprehensive analytical 
+insights from both SAP and non-SAP systems. Process AI aims to leverage 
+DTO/Process Observability with process advisor and process predictor 
+services, investing in advanced analytics capabilities for customers, including 
+Process and KPI recommender for obtaining pre-configured process models 
+and identifying relevant KPIs, Conversational Mining/prompt-based discovery 
+to quickly mine target processes, and Action Recommender for tailored 
+recommendations on corrective actions grounded in clients’ unique process 
+realities, including automation opportunities and bot recommendations.
+--- PAGE 17 ---
+14
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Final Take 
+• SAP offers comprehensive DTO capabilities and focused on enterprise 
+observability by combining process observability with technology observability. 
+This helps organizations to model applications, process as well as people 
+and data into one platform. Its AI powered actionability improve models by 
+simulating different scenario and identify areas of improvement. Additionally, 
+its continuous value analysis monitors how operation perform, identify potential 
+for automation, and continuously improve processes.  
+• Users looking for a DTO solution which is easy to use and has strong customer 
+base in established market such as North America, Australia, & Western Europe 
+and emerging market LAC, Eastern Europe, India, SEA offering various use 
+cases in several industry vertical can choose SAP’s DTO platform.
+--- PAGE 18 ---
+15
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+IBM
+URL : https://www.ibm.com/products/process-mining
+Founded in 1911 and headquartered in Armonk, New York, IBM is a provider of 
+hardware, software, and related services. The company provides a DTO solution 
+as a part of Cloud Pak and IBM’s AI-powered automation portfolio to better 
+manage process execution. IBM is offering DTO solutions owing to Process Mining 
+technology and capabilities it acquired post its 2021 acquisition of myInvenio. 
+The IBM Process Mining technology has a unique capability to analyze processes 
+automatically and create simulations. 
+Process mining and task mining is the core of IBM DTO solution that helps 
+organizations in their digital transformation initiatives by mapping and providing full 
+visibility of all stakeholders’ behavior, including processes, people, applications, 
+and infrastructure, to identify and improve issues. The solution’s goal is to quickly 
+map, document, and analyze business processes, and it is designed for business 
+users. IBM DTO also offers a virtual assistant that can also be integrated with 
+Cloud Pak and third-party automation solutions to monitor and detect bottlenecks 
+in daily operations and ongoing processes. This recommends employees on 
+high-priority tasks to execute automation, improve operational excellence and 
+customer services. 
+
+--- PAGE 19 ---
+16
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Analyst Perspective 
+Key Differentiators 
+• IPM’s DTO solution allows users to generate models that comply with the Object 
+Management Group’s Decision Model and Notation (DMN) norms. These 
+models can provide results based on decision rule mining and capabilities 
+powered by AI/ML algorithms. The DMN compliant model is used for data 
+simulation and root cause analysis of process deviation/non-conformance 
+detected by conformance checking. 
+• The IPM DTO solution’s simulation engine simulates the model impact and 
+ROI by analyzing the effect of process change before starting any actions or 
+initiatives. It makes the DTO solution more accurate by providing answers to 
+the user’s assumptions. The engine allows users to generate more business-
+oriented, to-be scenarios and get recommendations based on a top-down 
+approach according to business needs. 
+• The IPM DTO solution helps execute automation through an RPA BOT 
+generator that records and analyzes workforce activities, task mining, and 
+recommends employees on high-priority tasks with proactive alerting to 
+execute automation. These BOTs can be deployed within IBM RPA and 
+executed by leveraging a snipped repository for DTO solution.
+Product Strategy  
+• Technology Roadmap: The company is focusing on offering multivendor RPA 
+Bot generator for IBM RPA and Process App builder, which were restricted to 
+in-house IBM requirements. The platform is based on a flexible and modular 
+framework to automate the data extraction process and also imports data 
+from well-known third-party applications for frequent use cases. 
+• Strategic Roadmap: The company will also allow customers, partners, IBMers, 
+and students to build and share apps which is tightly integrated with IBM 
+Portfolio to offer a full-fledged automation platform. Regarding the strategic 
+roadmap, the company is working on providing a prescriptive automation 
+advisor, APP Marketplace, and moving towards organization mining from 
+process mining.
+--- PAGE 20 ---
+17
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Market Strategy  
+• Geo-expansion Strategy: IBM has strong focus on North American and 
+European Union and focusing on expanding its market presence in Asia 
+Pacific, Middle East & Africa and Latin America. 
+• Vertical wise Roadmap: It is constantly strengthened and leverage expertise 
+into financial sector, information technology, telecommunication, energy 
+& utilities and focusing on more such industry vertical use cases in coming 
+future.
+• Use Case Support: IBM focuses on various use cases such as business 
+operations excellence, extended DTO, digital transformation, quality and 
+sustainability, and IT operations.  
+Customer/ User Success Strategy   
+• In terms of scalability and availability, the IBM DTO solution provides horizontal 
+scalability for multiple workers that can be provisioned for both standalone and 
+OpenShift Container Platform (OCP) versions for large enterprises. For mid-
+size enterprises, it offers a platform that can limit the number of processes, 
+users, and events. It provides single-node installation that doesn’t require too 
+much HW power and a SaaS offering needing minimum effort for installation 
+to small companies. 
+Trend Analysis 
+• The DTO solution market is moving towards technological trends, which 
+include accelerated adoption of DTO solution, improved usability, prescribed 
+solutions (for automation), and extended DTO.
+• In these spaces, IBM DTO solutions offer continuous delivery of new 
+process apps through “Process App Builder,” which allows both IBM and 
+the community, which includes business partners, users, and customers, to 
+participate. The company also plans to deliver an app marketplace with the new 
+dashboarding capability to get the interaction between the user and DTO in a 
+more business-oriented and user-friendly manner. The company also plans to 
+offer an “Automation Advisor” who will prescribe solutions based on a mix of 
+AI and humans to help the company align with market benchmarks. It is also 
+--- PAGE 21 ---
+18
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+providing DTO with inputs coming from applications, users, infrastructures, 
+and automation stakeholders to make extended DTO solution.
+Final Take 
+• IBM process mining and analysis tools collects, extracts, uploads, and analyzes 
+applications, user interactions, and infrastructure data for comprehensive 
+insights. Leveraging Blueworks Live as part of Cloud Pak, it acts as a 
+repository for collaboration, documentation, and model enhancement. The 
+solution’s data governance and management feature provides multi-tenancy 
+permissions and persona-oriented accessibility, while automation is executed 
+through integrated Cloud Pak technologies like Workflow, RPA, Decisions, 
+APIs, and App Connect, serving as a starting point for the automation journey, 
+facilitating process mapping and resource identification for the digital twin 
+of the organization, which can then be refined, automated, and continuously 
+monitored using tools like IBM Process Mining.
+• Users looking for a DTO solution which is easy to use and has strong customer 
+base in EMEA & North America and rapidly expanding in JPAC region 
+offering various use cases in industry verticals such as f financial institutions, 
+information technology, energy & utilities, healthcare and life sciences, 
+government & public sector, and food & beverages and others can choose 
+IBM DTO platform.
+--- PAGE 22 ---
+19
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+SoftwareAG
+URL : https://www.softwareag.com/en_corporate.html
+Software AG was founded in 1969 and is headquartered in Darmstadt, Germany. 
+The company enables enterprises to quickly design, analyze, share, and improve 
+organizational processes through its product ARIS. It also enables to integrate 
+IT & business strategy to transform and bridge gap strategies and its execution 
+through Alfabet. 
+With ARIS the company offers various features and functionalities such as business 
+process analysis, process automation, process mining, and risk & compliance to 
+optimize business process and understand daily operations. Software AG’s Alfabet 
+enables to connect enterprise architecture and strategic portfolio management to 
+explore new opportunities and make strategic business decisions. Thus, Software 
+AG can effectively map entire organizations’ processes, business and IT landscape 
+into its DTO offering. 
+
+--- PAGE 23 ---
+20
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Analyst Perspective 
+Key Differentiators 
+• One of the key differentiators for Software AG’s DTO platform is the scalability 
+with three versions of ARIS to accomplish different maturity levels, use cases 
+and organizational needs. 
+• Furthermore, ARIS offers different capabilities for the automation of processes 
+(e.g. via robotic process automation (RPA) or the SAP solution which helps 
+organizations to have holistic rollout of SAP projects through blueprinting, 
+testing, communication, and training capabilities). 
+• Alfabet enables to change enterprise architecture by validating changes, 
+identify dependencies, and inform change in business in real time. It also 
+supports strategic portfolio management to support ongoing innovation into 
+the organization.
+Product Strategy  
+• Technology Roadmap: Software AG would continuously focus on improving 
+digital business and operational excellence use cases. The company 
+is focusing on an integrated unique approach with process design and 
+operational intelligence capabilities to provide a high-sophisticated platform 
+for a digital twin of an organization. It is also focusing on providing superior 
+customer experience through its solutions. 
+• Strategic Roadmap: SoftwareAG is continuously focusing on enhancing 
+customer experience and other use cases by utilizing DTO platform. 
+Market Strategy  
+• Geo-expansion Strategy: In terms of geographical presence, SoftwareAG has 
+a commanding presence over the European Union followed by North America 
+and is focusing on expanding in other regions.
+• Vertical wise Roadmap: The company holds a strong customer base, including 
+some of the leading brands across industry verticals such as manufacturing, 
+--- PAGE 24 ---
+21
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+telecommunication, information technology, banking & financial services and 
+many more.
+• Use Case Support: The company caters to a variety of use cases, including 
+business and IT transformation platforms and solutions for a variety of use 
+cases, including IoT & Analytics and APIs, Integration & Microservices.
+Customer/ User Success Strategy   
+• SoftwareAG’s platform enables easy data integration from various data 
+sources to analyze both process and business data at one place and provide an 
+enterprise level of DTO solution. The seamless integration between enterprise 
+architecture and business process management platform makes the platform 
+easy to use and generate insights by analyzing data at one place.
+Trend Analysis 
+• As a prevailing trend, integrating enterprise architecture with business 
+process management (BPM) is increasingly emphasized for companies 
+to thrive amidst evolving market dynamics. This integration stands as a 
+crucial driver for ensuring alignment between organizational strategies and 
+operational execution. By seamlessly merging enterprise architecture with 
+BPM, businesses can effectively streamline processes, enhance agility, and 
+optimize resource utilization to achieve their strategic objectives in today’s 
+competitive landscape. 
+Final Take 
+• Software AG offers with ARIS and Alfabet as a complete stack of a DTO 
+solution, from mapping strategic business models to the documentation of the 
+business processes and structures to the monitoring of process efficiencies 
+and compliance gaps.
+• Users looking for a DTO solution which is easy to use and has strong customer 
+base in EMEA & North America and offering various use cases in industry 
+verticals such as manufacturing, telecommunication, information technology, 
+transportation, airlines, and others can choose SoftwareAG’s DTO platform.
+--- PAGE 25 ---
+22
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+iGrafx
+URL : www.igrafx.com
+Founded in 1991 and headquartered in Tualatin, Oregon, USA, iGrafx offers a 
+process intelligence platform, Process360 LiveSM, to discover, design, optimize, 
+and transform business processes.  
+The company offers comprehensive process mining, modeling and simulation 
+capabilities that allow organizations to achieve continuous process optimization, 
+improving productivity, reducing costs, and enabling compliance with internal 
+policies and external regulations. The company takes a customer-centric 
+approach, aligning its product strategy closely with customer needs and evolving 
+market challenges.  
+Process360 Live is designed by considering three pillars: process intelligence, 
+process design and process automation.  Customers benefit from its open-
+architected approach, centralized process repository, industry leading process 
+simulation, AI-based predictive analytics, integrations with best-of-breed task 
+mining and automation technologies and continuous process monitoring. 
+
+--- PAGE 26 ---
+23
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Analyst Perspective 
+Key Differentiators 
+• The iGrafx platform offers process simulation for processes stored in the 
+process repository, using a discrete event simulation algorithm. Simulation 
+models benefit from data gained through process mining for increased 
+accuracy. 
+• The platform also supports an open-architected approach, ensuring seamless 
+integration with diverse systems and scalability to meet future requirements. 
+This approach facilitates the inclusion of best-of-breed technologies, 
+enhancing functionality and delivering comprehensive insights for informed 
+decision-making and operational agility.
+• iGrafx also integrates process intelligence (process & task mining, intelligent 
+analysis) with process mapping and design (strategy, risk management, 
+compliance) and automation (workflow, RPA, and conversational digital 
+assistants) into a single platform that allows customers to make continuous, 
+incremental improvements.  
+Product Strategy  
+• Technology Roadmap: iGrafx is focusing on improving UX through persona-
+specific workflows, integrating GenAI for model creation and insight analysis, 
+and deeper integration between platform capabilities to enhance user 
+experience and enable better business decisions. 
+• Strategic Roadmap: iGrafx’s strategic roadmap for Digital Twin of an 
+Organization (DTO) solutions focuses on delivering a process intelligence 
+platform that enhances optimization and compliance enterprise-wide, 
+ensuring ease of use and accessibility for all stakeholders. Integrated closely 
+with customer and partner feedback, this strategy aims to accelerate adoption 
+and maximize value. 
+--- PAGE 27 ---
+24
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Market Strategy  
+• Geo-expansion Strategy: iGrafx has a strong customer base in North America 
+followed by EMEA. The company has seen strong growth in Asia Pacific, 
+notably in Japan through partnership with NTT Data Intra-mart which is a 
+workflow/BPM vendor. 
+• Industry Strategy: iGrafx is focused on continuing to deliver impressive results 
+in banking & financial services, insurance, healthcare, and manufacturing.
+• Use Case Support: iGrafx focuses on various use cases such as digital 
+transformation initiatives, improving customer experience, risk & compliance, 
+and operational excellence.  The company also offers manufacturing / logistics 
+support by combining LeanVSM & Six Sigma with Process Monitoring, Value 
+Stream Mapping, Discrete Event Simulation and Process Mining capabilities. 
+Customer/ User Success Strategy   
+• iGrafx offerings include on-premises, private-cloud, and public-cloud 
+solutions on a subscription basis. Its primary offering is cloud based but offers 
+deployment flexibility for on-prem and hybrid deployments. 
+• iGrafx provides support for on-premises installations. It also supports 
+navigation via web browser and interactive controls. iGrafx uses the WalkMe 
+digital adoption platform to provide interactive guides, walkthroughs & 
+tutorials. These Digital Adoption capabilities are persona-based and allow 
+customer-specific content to be leveraged. iGrafx offers iGrafx University to 
+provide interactive Self Learning courses, instructor-led training, free training 
+materials and certifications for all functions.
+• iGrafx has established partnerships with various system integrators and 
+third-party integrations, including a key technology partnership with KYP, a 
+task mining platform and Krista, a workflow/conversational automation and 
+iPaaS platform. These partners broaden the scope of platform capabilities 
+and facilitate easy collaboration and communication among team members 
+through various channels.
+--- PAGE 28 ---
+25
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Trend Analysis 
+• The DTO solution market is moving towards technological trends which include 
+advanced data analytics & AI integration, organizational agility & resilience, 
+customization and scalability, and cloud based DTO solutions, with a focus on 
+user experience & interactivity. 
+• In these spaces, iGrafx’ DTO solution leverages AI and a predictive analytics 
+engine to provide deeper insights and support decision-making. It also offers 
+customizable and scalable DTO solutions to cater to a wide range of industries 
+and organizational sizes. This can involve modular designs where clients can 
+choose specific features relevant to their operations. It also leverages cloud 
+technology to offer enhanced collaboration features, lower maintenance costs, 
+and easier updates. Further, iGrafx prioritizes user experience by providing 
+an intuitive UI, interactive dashboards and customizable views that cater to 
+different user roles.
+Final Take 
+• iGrafx’s Process360 Live is a robust Digital Twin of an Organization (DTO) 
+solution, emphasizing process intelligence, process design, and automation. 
+With advanced features like predictive analytics and Generative AI, the platform 
+facilitates digital transformation, delivering improved business outcomes and 
+enhanced customer value. The platform provides user-friendly interfaces for 
+an intuitive experience, empowering informed decision-making and effective 
+business process optimization. In essence, iGrafx’s innovative platform leads 
+in advancing process creation and design, offering simplicity and continuous 
+improvement aligned with evolving organizational needs.
+• Users looking for a DTO solution which is easy to use and has a strong customer 
+base in North America, EMEA and the JAPAC region, with support for various 
+use cases in industry verticals such as manufacturing, healthcare, insurance, 
+and banking and financial services, can choose the iGrafx Process360 Live 
+platform. 
+--- PAGE 29 ---
+26
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+QualiWare
+URL : https://www.qualiware.com/
+QualiWare was founded in 1991 and is headquartered in Denmark, QualiWare 
+seamlessly combines strategy, process, application, information, organization, 
+and technology. This holistic approach empowers organizations to seamlessly 
+transition from strategy formulation to execution, facilitating digital transformation 
+and consolidating enterprise structure within a unified platform.
+The company offers QualiWare X platform which includes capabilities such as 
+full enterprise architecture coverage, BPM support, capability management, 
+enterprise investment, strategy to execution. collaboration across the entire 
+enterprise, advanced analytics, social analytics, AI - picture to model & text to 
+model, 3D visualizer, integration external performance data, metamodel to support 
+API development. 
+
+--- PAGE 30 ---
+27
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Analyst Perspective 
+Key Differentiators 
+• The platform supports full strategic transformation planning and implementation 
+support from strategy to execution. It also enables users to visually represent 
+the entire length and breadth of a business. The information generated through 
+organizational representation can be leveraged to develop change portfolios, 
+transformation plans, implementation plans, and post-implementation support 
+and monitoring.  
+• Qualiware has full architecture viewpoint coverage not limited only to business 
+processes. The platform covers Business Architecture, Data Architecture, 
+Application Architecture, Technology Architecture, and Integration 
+Architecture at the conceptual, logical, and physical layers. It is also combined 
+with metamodels, frameworks and pre-defined accelerated processes to 
+provide an end-to-end digital twin capability .
+Product Strategy  
+• Technology Roadmap: The company focus on continued integration with 
+3rd party platforms and technologies. The company is focusing to leverage 
+AI to supplement metadata descriptions & content in the repository and the 
+introduction of augmented reality capabilities. 
+• Strategic Roadmap: The company is focusing on partnership development 
+& expansion into new regions & markets. The company also maintain 
+momentum on generating awareness of product, the benefits, and capabilities 
+of QualiWare DTO platform.
+Market Strategy  
+• Geo-expansion Strategy: In terms of geographical presence, the company is 
+growing through partnership model, and are focused on growth in the east by 
+leveraging new relationships with strong partners.
+• Vertical wise Roadmap: The company is focusing on expanding in the 
+manufacturing and fashion industries.
+--- PAGE 31 ---
+28
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+• Use Case Support: The company caters to a variety of use cases, including 
+operating model approach, digitalization, communication & collaboration, 
+business transformation, GRC, strategy to execution, and EA modelling. 
+Customer/ User Success Strategy   
+• Large enterprises can scale limitlessly with DTO solution, whether deployed 
+on-premises or in the cloud, tailored to business needs. The company ensure 
+optimal fit within their environment, prioritizing availability, and criticality. Mid-
+size enterprises enjoy hybrid deployments, maintaining their data centers 
+while accessing cloud benefits. The platform seamlessly bridges data 
+sources, accommodating scaling needs and facilitating transitions between 
+on-premises and cloud environments. Small enterprises can swiftly adopt 
+DTO full-featured platform with the affordable “starter” package, which can be 
+operational within hours. This SaaS offering eliminates entry barriers, enabling 
+DTO benefits without substantial capital investment.
+Trend Analysis 
+• The company is focusing on use of AI and importance of simulations within 
+their platform. QualiWare is ahead of its competitors with the use of AI and 
+have been starting to show real value for to their customers. Customers want 
+to have a wide array of possible choices, and advanced simulations to give 
+users the option to have a worst case, intermediate case, and best-case view 
+of their DTO. 
+Final Take 
+• QualiWare advances in what-if simulations by merging production data with 
+diagrams, offering visual simulations for complex models. Collaboration 
+enhancements streamline data import and usage. GenAI expands AI 
+capabilities, while application chaining & integrations link with various 
+systems within and outside of organizations. Augmented Reality integration 
+connects user devices with backend data by scanning to QR code which offer 
+product-related information, videos, and maintenance guidance. Digital Twin 
+Partnership with CBP enables visualizing business models, process flows, and 
+decision-making dashboards, supporting analytics and scenario modeling. 
+--- PAGE 32 ---
+29
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+• Users looking for a DTO solution which is easy to use and has strong customer 
+base in EMEA & North America and offering various use cases in industry 
+verticals such as government & public sector, energy & utilities, manufacturing, 
+fashion, and others can choose QualiWare’s DTO platform.
+--- PAGE 33 ---
+30
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Bizzdesign
+URL : https://bizzdesign.com
+Founded in 2000 and is headquartered in Enschede, Netherlands, Bizzdesign 
+offers a enterprise architecture software that helps organizations to increase the 
+success rate of enterprise transformation, strategic investment allocation, and risk 
+management. The vendor provides its DTO through Bizzdesign Horizon platform 
+which collects all the relevant information about the enterprise.
+Bizzdesign Horizzon is designed to facilitate the creation of an agile enterprise 
+architecture. With its capabilities, users can expedite the achievement of 
+business outcomes, accelerating transformations within the organization. The 
+platform fosters strategic alignment between business and IT strategies, ensuring 
+coherence and synergy in organizational goals. By providing comprehensive 
+insights, Bizzdesign Horizzon enables data-driven decision-making processes, 
+empowering users to make informed business decisions. Moreover, the platform 
+facilitates seamless collaboration among architects, lines of business, and 
+C-level executives, promoting cohesion and coordination across all levels of the 
+organization. 
+
+--- PAGE 34 ---
+31
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Analyst Perspective 
+Key Differentiators 
+• The advanced analytics offers intuitive tools that allows users to use self-
+service analytics which includes capability maps, heatmaps and charts by 
+utilizing all data and relations in the repository. In addition, Horizzon provides 
+advanced querying, calculations, scripting and supports for out-of-the-box BI 
+integration. 
+• Bizzdesign Horizzon provides governance & security by including features 
+such as single sign-on, audit trail, policies, access control and workflows.
+Product Strategy  
+• Technology Roadmap: The company offers models and roadmaps to discover 
+the modeling capabilities, across strategy models, architecture models, 
+process models, data models and decision models. Bizzdesign Horizzon’s 
+Enterprise Studio offers an intuitive modeling environment, which enables to 
+capture current state, design future states scenarios, and roadmaps to bridge 
+towards the future.
+• Strategic Roadmap: The platform operates as a data hub in the larger 
+ecosystems for the organizations. Open API offers advanced functionality to 
+integrate and connect data from other systems and sources. 
+Market Strategy  
+• Geo-expansion Strategy: The company has a significant presence in Europe, 
+although its largest expansion markets are North America, which is now 
+Bizzdesign’s largest market for new business, Asia-Pacific and the Middle 
+East.
+• Vertical wise Roadmap: The company holds a strong global customer base, 
+including manufacturing, financial services, defense, healthcare, government, 
+and others.  
+• Use Case Support: The company focuses on various use cases such as 
+capability-based planning, application portfolio management, solution 
+architecture, business process management.
+--- PAGE 35 ---
+32
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Customer/ User Success Strategy   
+• The core of Bizzdesign Horizzon consists of a central repository with multi-
+dimensional single source of truth. The platform supports an extensive range 
+of standards, frameworks, and techniques such as ArchiMate, TOGAF, 
+AMBER, BPMN, UML, ERD, DMN, PESTEL and Kanban.
+Trend Analysis 
+• Bizzdesign is focused on offering an integrated solutions such as business 
+process management, solution architecture, application portfolio management 
+with the Horrizon platform. This integration will help users to seamlessly visualize 
+and manage organizational processes, IT infrastructure and businesses needs 
+into a single unified platform 
+Final Take 
+• Bizzdesign Horizon offers stakeholders a comprehensive overview of 
+organizational structure, fostering insights into overall processes and aiding 
+in smarter business decisions. By unifying strategy, capabilities, operating 
+models, and change portfolios, the platform enables informed strategic 
+decisions for growth. With a holistic 360-degree view, organizations can 
+leverage real-time visibility of key metrics and trends to enhance operational 
+efficiency and accelerate decision-making processes. 
+• Users looking for a DTO solution which is easy to use and has strong global 
+customer base and offering various use cases in industry verticals such as 
+manufacturing, financial services, defence, healthcare, government, and 
+others can choose Bizzdesign’s DTO platform. 
+--- PAGE 36 ---
+33
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Bee360
+URL : https://www.bee360.com/
+Founded in 2003 and headquartered in Karlsruhe, Germany, Bee360 offers 
+a platform that provides holistic view of an organization by integrating various 
+solutions such as strategic portfolio management, enterprise agile planning, 
+enterprise architecture management, and IT financial management to map and 
+visualize virtual representation of an organization and make continuous changes 
+as per organization and customer needs. 
+The company offers comprehensive modelling and mapping of organizational 
+structures, business operation, resources (such as IT systems and people), 
+processes, and EAM integrated in ITSM provides a holistic view on IT Systems. 
+The platform includes performance analysis through tailored dashboards that 
+show the key KPIs on every level of the DTO.
+
+--- PAGE 37 ---
+34
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Analyst Perspective 
+Key Differentiators 
+• Bee360’s DTO offers Datamodel that inherent processes and workflow 
+engine to provide a combination that is flexible, comprehensive and 
+ensures compliant and efficient collaboration. This unique combination of IT 
+Financial Management, Enterprise Architecture Management and Strategic 
+Portfolio Management with Enterprise Agile Planning into a single unified 
+platform.  
+• Bee360 only sells Enterprise Licenses that reduce the commercial limitations 
+to usage of the solution. That way, we ensure that customers maximize value 
+of the platform by focusing on creating value with the right stakeholders in 
+their organization. 
+Product Strategy  
+• Technology Roadmap: Bee360 is planning to offer capabilities such as 
+process mining for managing and improving processes. The platform will 
+also embed GenAI technology for training and enablement of the platform 
+offerings.  
+• Strategic Roadmap: The company has strong focus on offering KPI 
+reporting, strengthening user ad hoc visualization capabilities, and simplified 
+roadmapping functionalities in the platform.
+Market Strategy  
+• Geo-expansion Strategy: Bee360 has a strong customer base in Europe, 
+Middle East and Africa followed by Japan & APAC. The company also has 
+their presence in North America; however, there major focus is to expand in 
+North American region and gain market share.
+• Industry Strategy: Bee360 has major focus on industry vertical such as 
+manufacturing, automotive, energy & utilities, logistics & transportation, 
+financial services, and others. 
+--- PAGE 38 ---
+35
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+• Use Case Support:  Bee360 focuses on various use cases such as digital 
+business optimization and transformation, enterprise performance and cost 
+optimization, operational excellence, customer experience.
+Customer/ User Success Strategy   
+• Bee360 offerings include on-premises, and public-cloud solutions based on 
+customer needs. The platform can easily integrate applications and can be 
+used from anywhere. Bee360 provides individual customer service which 
+establish a trusted relationship with their customers. 
+• Bee360 has established partnerships with various technology partners and 
+channel partners including ServiceNow, JIRA, LeanIX, SAP, Azure DevOps 
+and Lean42, Deloitte, and PriceWaterhouseCoopers respectively. 
+Trend Analysis 
+• The DTO solution market is moving towards technological trends which 
+include enterprise agility, advanced analytics and AI, translation of models 
+and modeling into practical operational implementation, and integration of 
+strategy definition and execution. 
+• In these spaces, Bee360 solutions invest in GenAI for enablement of the 
+organization and continuously improve roadmapping and portfolio simulation 
+to offer advanced functionality. The company is also combining modelling with 
+process mining to compare and adjust towards real life execution.  The DTO 
+solution is also connecting execution to strategy as well as different aspects 
+like capabilities, processes and resources for better, faster decision making. 
+Final Take 
+• Bee360 offers a robust Digital Twin of an Organization (DTO) solution, 
+emphasizing on operational excellence, business optimization & transformation, 
+enterprise performance, cost optimization and customer experience. With 
+focus on advance features such as generative AI for training and enablement 
+so that the users can continuously improve process roadmapping, and 
+simulation offerings. 
+--- PAGE 39 ---
+36
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+• Users looking for a DTO solution which is easy to use and has strong 
+customer base in EMEA & JAPAC and rapidly expanding in North American 
+region offering various use cases in industry verticals such as manufacturing, 
+automotive, energy & utilities, logistics & transportation, financial services can 
+choose Bee360 DTO platform.
+--- PAGE 40 ---
+37
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+QPR Software
+URL : https://www.qpr.com/
+Founded in 1991 and headquartered in Helsinki, Finland, QPR offers solutions 
+for analysis, monitoring, and modeling operations to organizations globally. The 
+company offers DTO capability through its QPR Suite consisting of integrated 
+modules including its flagship product QPR ProcessAnalyzer for process mining 
+& analytics, QPR EnterpriseArchitect for business design, QPR ProcessDesigner 
+for process modeling & analysis, and QPR Metrics for performance management. 
+QPR ProcessAnalyzer offers an advanced process mining platform offering 
+insights with root cause analysis, prediction, clustering, and dynamic flowchart 
+visualizations. QPR EnterpriseArchitect provides configurable tool for analyzing, 
+planning, and improving business performance with intuitive modeling and 
+analysis features. QPR ProcessDesigner is a web-based tool for describing, 
+analyzing, and improving business processes, enhancing communication and 
+collaboration among stakeholders. QPR Metrics offers a user-friendly module 
+for process performance management, enabling automated strategy execution, 
+operational performance management, and risk management with advanced root 
+cause analysis capabilities.
+
+--- PAGE 41 ---
+38
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Analyst Perspective 
+Key Differentiators 
+• QPR Software offers user friendly no-code configuration for custom 
+analyses, KPIs and dashboards enabling easy and fast customer specific 
+solution development. They are also extending process mining capabilities 
+to enterprise mining for dynamic mapping and analysis of processes and 
+enterprise dimensions. It also offers flexible comparative process mining 
+allowing comparison in versatile ways like parallel to each other or in overlay 
+mode and having unlimited amount of different BPMN process designs 
+supporting country, product etc. process variants.
+• The company also offers data augmented modeling capabilities to integrate 
+modeling and data driven approaches into one unified solution. It also can 
+craft synthetic data utilizing generative AI extending the analysis horizon into 
+the future enabling proactive decisions.
+• It enables to do process mining analyses that can be done natively in Snowflake 
+Data Cloud enabling big data capabilities, unlimited scaling, and leveraging 
+existing data and related pipelines, data governance etc.
+• The company also support out-of-the-box capabilities and analyses including 
+a unique “one click” root cause analysis.
+Product Strategy  
+• Technology Roadmap: QPR’s technology roadmap is focused on maximizing 
+the use and value of Snowflake Data Cloud as the underlying platform for 
+QPR ProcessAnalyzer. Other important topics on the technology roadmap 
+are an efficient use of existing libraries and components to accelerate the 
+development work. 
+• Strategic Roadmap: The DTO core is QPR ProcessAnalyzer Powered by 
+Snowflake, extending its scope from process mining to enterprise mining and 
+from process KPIs to operational KPIs. Future development emphasizes data 
+augmented modeling and decision intelligence, leveraging AI for predictive 
+analytics, rule-based scenario planning, and natural language interaction in 
+the user interface.
+--- PAGE 42 ---
+39
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+• QPR Software’s is focusing on data augmented modeling which includes 
+enterprise diagramming, flexible data models with full data schema for object-
+centric process mining, and advanced conformance analysis that goes beyond 
+BPMN modeling by allowing the definition of SLAs, business rules, lead time 
+targets, and user roles within the design process.
+• The company is also focusing on Decision Intelligence strategic theme. 
+Generative AI is used to create synthetic event logs. Predictive analytics, 
+enhanced case-level predictions, and next-generation process simulation 
+using AI extend the analysis and decision-making horizon into the future, while 
+smart recommendations based on synthetic data with various scenario plans 
+and simulations represent the most significant business impact potential, 
+particularly for directors.
+• The natural language experience has started with an implementation where 
+generative AI assists in explaining analysis results and enables users to ask 
+questions about the process in natural language. Final outcome will be a fully 
+gen AI-powered user interface where almost everything is accessible through 
+natural language, including smart recommendations based on synthetic future 
+data.
+Market Strategy  
+• Geo-expansion Roadmap: QPR’s geo-expansion roadmap is focused on 
+channel development and partner acquisition to strengthen QPR’s market 
+presence in North America. QPR is targeting to build a comprehensive channel 
+representing QPR to Snowflake customers in North America. Partners are 
+offered to grow their business with QPR’s DTO solution.  
+• Use Case Support:  QPR Software focuses on various use cases such as 
+business/digital transformation, customer experience, operational excellence, 
+cost optimization, risk & compliance, and supply chain optimization. 
+Customer/ User Success Strategy   
+• The QPR software products designed for DTO solutions boast easy and swift 
+deployment, with even on-premise setups completed in under an hour, while 
+usability remains a longstanding focus area, with continuous positive feedback 
+--- PAGE 43 ---
+40
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+on product intuitiveness. Product training emphasizes ease of use, delivered 
+through an online platform for self-learning. 
+• QPR professional services team comprises experienced professionals 
+proficient in various DTO methods, all QPR employees trained to promptly 
+resolve issues and address queries independently within 30 minutes. 
+Trend Analysis 
+• The DTO solution market is moving towards technological trends which 
+include digital transformation, digital twins in general, ERP migration, utilization 
+of generative AI, data cloud adaptation. 
+• In these spaces, QPR Solutions’ DTO is supporting customers digital 
+transformation initiatives with innovative and high business value generating 
+capabilities. They allow to use of digital twins in different verticals and context, 
+like manufacturing, IoT and a digital twin of cities, are impacting on the overall 
+recognition of the concept. 
+• QPR is unifying traditional process/enterprise modeling with process/
+enterprise mining under data augmented modeling concept providing the 
+ultimate support for ERP migrations. QPR DTO solution already utilizes 
+generative AI for crafting synthetic event log data enabling proactive and 
+informed decisions to drive operational efficiency. QPR is also working on 
+additional ways of utilizing generative AI like process simulation, scenario 
+planning and providing a natural language-based user experience. They are 
+also offering a Snowflake Data Cloud native DTO solution.  
+Final Take 
+• The DTO core features QPR ProcessAnalyzer Powered by Snowflake, expanding 
+from process to enterprise mining and operational KPIs, with a focus on data 
+augmented modeling and decision intelligence leveraging AI for predictive 
+analytics and natural language interaction. QPR Software’s emphasis on the 
+data augmented modeling theme includes enterprise diagramming, flexible 
+data models for process mining, and advanced conformance analysis beyond 
+BPMN, integrating SLAs and user roles into the design process. Additionally, 
+QPR prioritizes Decision Intelligence, incorporating generative AI for synthetic 
+event logs, predictive analytics, and smart recommendations, while aiming 
+--- PAGE 44 ---
+41
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+for a natural language-driven user interface for enhanced accessibility and 
+decision-making.
+• Users looking for a DTO solution which is easy to use and has strong customer 
+base in EMEA region offering various use cases in industry verticals such as 
+healthcare, manufacturing, energy & utility, automotive and others can choose 
+QPR Software’s  DTO platform.
+--- PAGE 45 ---
+42
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Interfacing Technologies 
+URL : https://www.interfacing.com/
+Founded in 1983 and headquartered in Montreal, Canada, Interfacing 
+technologies provide process-driven quality, compliance, and low code solutions 
+for digitalization and continuous improvement. Interfacing Technologies has 
+developed an innovative AI-Document Process Mining Parser solution which 
+parses files and extracts the content into reusable integrated objects -- in effect 
+-- building an impact spider web of relational data.
+The company has unique approach to support blueprinting and integrating content 
+from different department. This content will include documenting AS IS through 
+AI Document-Process-Mining Parser / blueprinting of legacy documentations or 
+systems to create a Digital Twin by identifying the current state. The company 
+leverage different transformation accelerators like AI-document mining parser, 
+imports (like MS Visio, MS Excel, BPMN), data loading from custom migrations/
+scripting (XML, DB, JSON migration).
+
+--- PAGE 46 ---
+43
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Analyst Perspective 
+Key Differentiators 
+• Artificial Intelligence (AI) powered impact analysis predictive recommendations 
+that provide reusable module driven repository. The software generates mind-
+map like diagrams that can be expanded to infinite levels against any upstream 
+or downstream impacted object because in effect it’s like a spider-web of AI-
+integrated impacted object.
+• Offline mobile application can provide access from anywhere at anytime 
+to one’s SOPs is critical and there are many industries who cannot rely on 
+quality cellphone tower nor Wi-Fi availability (e.g. utility, airlines, mining, 
+forestry, engineering, oil & gas, etc.), hence the importance of an offline 
+mobile application.  
+• Artificial Intelligence powered Document (SOP) provide an innovative solution 
+which parses files and extracts the content into reusable integrated objects 
+-- in effect -- building an impact spider web of relational data. The system 
+uses text recognition and classification to convert text into reusable objects 
+and attributes (regulations, procedure paragraphs/sections, processes, tasks, 
+KPIs, definitions, systems, roles, org units, resources, master data, objectives, 
+risks, controls, glossary terms, etc. etc. -- including any user defined custom 
+fields & attributes. 
+Product Strategy  
+• Technology Roadmap: In terms of technical roadmap, the company is 
+focusing on listening to customer needs and continuously incorporating real 
+customers’ requirements. The roadmap also includes enhancement in the 
+core repository modules based on requirements raised by customers which 
+may include enhanced modelling and UX, new end user widgets, usability 
+enhancements, enhancements to the Documents and Records Management 
+Module, NextGen eQMS application, NextGen AI-text Mining Parsing amongst 
+other things.
+• Strategic Roadmap: The company enables organizations to effectively manage 
+business complexities through its business process management software 
+and quality management solutions. The platform is designed with user-
+--- PAGE 47 ---
+44
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+friendly interfaces that empower businesses to oversee various organizational 
+programs on a unified platform, addressing quality, governance, improvement, 
+and compliance endeavors comprehensively.
+Market Strategy  
+• Geo-expansion Strategy: The company is mostly focusing on European Union 
+and North American and APAC region.
+• Vertical wise Roadmap: The company’s solution serves use cases for various 
+industry verticals, including banking, aerospace, automotive, manufacturing, 
+education, healthcare & life sciences, logistics & transportation, govt & public 
+sector, CPG & retail, food & beverages, energy & utilities, electronics & 
+semiconductor.  
+• Use Case Support:  The company also focuses on use cases such as quality 
+management, digital transformation, business continuity management, 
+operational excellence, customer experience, manufacturing/logistics, and 
+business process outsourcing. 
+Customer/ User Success Strategy   
+• The company’s solution provides Cloud Load Balancing to automatically 
+distribute incoming application traffic across multiple instances. It can handle the 
+varying load of traffic in a single Availability Zone or across multiple Availability 
+Zones. Interfacing software supports high availability, automatic scaling, and 
+robust security. It also offers WAF that helps to protect web applications from 
+common web exploits that could affect application availability, compromise 
+security, or consume excessive resources. WAF gives us control over which 
+traffic to allow or block to the production instance by defining customizable 
+web security rules. 
+• It also supports process mining through log-based system loading (from leading 
+solution partners like UI path or Fluxion disco) to centralize the data in the 
+centralized integrated management system. The platform also supports out-
+of-box integration with leading dev tools such as JIRA (Atlassian), to provide a 
+bi-directional synchronization through our middleware sync manager module 
+which makes it extremely next generation and open for integration.
+--- PAGE 48 ---
+45
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Trend Analysis 
+• The company is offering digital integrated management system to map, 
+analyze and automate processes, manage regulatory compliance, assess 
+risks within a single platform.  Interfacing Technologies’ digital twin solution is 
+an enterprise management system that helps companies digitalize processes 
+to streamline operations, increase productivity and continuously improve. 
+Final Take 
+• The company’s AI Document Content Mining Parser simplifies digital 
+transformation by analyzing text files to extract processes, regulations, and 
+business entities. It assesses AI impacts amidst varying complexities and 
+facilitates structured process change management. Additionally, the platform 
+calculates residual risk, prioritizes actions, and integrates with EPC modules 
+for comprehensive risk management, reducing compliance costs. The digital 
+SOP & process navigation system offers rich media content and hierarchical 
+performance roll-up for efficient management visualization.
+• Users looking for a DTO solution which is easy to use and has strong customer 
+base in European Union, North America, APAC and offering various use cases 
+in industry verticals such as banking, aerospace, automotive, manufacturing 
+and others can choose Interfacing Technologies’ DTO platform. 
+--- PAGE 49 ---
+46
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+BusinessOptix 
+URL : https://www.businessoptix.com
+Founded in 2011 and headquartered in London, UK and Kansas City, USA. 
+BusinessOptix offers a cloud-first, comprehensive software as a service platform 
+offering powerful process discovery (mining), modelling, analysis and simulation 
+capabilities underpinned by a robust, extensible metadata repository. Typical 
+use cases include process improvement initiatives, transformation/change 
+management, customer journey and services modeling. 
+The BusinessOptix Repository manages process data and documents, extending 
+metadata for analysis, simulation, and dashboarding. The integrated solution adds 
+further value with features including:
+The Business Capability Map/Metamodel offers a consolidated view of 
+organizational architecture, presenting systems, APIs, processes, and people in 
+interconnected tabular and graphical formats. 
+The Opportunity Management Dashboard enables identification of profitable 
+opportunities for process enhancement based on customizable KPIs and metrics.
+The CXO Dashboard facilitates strategic decision-making by linking transformation 
+initiatives to enterprise strategic goals and metrics. 
+Additionally, AI integration enhances process discovery, search, repository 
+building, and insights generation, improving user experience and decision-making.
+
+--- PAGE 50 ---
+47
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Analyst Perspective 
+Key Differentiators 
+• BusinessOptix is a data-driven repository that can be tailored to meet diverse 
+organizational needs, and facilitates seamless data integration,  the utilization 
+of AI & ML for tasks like gap analysis, the ingestion of multiple formats of 
+existing models (from visio to pdf to Aris etc), and to running of simulations 
+and more.
+• Serving as the ‘single source of truth,’ BusinessOptix DTO offers comprehensive 
+modeling capabilities from various perspectives, enabling end-to-end tracking 
+of transformation initiatives. Its collaborative platform ensures visibility and 
+governance throughout the transformation process, with features such as full 
+audit trails and review workflows maintaining model reliability and document 
+integrity.
+• BusinessOptix leverages the Microsoft Azure platform to offer a global, 
+secure, scalable solution supporting clients with 10 users to clients with 
+thousands of users.. With ISO27001 accreditation and continuous security 
+updates, BusinessOptix ensures secure cloud access, supported by third-
+party penetration testing.
+Product Strategy  
+• Technology Roadmap: BusinessOptix’s technology roadmap focuses on 
+integration of Microsoft Azure AI and data analysis services into the wider 
+BusinessOptix platform. 
+• Strategic Roadmap: The company is focused on DTO and is investing to 
+enhance its functionality. The vendors’ major focus areas are integration, AI-
+powered discovery, and analysis, and AI-powered recommendation engines/
+co-pilots.
+Market Strategy  
+• Geo-expansion Strategy: The company is focusing on regions such as UK, 
+Europe, and North America. The company is also focusing on expanding their 
+geographic reach in South America.   
+--- PAGE 51 ---
+48
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+• Industry Focus: BusinessOptix platform is focusing on industry verticals 
+such as health and wealth, manufacturing, and shared service operations. 
+The company leverages the domain experience and presence of partners to 
+compete in other verticals.  
+• Use Case Support:  BusinessOptix focuses on various use cases that 
+deliver business outcomes for their customers, such as business and 
+digital transformation, regulatory compliance, operational efficiency and 
+transparency, supply chain digital twin, process excellence, and enterprise 
+sales enablement.
+Customer/ User Success Strategy   
+• BusinessOptix customers can self-administer secure libraries, managing users 
+and content, while scalable training programs, in built guidance, and an online 
+Academy cater to various learning styles. Additionally, experienced process 
+consultants and a network of consultancy partners support implementations, 
+pilots, and ongoing success management. 
+• BusinessOptix has established a scalable support model with diverse industry 
+expertise and a dedicated team of digital twin experts across regions, offering 
+personalized service from implementation to ongoing usage. Customers of all 
+sizes and segments frequently express satisfaction with their service, often 
+praising individual team members for their support.
+Trend Analysis 
+• The DTO marketplace continues to mature and is embracing feature sets such 
+as repositories, opportunity identification & management, business continuity 
+& operational resilience, and simulation, while cognitive technologies identify 
+new patterns, insights, and opportunities. 
+• BusinessOptix is enhancing search functionalities with chat-like features for 
+intuitive guidance. It is enhancing the UI/UX for a more informed, guided 
+modeling journey and integrating resource data for enhanced organizational 
+insights. Additionally, they are expanding simulation parameters, leveraging AI 
+for insights, and fostering dynamic collaboration among users and advancing 
+in the active control space.
+--- PAGE 52 ---
+49
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Final Take 
+• BusinessOptix offers an end-to-end integrated DTO solution that incorporates 
+flexible discovery tools, a powerful, extensible data and process repository, 
+SOP/Work instruction documentation, cognitive search and knowledge 
+management, analytics dashboards, and simulation/scenario modeling. The 
+company is continually investing in the platforms capabilities and features to 
+support digital twins of business-critical services. They are also extending the 
+simulation capabilities to support SLAs, goal seeking and related digital twin 
+capabilities. The company is also implementing a variety of search/chat related 
+features. Lastly, it is implementing AI to identify and create process models 
+and structured procedures from unstructured or semi-structured documents. 
+• Customers looking for a comprehensive, intuitive DTO solution that supports a 
+wide variety of use cases in industry verticals such as financial services, supply 
+chain, healthcare, consulting & outsourcing, and information technology would 
+be well served to evaluate the BusinessOptix DTO platform. 
+--- PAGE 53 ---
+50
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Celonis 
+URL : www.celonis.com
+Celonis was founded in 2011 and is headquartered in Munich, Germany. The 
+company offers digital twin of an organization through its execution management 
+system platform which enables companies to run their business processes 
+entirely on data and intelligence. The company offers various key features & 
+functionalities, including real-time data ingestion, process & task mining, planning 
+& simulation, visual & daily management. 
+The company’s real-time data ingestion capabilities include pre-built process 
+connectors and simplified data transformation, enabling extraction from cloud, 
+enterprise, and legacy systems. Their process and task mining tools offer analytic 
+visualization, automation, and best practice benchmarking, aiding in identifying 
+execution gaps and manual process steps impacting KPIs. Additionally, planning 
+and simulation features utilize advanced machine learning for scenario analysis, 
+while the process repository allows for importing existing models and continuous 
+conformance checking. The visual and daily management feature provides 
+executive control center visibility, operational steering views for team leaders, 
+and tailored daily task views for front-line workers, automating tasks and exposing 
+potential execution gaps.
+
+--- PAGE 54 ---
+51
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Analyst Perspective 
+Key Differentiators 
+• Celonis Process Intelligence Graph helps to analyze, improve, and monitor 
+processes to understand and capture business value. Celonis rapidly 
+integrates terabytes of data from any data source and format to capture 
+real-time process performance for the Process Intelligence Graph. The raw 
+information undergoes transformation into system-agnostic standardized 
+process data, complemented by standardized process knowledge and AI. 
+• The Process Intelligence Graph provides users with a comprehensive suite 
+of process analysis capabilities, enabling them to gain insights into their 
+processes at various levels, from a bird’s-eye view down to the atomic level. 
+With the Process Explorer, users can visualize processes end-to-end, identify 
+value opportunities, and prioritize improvements aimed at driving bottom-line 
+value. Additionally, Celonis Studio allows users to create custom dashboards 
+tailored to their specific needs, enabling them to build bespoke views of their 
+processes.
+• The collection of capabilities is designed to drive process improvement, aiming 
+to enhance business operations and increase profitability swiftly. Prebuilt apps 
+are tailored to seamlessly integrate into common processes within specific 
+industries or use cases, ensuring quick and simple implementation. Action 
+Flows enable users to establish alerts for process events they wish to monitor 
+closely or to automate routine tasks, all while maintaining the integrity of 
+existing systems without disruption or replacement.
+• Users can safeguard their process analysis and improvement endeavors while 
+assessing the business impact with process monitoring capabilities. Once ideal 
+process paths are identified, users can maintain adherence with the Process 
+Adherence Manager, a model-based adherence checker. Additionally, users 
+can translate the value generated by process mining into comprehensible 
+reporting formats for the entire team through the Transformation Hub, 
+providing updated views of the value generated by their Process Intelligence 
+implementations.
+--- PAGE 55 ---
+52
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Product Strategy  
+• Technology Roadmap: BusinessOptix’s technology roadmap focuses on 
+integration of Microsoft Azure AI and data analysis services into the wider 
+BusinessOptix platform. 
+• Strategic Roadmap: The company is focused on DTO and is investing to 
+enhance its functionality. The vendors’ major focus areas are integration, AI-
+powered discovery, and analysis, and AI-powered recommendation engines/
+co-pilots.
+Market Strategy  
+• Geo-expansion Strategy: In terms of geographical presence, Celonis has a 
+commanding presence over the European Union followed by North America, 
+especially in the USA and is focusing on expanding in other regions.
+• Vertical wise Roadmap: The company holds a strong customer base, including 
+some of the leading brands across industry verticals such as manufacturing, 
+telecommunication, information technology, transportation, airlines and many 
+more.
+• Use Case Support: The company caters to a variety of use cases, including 
+automation and RPA, IT system migration, process excellence, inventory 
+management, AP/AR, and order management. Its major focus area in terms 
+of advance use cases includes customer experience, cost and enterprise 
+performance optimization, and operational excellence. 
+Customer/ User Success Strategy   
+• Celonis provides action flow features with tools like execution intelligence, 
+drag-and -drop builder, prebuilt automation & connectivity, and transparency 
+& traceability which audit automation in real time with automation discovery 
+and impact analysis, advanced error handling, and debugging of data. 
+--- PAGE 56 ---
+53
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Trend Analysis 
+• Celonis DTO solution can be supported on containerization and microservices-
+based cloud platform. With the history of strong process mining capability. 
+Celonis EMS provides real-time data ingestion, task mining, simulation and 
+planning, decision management support and an automation engine. The 
+platform with advance simulation and analytical capability evolved from past 
+processes mining process disciplines to provide operational excellence with 
+better insights.  
+• This is done by incorporating components such as component extraction, 
+transformation and loading capabilities and the analytics results based on 
+KPIs and root-cause analysis within the entire business processes.
+Final Take 
+• Celonis Process Intelligence Graph facilitates process analysis, improvement, 
+and monitoring to capture business value by integrating terabytes of data 
+into real-time performance insights. The suite offers comprehensive process 
+analysis tools like the Process Explorer, allowing users to visualize processes, 
+identify value opportunities, and prioritize improvements. Users can drive 
+process improvement through prebuilt apps, Action Flows for alerts and 
+automation, and maintain adherence with the Process Adherence Manager. 
+Furthermore, the Transformation Hub helps translate process mining 
+insights into understandable reports, enhancing the overall value of Process 
+Intelligence implementations.
+• Users looking for a DTO solution which is easy to use and has strong customer 
+base in EMEA & USA and offering various use cases in industry verticals such 
+as manufacturing, telecommunication, information technology, transportation, 
+airlines, and others can choose Celonis DTO platform.
+--- PAGE 57 ---
+54
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+BOC Group 
+URL : https://www.boc-group.com/en/adonis
+Founded in 1995 and is headquartered in Vienna, Austria, BOC Group offers 
+comprehensive set of solutions that seamlessly integrates with each other. These 
+solutions include business process management suite (ADONIS), enterprise 
+architecture suite (ADOIT), and governance, risk & control suite (ADOGRC).
+BOC Group can offer an efficient and comprehensive DTO solution by offering 
+a holistic enterprise view through its platform – ADONIS, ADOIT, and ADOGRC. 
+With this integrated platform organizations can visualize, model, and manage its 
+processes. Organizations can also map enterprise assets, IT infrastructure, and 
+understand the dependencies between various domains data with integrated 
+governance risk and compliance. 
+
+--- PAGE 58 ---
+55
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Analyst Perspective 
+Key Differentiators 
+• The advanced analytics capability leverages robust graphical views, 
+dashboards, and simulation mechanisms. The platform also provides greater 
+configurability to add corporate branding and create new dashboards 
+according to the users’ requirements. 
+• In terms of integration, the company provides REST APIs, interoperability, and 
+integration possibilities with Confluence, SAP & TIM Solutions, and others. 
+It also provides a flexible platform that can easily deployed on cloud and on 
+premises. Migration of data from various sources can also be done quickly 
+into the DTO platform.
+Product Strategy  
+• Technology Roadmap: BOC Group is focusing on enhancing its complete 
+solution, from business process documentation to automation for operational 
+excellence and continuous improvement within the organization. 
+• Strategic Roadmap: The company is focusing on partnering with other process 
+automation vendors to expand its market reach and improve its existing 
+platform offerings
+Market Strategy  
+• Geo-expansion Strategy: The company is mostly focusing on European Union 
+region.
+• Vertical wise Roadmap: The company holds a strong global customer base, 
+including media, telecommunications, manufacturing, asset management and 
+others.  
+• Use Case Support:  BOC Group focuses on various use cases such as 
+automate processes and workflow, standardize, and document the processes, 
+and provide process transparency and alignment.  
+--- PAGE 59 ---
+56
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Customer/ User Success Strategy   
+• The company offers customer help and training portal in which it provides 
+step-by-step guidance on how to use the platform. With the training session 
+it provides individual coaching session to the user. Further it offers highlight 
+release with new updates and user community to ask question and share 
+knowledge with the other professionals.
+Trend Analysis 
+• BOC Group focus on offering enterprise level DTO solution including various 
+aspects such as processes, IT systems, application, business models, data at 
+one single secured platform.
+Final Take 
+• BOC Group offers DTO solution through ADONIS and ADOIT which enables 
+organizations to manage, analyze, and optimize processes for better efficiency 
+and outcomes. It facilitates process management by defining, analyzing, and 
+monitoring processes while ensuring continuous improvement. It also supports 
+quality and operational excellence by tracking performance, managing costs, 
+and refining business practices. The platform aids in digital transformation 
+by automating processes, optimizing operations, and enhancing customer 
+experience. It also maintains organizational documentation, ensuring audit 
+readiness, and seamlessly integrates with SAP and ERP systems to streamline 
+information flow and enhance productivity. 
+• Users looking for a DTO solution which is easy to use and has strong customer 
+base in European Union and offering various use cases in industry verticals 
+such as media, telecommunications, manufacturing, asset management, and 
+others can choose BOC Groups’ DTO platform
+--- PAGE 60 ---
+57
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Mavim 
+URL : www.mavim.com
+Mavim was founded in 1990 and is headquartered in the Noordwijk, Netherlands, 
+with additional offices in Boston and Bangalore. The platform provides support for 
+the modeling and analysis of business operations in a larger business operating 
+model context, indicating how capabilities and other resources are deployed 
+to deliver value to the stakeholders of the organization with the link to day-to-
+day execution. The company also provides support for customer interactions 
+and customer journey maps and allows for customer segmentation and sales & 
+distribution channel segmentation. Additionally, it enables users to visualize and 
+understand business processes in relation to roles/responsibilities and necessary 
+applications/infrastructure models of resources such as machines, IT systems, 
+and people that perform the operations.
+Mavim’s DTO serves as an operational blueprint of the business, encompassing 
+all actions performed by people and applications, and illustrating how information 
+flows and transforms within the organization. Mavim recognizes the DTO as a 
+dynamic entity rather than a static representation; it captures data and interactions 
+from actual applications and data sources, creating a fluid, information-rich 
+resource. With Mavim, changes made in one area directly impact other aspects, 
+allowing users to observe the effects of alterations in real time. This dynamic 
+model facilitates the identification of process inefficiencies, simplifications, and 
+complexities, empowering users to run What-If scenarios and optimize outcomes 
+consistently.
+
+--- PAGE 61 ---
+58
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Analyst Perspective 
+Key Differentiators 
+• Mavim’s DTO platform include its seamlessly connected and unified experience 
+platform across the organizational silos to meet business needs. It also provides 
+simplified adaptable tools like Microsoft for unparalleled scalability, security, 
+Azure API management, and ease of integration with business applications 
+like Office 365, D365, and Power Platform.
+• It also empowers organizations to make more reliable decisions faster, leading 
+to organizational resilience. Furthermore, it enables users to design target 
+operating models, including risks, roles & responsibilities, related applications 
+& infrastructure, as well as connection to strategy by way of process specific 
+KPIs.
+Product Strategy  
+• Technology Roadmap: continuously focus on delivering additional functionalities 
+that leverage the data already being used for process mining. The company 
+is also simplifying the proactive monitoring of process environments and 
+facilitating the building of ML models to help customers make better decisions 
+with the information they have. The company is also continuing to integrate 
+and leverage Microsoft’s own technology, such as Azure Machine Learning 
+and PowerBI, to provide customers with a best-in-class solution at the speed 
+of Microsoft. 
+• Strategic Roadmap: Mavim ensures simple strategy-to-execution alignment, 
+governance, and communication, and facilitates easy adaptation when 
+strategies shift due to changing priorities or business disruptions by connecting 
+strategy, projects, personnel, processes, technology, risks, architecture, 
+customers, and infrastructure on one platform
+Market Strategy  
+• Geo-expansion Strategy: The company is mostly focusing on European Union, 
+followed by North America, especially in the USA. It also has a significant 
+presence in the Asia-Pacific region. 
+--- PAGE 62 ---
+59
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+• Vertical wise Roadmap: The company holds a strong global customer base, 
+including manufacturing, logistics & transportation, financial services, CPG & 
+retail, government & public sector, energy & utilities, and many others.  
+• Use Case Support:  Mavim focuses on various use cases such as Microsoft 
+business application transformation, transition to shared services / BPO, 
+building a compliant operating model, customer experience re-design, scaling 
+intelligent automation, operational excellence, and strategy to execution 
+management.
+Customer/ User Success Strategy   
+• Mavim allows users to create a DTO platform with context and visibility by 
+providing a collaborative, portal environment based upon user-friendly 
+Microsoft technologies. It offers an interactive, Visio-based business process 
+portal to manage change and facilitate collaboration across an organization. 
+Additionally, its products are built on Microsoft Azure, which provides it with 
+enormous flexibility to scale to meet the needs of large enterprises. 
+Trend Analysis 
+• The power of GenAI within the Mavim Transformation Platform can significantly 
+impact organizations’ operations. Some use cases for adopting the Mavim 
+DTO Copilot include enhancing employee experience in change initiatives, 
+boosting user adoption, improving decision-making effectiveness, measuring 
+value comprehensively, and streamlining process improvement efforts within 
+the DTO environment through detailed analysis and automatic detection of 
+deviations, bottlenecks, and compliance issues.
+Final Take 
+• The company offers comprehensive support for internal and external 
+ecosystems, integrating user-generated and external content from social-
+media collaboration and multi-channel communication into business 
+operations. It grants access to project and program data to monitor progress 
+and align with business outcomes, while supporting various measurement 
+schemes like operational performance indicators and financial models. 
+Additionally, it conducts conformance checking against reference models and 
+--- PAGE 63 ---
+60
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+predicts process deviations using preconfigured machine learning modules. 
+The platform’s adapters and connectors facilitate data exchange across 
+various systems, and its notification and alerting capabilities enable users to 
+send alerts and trigger responses in applications or devices, fostering efficient 
+resolution processes. 
+• Users looking for a DTO solution which is easy to use and has strong customer 
+base in European Union & North America and offering various use cases in 
+industry verticals such as manufacturing, logistics & transportation, financial 
+services, CPG & retail, government & public sector, energy & utilities and 
+others can choose Mavim’s DTO platform.
+--- PAGE 64 ---
+61
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Ardoq 
+URL : https://www.ardoq.com
+Founded in 2013 and is headquartered in Oslo, Ardoq offers a dynamic data driven 
+enterprise architecture tools for organizations’ digital transformation. The vendor 
+provides its DTO solutions by integrating different solutions such as application 
+portfolio management, application rationalization, business continuity modelling, 
+business capability realization, and strategic planning and execution.
+The company offers diverse solutions leveraging enterprise architecture expertise 
+for effective DTO implementation. Application portfolio management aids in 
+identifying and managing low-value systems, streamlining high-value projects 
+within a unified portfolio. Application rationalization optimizes IT spend, enhancing 
+business-IT alignment and reducing IT risks. Additionally, tools encompass 
+application lifecycle management, business capability modeling, and business 
+capacity realization, enabling comprehensive understanding and visualization of 
+organizational structure and strategic alignment.
+
+--- PAGE 65 ---
+62
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Analyst Perspective 
+Key Differentiators 
+• One of the key differentiators Ardoq’s DTO platform is scenario planning 
+to simulate and compare current and future states with data-driven and 
+collaborative scenario analysis. It also offers graph analysis to measure impact 
+of change within the processes. 
+• With its data lineage capability company allows to understand the creation, 
+usage, and storage of critical data to manage risk, map, and track control of 
+vital data.
+Product Strategy  
+• Technology Roadmap: The company is focusing on AI technologies that can 
+be seamlessly integrated into the enterprise, enhancing decision-making 
+processes and operational efficiency. By establishing robust data governance 
+and ethical AI use policies, EA helps organizations navigate the complexities 
+of data privacy and security, ensuring AI systems are both effective and 
+trustworthy.
+• Strategic Roadmap: The company is focusing on empowering enterprise 
+architect to make organizational strategy. It is also focusing on having diversity 
+of thought before designing the organizational EA.  
+Market Strategy  
+• Geo-expansion Strategy: The company is mostly focusing on European Union 
+and North American region.
+• Vertical wise Roadmap: The company holds a strong global customer base, 
+including construction, manufacturing, investment, marketing, government, 
+and others.  
+• Use Case Support:  Ardoq focuses on various use cases such as reduce 
+technical debt, improve lifecycle management, enterprise portfolio 
+management. 
+--- PAGE 66 ---
+63
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Customer/ User Success Strategy   
+• The significant advantages of Ardoq is its reduced architectural rigidity. 
+Concepts from the business can be actively edited within the platform. It also 
+helps users to have a single source of truth of easily visualizing and bridging 
+gaps between business & IT teams.  
+Trend Analysis 
+• As technology advances, Enterprise Architects are undergoing a transition 
+from data management to strategic roles. Automation and specialized tools 
+now manage data tasks, enabling EAs to concentrate on value-driven activities 
+such as thought leadership and alignment with industry trends, where strategic 
+and creative roles take precedence over operational tasks.
+Final Take 
+• Ardoq’s platform facilitates impactful decision-making across organizational 
+processes with real-time insights and a user-friendly interface. Its analytical 
+capabilities enable agile impact analysis through powerful data analytics 
+and intuitive visualizations. The company offers reports in multiple formats 
+including governance, project performance, cloud readiness, security risk, 
+and stakeholder-specific portfolio dashboards. 
+• Users looking for a DTO solution which is easy to use and has strong customer 
+base in European Union and North America and offering various use cases in 
+industry verticals such as construction, manufacturing, investment, marketing, 
+government, and others can choose Ardoq’s DTO platform.
+--- PAGE 67 ---
+64
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+CANEA 
+URL : www.canea.com
+Founded in 1994 and headquartered in Gothenburg, Sweden, CANEA is a 
+management consulting, IT solutions, and training firm. CANEA ONE is a 
+multilingual out-of-the-box management system platform that links company 
+strategy with its day-to-day operations. The company enables effective business 
+management by integrating strategies, projects, processes, workflow, use cases, 
+and documents.
+CANEA ONE provides a range of modules aimed at enhancing organizational 
+processes and fostering collaboration. CANEA Strategy ensures alignment with 
+the organization’s strategic direction by effectively communicating objectives, 
+initiatives, and activities. CANEA Project offers robust project and portfolio 
+management capabilities, promoting collaboration and adherence to best 
+practices. Meanwhile, CANEA Process facilitates intuitive process modeling, 
+enabling seamless adjustments to reflect current scenarios. CANEA Workflow 
+manages administrative and human-centric workflows, automating processes 
+and enabling performance analysis. Lastly, CANEA Document supports users 
+in finding, sharing, and securing documents across their lifecycle, covering all 
+stages from creation to archiving.
+
+--- PAGE 68 ---
+65
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Analyst Perspective 
+Key Differentiators 
+• The low code-based platform helps users to deploy the platform within less 
+time and reduce training time. Additionally, all modules are natively integrated 
+on the same platform, the solution becomes future proof in functionality as 
+well short learning curve for new capabilities. Hence, the cost for training, 
+maintenance and support can be kept to a minimum. 
+• Due to the background of IT, management consulting, education background 
+the company has information and understanding regarding users’ requirements 
+and provide services to optimize their performance in areas of consulting, 
+implementation, and training which maximize the full potential of the platform.
+Product Strategy  
+• Technology Roadmap: The company is focusing on offering continuous 
+improvement of platform usability. Additionally, it will update the graphical 
+profile as well as the menu system. Further, the company is also planning 
+to improve functionality for reporting, training, process mapping, strategy 
+measures and maintenance. 
+• Strategic Roadmap: CANEA ONE is focusing on enhancing strategy to 
+execution platform by including solutions such as strategy management, project 
+& portfolio management, process management, workflow management, and 
+document management. This enables to organizations to manage planning 
+and execution strategies with one single platform.
+Market Strategy  
+• Geo-expansion Strategy: The company is mostly focusing on European Union 
+and North American region.
+• Vertical wise Roadmap: The company holds a strong global customer 
+base, including manufacturing, healthcare & life science, energy & utilities, 
+automotive, government & public sector, food & beverages and logistics & 
+transportations and others.  
+--- PAGE 69 ---
+66
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+• Use Case Support:  CANEA focuses on various use cases such as operational 
+excellence by providing entire module within one platform. It also supports 
+digital transformation initiatives allows its customers to digitalize their current 
+processes, workflows, document management, project/portfolio management 
+and strategy. Lastly, it also supports performance optimization by defining and 
+importing KPIs on granular level which makes tasks manageable. Additionally, 
+strategy execution leads to better performance management by prioritizing 
+tasks. 
+ 
+Customer/ User Success Strategy   
+• Users can utilize the platform for making strategic planning through the 
+platform’s easy to visualize and clarified level of inputs related to organizations. 
+The platform provides overall status of the strategy which can easily be viewed 
+and drilled down to minute details of each goal, KPI, initiative, action, etc.
+• In terms of scalability and availability, CANEA ONE supports customer ranging 
+in size from 10 to 45,000 users and across most industries. It provides future 
+proof solution, which is easy to use, configurable and integrate different 
+modules both in terms of functionality and scalability.   
+Trend Analysis 
+• CANEA is focused on implementing organization’s strategy and connects its 
+success factors and KPIs with daily operations and processes to have a better 
+overview of the business and allows to make the right business decisions.
+Final Take 
+• CANEA ONE can map the entire organization structure by showing relevant 
+information on each site/role/person which is integrated across department 
+levels and locations. Furthermore, KPIs can be defined for each department/
+location and then aggregated for the full organization. Also, the collaboration 
+between departments is done for specific processes, KPIs, projects, 
+documents, workflows which can be launched from within the system using 
+the native tool (The Stream) and also with MS Teams.  The Stream is a chat 
+function that logs all communications, actions and events which sends an 
+email to involved persons. 
+--- PAGE 70 ---
+67
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+• Users looking for a DTO solution which is easy to use and has strong customer 
+base in European Union & North America and offering various use cases in 
+industry verticals such as manufacturing, healthcare & life science, energy 
+& utilities, automotive, government & public sector, food & beverages and 
+logistics & transportations, and others can choose CANEA’ DTO platform.
+--- PAGE 71 ---
+68
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Edge Total Intelligence
+URL : https://edgeti.com/platform
+Founded in 1993 and is headquartered in Arlington, Virginia, Edge Total 
+Intelligence provides a DTO platform that utilizes existing data from systems such 
+as RPA, BI, ERP, ITSM, CRM, and BPM and delivers real-time, secure, role-based 
+data aggregation, digital process orchestration, and information visualization to 
+improve organizational performance.
+Edge Total Intelligence DTO platform offers dynamic models that anticipate, 
+depict, and regulate how an organization operates, performs, consumes, and 
+deploys resources, as well as delivers customer value and experience. It also 
+helps organizations to observe business operations and interdependencies to 
+make informed decisions by exploring various options, and act on it validating 
+outcomes.
+
+--- PAGE 72 ---
+69
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Analyst Perspective 
+Key Differentiators 
+• Edge Total Intelligence DTO framework consists of four layers: Data Mesh 
+which enables users to access data from where it lives and stop moving 
+data to break down silos. The second layer is composable experience which 
+combines capabilities of existing applications and solutions. The third layer is 
+AI/ML, what-if analysis, and automation which continuously improve existing 
+processes and solutions. And the last layer is zero trust which enables to 
+protect valuable assets.
+Product Strategy  
+• Technology Roadmap: edgeCore™ is focused on facilitating the seamless 
+connection of data and applications, enabling the creation of the most effective 
+digital twin of enterprise. With edgeCore™, users can visualize operations 
+within the context of organization to foster teamwork. Moreover, it helps in 
+making informed decisions driven by insights and guidance derived from 
+the platform. By leveraging assisted and delegated automation, edgeCore™ 
+empowers users to act with increased efficiency and productivity.
+• Strategic Roadmap: The company is focusing on addressing the unique 
+needs of enterprise, whether through cross-functional transformation efforts 
+or new revenue initiatives. With edgeCore™, organizations can quickly 
+develop functional prototypes within a secure model that readily scales to 
+accommodate changes, ensuring adaptability and resilience. 
+Market Strategy  
+• Geo-expansion Strategy: The company is mostly focusing on North American 
+region.
+• Vertical wise Roadmap: The company holds a strong global customer base, 
+including oil & gas, service providers, construction, federal, government and 
+other.
+• Use Case Support:  The company focuses on various use cases such as 
+--- PAGE 73 ---
+70
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+operational excellence, performance management, operational intelligence, 
+unified service desk, smart cities, intelligent automation.
+Customer/ User Success Strategy   
+• edgeTI, offers products and services tailored to its customers’ needs, 
+collaborating with a range of technology partners. edgeTI provides solutions 
+to OEMs, software developers, and technology manufacturers seeking to 
+develop or enhance the data integration and visualization capabilities of their 
+existing products or services.
+• Furthermore, edgeTI collaborates extensively with systems integrators, 
+vendors, or consultants tasked with integrating component subsystems into 
+functional information management systems. These systems enable users to 
+securely visualize, integrate, share, and interact with targeted information.
+• Through its range of products, software toolkits, and professional services, 
+edgeTI assists clients in achieving their data visualization and integration 
+objectives more quickly and cost-effectively than through in-house 
+development initiatives.   
+Trend Analysis 
+• edgeCoreTM Data Mesh empowers users to achieve the seemingly retain 
+data products within their original systems, converting these systems into 
+integration-ready repositories accessible to all members of the organization. 
+Data Mesh delivers functions such as data-as-a-product, comprehensive single 
+sign–on, secure data integration, ai/ml orchestration, advanced automation, 
+secure application proxying, no costly system migrations without creating a 
+new persistent database or collecting data from existing systems.
+Final Take 
+• Edge Total Intelligence provide DTO solution through its edgeCore platform 
+that increases operational efficiency, reduces hidden inefficiencies in the 
+processes, and promotes the best outcomes based on real-time integration, 
+orchestration, and visualization of data. It also analyses and monitor 
+enterprise process performance by integrating data from various sources to 
+continuously improve business and operational processes. The platform also 
+--- PAGE 74 ---
+71
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+can orchestrate automation and relay on data between systems, applications 
+to provide a unified view of an organization. 
+• Users looking for a DTO solution which is easy to use and has strong 
+customer base in North America and other regions through partners while 
+offering various use cases in industry verticals such as oil & gas, service 
+providers, construction, federal, government and others can choose Edge 
+Total Intelligence’s DTO platform.
+--- PAGE 75 ---
+72
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+BOXARR
+URL : https://www.boxarr.com/platform
+Founded in 2003 and is headquartered in Bristol, England, BOXARR enables 
+organizations to collaboratively create Digital Twin models of their complex 
+organizational challenges and processes. The platform is intuitive to use, although 
+the models encapsulate vast complexity, it provides platform that generate 
+effective “what if” analysis results.
+BOXARR DTO platform empowers collaborative creation, management, and 
+evolution of Digital twin models across complex systems, plans, and organizations, 
+spanning various use cases. It offers systems modeling flexibility, configurable 
+analytics on spreadsheets, and dashboarding features. BOXARR interfaces offers 
+diverse set of information to populate and ensure the ongoing relevance of digital 
+twin models.
+leThrough BOXARR, users can manage complexity, integrate systems, identify 
+risks and opportunities, allocate investments, enable capabilities, and comprehend 
+the cascading impacts of change, thus facilitating informed decision-making.
+
+--- PAGE 76 ---
+73
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Analyst Perspective 
+Key Differentiators 
+• The platform offers boxes that represent tasks, and arrows that represent their 
+precedence. It can automatically derive a resource-scenario-constrained, 
+discrete-event-simulation based schedule of model. The users can find critical 
+paths with one-click operation, and Monte Carlo simulation reveals the effect 
+of time-and-cost uncertainties. 
+• The platform also enables to view models as map overlays with pop-up KPI 
+panels. Additionally, data-and-function driven dashboard widgets include 
+networks, maps, tables, charts, pivots, and more. 
+Product Strategy  
+• Technology Roadmap: With launch of BOXARR v5.8, the company has 
+enhanced platform capability to simplify the process of building, visualizing, 
+analyzing, and optimizing BOXARR models for users. It also improved the 
+functionality of Macros that enable users to automate various operations 
+within BOXARR Modeling, with new options for editing and modification.
+• BOXARR allows unlimited data fields on any box, arrow, or group, with specific 
+combinations of fields specified by the unlimited number of box types, arrow 
+types, and group types of users can create. Now, users can set bounds on 
+date and number fields, restrict number fields to integers, and restrict alpha-
+numeric fields to a predefined list of alternatives. This feature facilitates instant 
+data validation connected to BOXARR’s errors and warnings framework 
+(enhanced in v5.8), enabling easy identification and correction of any data 
+entries that do not comply with the user’s application requirements.
+Market Strategy  
+• Geo-expansion Strategy: The company is mostly focusing on Europeaun 
+Union region and has major global partners such as Delloite, KPMG, methods, 
+NEWTON and other who is envolved in selling and implementing BOXARR’s 
+solution. 
+--- PAGE 77 ---
+74
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+• Vertical wise Roadmap: The company holds a strong global customer 
+base, including government, defense, transport, utilities, logistics, and 
+others.  
+• Use Case Support: BOXARR focuses on various use cases such as capture 
+latency, complexity, optimizing workflow, root cause analysis. 
+Customer/ User Success Strategy   
+• BOXARR has dedicated customer support team through it support portal. 
+The company also support Managed services which helps customers to 
+collaborate with experts to address organization’s major challenges and 
+receive customized services tailored to specific needs through BOXARR 
+Certified Alliance Partners. It also offers solutions support with experts and 
+consultants that understands various business issues and resolve them. 
+These consultants engage with every facet of organization, from executives 
+to production workers, commanders to field personnel to identify challenges 
+and provide effective solutions.
+Trend Analysis 
+• BOXARR is focus on offering non-sector specific solutions which can be tailored 
+to organizations need. It includes managing complex project and processes, 
+map & analyze supply chain & value webs, manage complex network, 
+products, and systems, and assure organizational lifecycle capabilities. 
+Final Take 
+• BOXARR is a modeling platform that empowers users to build models using 
+a straightforward approach of boxes and arrows. It facilitates the capture, 
+mapping, and analysis of various aspects of organizational data, operations, 
+processes, resources, and roles by consolidating them into multi-contextual 
+models. Utilizing the box and arrow modeling method, it enables the design, 
+construction, and analysis of DTO models. 
+• Users looking for a DTO solution which is easy to use and has strong 
+customer base in European Union and other region through partners while 
+offering various use cases in industry verticals such as government, defense, 
+transport, utilities, and others can choose BOXARR’s DTO platform.
+--- PAGE 78 ---
+75
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Holocentric
+URL : https://holocentric.com/
+Founded in 1991 and is headquartered in North Sydney, New South Wales, 
+Holocentric provides two products namely – Holocentric Connect and Holocentric 
+Business Management Systems. The company provides product to model 
+relationships between enterprise elements such as processes, policies, roles, and 
+regulations, and capture them in a secure and organized repository.
+Holocentric Connect is a cloud-based system facilitating the capture and secure 
+linkage of diverse organizational information like business processes, work 
+instructions, and policies. It streamlines onboarding, enhances compliance, 
+fosters information sharing, clarifies accountabilities, and centralizes document 
+storage. Meanwhile, Holocentric Business Management System (BMS) offers 
+robust modeling tools, including Holocentric Modeler and Modelpedia, specifically 
+designed for large-scale enterprises to understand and analyze organizational 
+structures and operations comprehensively.
+
+--- PAGE 79 ---
+76
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Analyst Perspective 
+Key Differentiators 
+• Holocentric Connect facilitates organizational operation management through 
+the categorization of business processes, task filtering by role, and customized 
+process views. Its functionalities include instant process mapping, procedural 
+views, and system links. Moreover, it supports agile policy and regulation 
+management by allowing the categorization of policies, mapping regulations, 
+capturing controls, and managing risks. 
+• Holocentric Business Management Systems (BMS) empowers content capture 
+via the Holocentric Modeler, offering features like risk management, industry 
+frameworks, meta-modeling, and end-to-end process mapping. Furthermore, 
+Holocentric Modelpedia provides stakeholders with a familiar interface to 
+access complex information more easily.
+Product Strategy  
+• Technology Roadmap: The company is focusing on organizations that needs 
+governance, risk, and compliance (GRC) solutions to maintain organization’s 
+processes quality, safety, and regulatory compliance.
+• Strategic Roadmap: The company is focusing on providing tools that measures 
+relationship between people, processes, and technologies in a secure digital 
+repository and create future state of an organization by performing impact 
+analysis while preparing the processes for automation
+Market Strategy  
+• Geo-expansion Strategy: The company is mostly focusing on Australian 
+region.
+• Vertical wise Roadmap: The company holds a strong global customer base, 
+including Australian government, defense, financial services, healthcare, 
+transport, utilities, infrastructure, and others.  
+--- PAGE 80 ---
+77
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+• Use Case Support:  The company focuses on various use cases such as 
+operational excellence, customer service excellence, business transformation, 
+GRC, and strategy alignment
+Customer/ User Success Strategy   
+• Holocentric platform can be customized to align the solution with each 
+organization’s strategy. Their team can guide clients through the end-to-end 
+process of identifying and implementing any necessary system changes. 
+Based in Australia, the company’s support team offers a range of professional 
+services. From designing and implementing process architecture to engaging 
+with Subject Matter Experts (SMEs) for content capture, their team possesses 
+all the necessary resources to set clients’ systems up for success.
+Trend Analysis 
+• Holocentric focus on cloud-based business management systems. It enables 
+organizations to capture various information, including business processes, 
+work instructions, roles, documents, policies, and regulations, and seamlessly 
+link them together in a secure online library. 
+Final Take 
+• Holocentric DTO platform focused on connecting all aspects of an organization 
+and storing data related to processes, role, policies etc into a single secured 
+library. It also supports end-to-end process mapping and metamodeling 
+support to link information and understand how organization operates. 
+• Users looking for a DTO solution which is easy to use and has strong customer 
+base in Australia and offering various use cases in industry verticals such as 
+government, defense, transport, utilities, healthcare, and others can choose 
+Holocentric’s DTO platform.
+--- PAGE 81 ---
+78
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Arrayworks
+URL : https://arrayworks.com/
+Founded in 2000 and is headquartered in Mansfield, Massachusetts, Arrayworks’ 
+Transformation Acceleration Platform (TAP) powered by low-code application 
+platform, seamlessly fuses together Rapid Application Development, Process 
+Automation, API enablement, Digital Twin, Cloud, IoT, and AI technologies into 
+one Integrated Platform, enabling organizations to continually adapt and efficiently 
+incorporate new technologies into their operating models.
+Arrayworks’ TAP simplifies challenging business processes by visually identifying 
+workflow bottlenecks, edit and publish processes, and use sandboxes to edit and 
+test new or refined processes. Success mapping is a key feature of the Arrayworks 
+platform, providing a simple visual tool to map processes, manage outcomes, 
+attach documents, and auto create tasks, emails & alerts at any stage. It also set 
+triggers to automatically launch actions based upon desired outcomes.
+
+--- PAGE 82 ---
+79
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Analyst Perspective 
+Key Differentiators 
+• The platform has partnership with SAS to include predictive and prescriptive 
+monitoring, make digital twin of every asset, and automate workflow. 
+• TAP’s No-code API tool enables organizations to integrate with legacy 
+systems, new solutions and third-party data sources. It has over 350 pre-
+built connectors or users case to create custom connectors. It also provides 
+standardized approach, improved governance, and reduced demand on 
+technical resources.
+Product Strategy  
+• Technology Roadmap: the company is focusing on enhancing intelligent 
+automation offering by combining process, AI, IoT, digital twins, data 
+integration, and low code in one unified platform.
+• Strategic Roadmap: The company can develop apps faster to continually 
+innovate, iterate, and transform business operations.
+Market Strategy  
+• Geo-expansion Strategy: The company is mostly focusing on North American 
+region.
+• Vertical wise Roadmap: The company holds a strong global customer base, 
+including some of the leading brands across industry verticals such as 
+government, defense, transport, utilities, logistics, and others.  
+• Use Case Support:  Arrayworks focuses on various use cases such as 
+operational excellence, customer services, and IoT use cases. 
+--- PAGE 83 ---
+80
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Customer/ User Success Strategy   
+• With Arrayworks TAP customer can easily develop and deploy application 
+based on low-code features. It also captures the data from legacy systems 
+into new applications to improve customer experience, streamline operations, 
+and provide real time insights of the entire organization processes.
+Trend Analysis 
+• Arrayworks’ TAP is fully low-code based platform which makes them stands 
+out in the DTO market. It intelligently combines processes, AI, IoT, digital twins, 
+data integration, and low code features into one unified platform to create 
+situational dashboard that enables real time operational insights for making 
+informed business decisions.  
+Final Take 
+• Arrayworks TAP empowers users to chart out the operational structure of 
+organizations by facilitating the connection of all enterprise architecture 
+components through IoT sensors, system data, and process-related 
+information, thus facilitating informed, data-driven decision-making.
+• Utilizing low-code/no-code capabilities, Arrayworks TAP seamlessly creates 
+and correlates organizational entities in a cohesive manner. Furthermore, 
+the platform offers a range of features including omnichannel customer 
+engagement, data analysis and visualization, and automated documentation, 
+simplifying the creation of end-to-end models of enterprise processes.
+• Users looking for a DTO solution which is easy to use and has strong customer 
+base in North America and offering various use cases in industry verticals 
+such as government, defense, transport, utilities, logistics, and others can 
+choose Arrayworks’ DTO platform.
+--- PAGE 84 ---
+81
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Research Methodologies
+Quadrant Knowledge Solutions uses a comprehensive approach to conduct global 
+market outlook research for various technologies. Quadrant’s research approach 
+provides our analysts with the most effective framework to identify market and 
+technology trends and helps in formulating meaningful growth strategies for our 
+clients. All the sections of our research report are prepared with a considerable 
+amount of time and thought process before moving on to the next step. Following 
+is the brief description of the major sections of our research methodologies.
+Secondary Research 
+Following are the major sources of information for conducting secondary research:
+Quadrant’s Internal Database
+Quadrant Knowledge Solutions maintains a proprietary database in several 
+technology marketplaces. This database provides our analyst with an adequate 
+foundation to kick-start the research project. This database includes information 
+from the following sources:
+• Annual reports and other financial reports
+• Industry participant lists
+• Published secondary data on companies and their products
+--- PAGE 85 ---
+82
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+• Database of market sizes and forecast data for different market 
+segments
+• Major market and technology trends
+Literature Research
+Quadrant Knowledge Solutions leverages on several magazine subscriptions 
+and other publications that cover a wide range of subjects related to technology 
+research. We also use the extensive library of directories and Journals on various 
+technology domains. Our analysts use blog posts, whitepapers, case studies, 
+and other literature published by major technology vendors, online experts, and 
+industry news publications.
+Inputs from Industry Participants
+Quadrant analysts collect relevant documents such as whitepaper, brochures, 
+case studies, price lists, datasheet, and other reports from all major industry 
+participants.
+Primary Research
+Quadrant analysts use a two-step process for conducting primary research that 
+helps us in capturing meaningful and most accurate market information. Below is 
+the two-step process of our primary research:
+Market Estimation: Based on the top-down and bottom-up approach, our analyst 
+analyses all industry participants to estimate their business in the technology 
+market for various market segments. We also seek information and verification of 
+client business performance as part of our primary research interviews or through 
+a detailed market questionnaire. The Quadrant research team conducts a detailed 
+analysis of the comments and inputs provided by the industry participants.
+Client Interview:  Quadrant analyst team conducts a detailed telephonic 
+interview of all major industry participants to get their perspectives of the current 
+and future market dynamics. Our analyst also gets their first-hand experience 
+with the vendor’s product demo to understand their technology capabilities, user 
+experience, product features, and other aspects. Based on the requirements, 
+Quadrant analysts interview with more than one person from each of the market 
+participants to verify the accuracy of the information provided. We typically 
+engage with client personnel in one of the following functions:
+--- PAGE 86 ---
+83
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+• Strategic Marketing Management
+• Product Management
+ • Product Planning
+• Planning & Strategy
+Feedback from Channel Partners and End Users
+Quadrant research team researches with various sales channel partners, including 
+distributors, system integrators, and consultants to understand the detailed 
+perspective of the market. Our analysts also get feedback from end-users from 
+multiple industries and geographical regions to understand key issues, technology 
+trends, and supplier capabilities in the technology market.
+SPARK Matrix: 
+Strategic Performance Assessment and Ranking
+Quadrant Knowledge Solutions’ SPARK Matrix provides a snapshot of the market 
+positioning of the key market participants. SPARK Matrix representation provides 
+a visual representation of market participants and provides strategic insights on 
+how each supplier ranks in comparison to their competitors, concerning various 
+performance parameters based on the category of technology excellence and 
+customer impact.
+Final Report Preparation
+After finalization of market analysis, our analyst prepares necessary graphs, charts, 
+and table to get further insights and preparation of the final research report. Our 
+final research report includes information including competitive analysis; major 
+market & technology trends; market drivers; vendor profiles, and such others.  
+--- PAGE 87 ---
+84
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Appendix
+Quadrant Knowledge Solutions defines Digital Twin of an Organization (DTO) 
+solutions as the virtual representation of an organizational process, system, people, 
+applications, domains, services, and business & operating model. It achieves this 
+by collecting data from operational and business processes, enhancing process 
+performance over its lifecycle through simulations aimed at addressing issues 
+impacting organizational processes. This assists enterprise architect and business 
+strategist in prioritizing, planning, monitoring, guiding, analyzing, predicting, and 
+making data driven strategic decisions to meet customer demands and business 
+objectives. By offering a comprehensive view of the entire organizational structure, 
+encompassing diverse processes and applications, DTO solutions provide real-
+time business insights, adaptability to changes, and facilitate optimal resource 
+allocation to enhance speed and efficiency, thereby delivering enhanced customer 
+value.
+Following is the description of each DTO functionality:
+• Data Integration & Governance: A DTO platform offers comprehensive 
+data management capability, which includes ingestion of historical data 
+from multiple storage locations and databases, data preparation, and data 
+storage and management to preserve time-stamped data. The vendors 
+also provide self-service for data virtualization, and for integration with 
+mainframe to get legacy data and also from third party data sources. 
+Vendors also provides various capabilities for data governance such as 
+personas-oriented permission, assets (processes, dashboards, model) 
+are grouped and shared with the members of the same organization. 
+They also provide a comprehensive user administration console, so users, 
+roles, groups, organizations are managed with fine-grained permissions.
+• Process Modeling & Visualization: The vendors are supporting process 
+modeling capability by offering BPMN and DMN tools, blueprints, 
+process mining, task mining and canvas-based modelling which is further 
+documented to analyze and generate results from multi-level business 
+processes.  DTO solution vendors are increasingly offering advanced 
+visualization tools beyond basic dashboards by include interactive 3D 
+visualization, AI-enabled visualization, Gantt chart view, opportunities 
+dashboard for PMOs and CXOs levels. It also supports the visualizations 
+journey and ROI calculations in standard charts and tables to enable 
+--- PAGE 88 ---
+85
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+cross- functional, fact-based decision making. Additionally, the platform 
+supports visualization of models and associated data collected from 
+process metrics, change opportunities, KPI impacts, and transformation 
+performance in an intuitive and role based customizable dashboard to 
+make informed decisions.
+• Process Simulation: This enables organizations to experiment with 
+various ‘what-if’ scenarios before actual process execution. It further 
+allows the users to simulate and gauge the impact of their decisions on 
+each aspect of the business model. The DTO platform enables users 
+to create various improved and innovative models and run scenarios to 
+understand the potential impact and choose preferred transformation 
+paths. It provides step-by-step implementation instructions for short, 
+mid, and long-term actions plans. Furthermore, the “what-if” simulations 
+and “how-to” optimizations allow organizations to compare and simulate 
+alternative scenarios, ensuring efficiency and uniformity across the 
+value chain. Another way of simulating processes is by comparing “as-
+is” process with desired “to-be” process to test various scenarios and 
+incorporating change management with updated data.  
+• Process Analytics & Monitoring: The vendors’ DTO platform enables 
+users to discover hidden root cause and bottlenecks, conformance 
+checking, pattern matching, gap analysis that effects ongoing processes. 
+The process intelligence provides recommendations to improve 
+inefficiencies in the processes and process mining to investigate key 
+metrics for continuous improvements. The vendors also provide tools 
+for prescriptive analytics provides “how-to” scenarios and robustness 
+optimization. Additionally, predictive analytics provides “what-if” scenarios 
+to predict how the process will run in after making certain changes. The 
+platform offers reporting such as sensitive analysis, uncertainty analysis, 
+simulation orchestration and analytics. 
+• Support for Communication and Collaboration: They also offer 
+seamless integration of expert systems with solutions like information 
+technology service management (ITSM), customer relationship 
+management (CRM), project and portfolio management (PPM), along 
+with collaborative tools like Microsoft Teams and Slack for internal and 
+external stakeholder communication which provides a bird eye view on 
+all the ongoing organizational processes. Thus, the vendors are offering 
+--- PAGE 89 ---
+86
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+holistic, dynamic, and connected digital replicas to simulate entire 
+business ecosystems.
+• Process Optimization: The DTO solutions in the market is allowing 
+users to optimize its business and operational processes for improving 
+outcomes and taking data driven business decisions. The vendors are 
+offering various approaches such as business process management 
+notation (BPMN), reporting guide, what-if analysis, strategy to execution 
+linkage, ready to use open-source extract, transfer, load (ETL) 
+components, and low- code tools to quickly optimize the processes of 
+the entire organization. 
+• 360-degree Holistic View:  The vendors are offering comprehensive 
+platforms that integrate all the different organizational areas to provide 
+a holistic view of the entire organization. They provide replica in form 
+of process landscape, organizational chart, and application architecture 
+with detailed process maps. The systems are configured to provide view 
+of each role, department, locations, product & service capability, and 
+strategies to provide holistic visibility into the entire organization structure. 
+The vendors also map resources (machinery, IT infrastructure, people), 
+customer interactions (customer journey maps, customer touchpoints, 
+customer segments), and organizations offering (product, services, tools) 
+to have the entire replica of the organization structure and its functions.
+--- PAGE 90 ---
+87
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+SPARK Matrix™: Strategic  
+Performance Assessment and Ranking 
+Quadrant Knowledge Solutions’s SPARK Matrix provides a snapshot of the market 
+positioning of the key market participants. The SPARK Matrix provides a visual 
+representation of market participants and provides strategic insights on how 
+each supplier ranks related to their competitors, concerning various performance 
+parameters based on the category of technology excellence and customer 
+impact. Quadrant’s Competitive Landscape Analysis is a useful planning guide 
+for strategic decision-making, such as finding M&A prospects, partnerships, 
+geographical expansion, portfolio expansion, and similar others.
+Each market participant is analyzed against several parameters of Technology 
+Excellence and Customer Impact. In each of the parameters (see charts), an 
+index is assigned to each supplier from 1 (lowest) to 10 (highest). These ratings 
+are designated to each market participant based on the research findings. Based 
+on the individual participant ratings, X and Y coordinate values are calculated. 
+These coordinates are finally used to make the SPARK Matrix. 
+Technology Excellence Weightage Customer Impact Weightage
+Business Process Modelling & 
+Visualization 15% Product Strategy & Performance 20%
+Business Process Analytics & AI 15% Market Presence 20%
+Business Process Simulation 15% Proven Record 15%
+Define & Map Business & 
+Operating Model 15% Ease of Deployment & Use 15%
+Data Integration & Management 5% Customer Service Excellence 15%
+Communication & Collaboration 8% Unique Value Proposition 15%
+Supporting Technologies 10%
+Application Diversity & Use Case 5%
+Integration & Interoperability 7%
+Vision & Roadmap 5%
+--- PAGE 91 ---
+88
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Evaluation Criteria: Technology Excellence
+• Business Process Modelling & Visualization: How effectively 
+the DTO solution is modelling the entire organization’s business 
+processes. 
+• Business Process Analytics & AI: Does the solution has the capability 
+to generate effective reporting and provide monitoring? Does it offer 
+unified dashboard? Is the solution able to generate important insights 
+that impact the process performance?
+• Business Process Simulation: Does the solution provide what-if 
+analysis, scenario planning & analysis, and continuous improvement? 
+Is the solution able to identify bottlenecks in the processes and help 
+team to take better decision?
+• Define & Map Business & Operating Model: Mapping of the 
+organization’s process, applications, and people. Does the vendor 
+have ability to map entire enterprise structure, architecture, 
+processes?
+• Data Integration & Management: Centralized repository of data and 
+overall governance of data ingested into the DTO solution.
+• Communication & Collaboration: Collaboration between all the 
+teams and processes.
+• Supporting technologies: Which technologies are supported to 
+create DTO (Process Mining, EA tools, EBPM, Enterprise performance 
+management and others)
+• Application Diversity & Use Case: Variety of use case support, 
+target industry verticals, How the company’s DTO solution is helping 
+organizations to transforms digitally. How the company is improving 
+customer experiences 
+• Integration & Interoperability: The ability to demonstrate integration 
+with enterprise-grade applications and solutions.
+--- PAGE 92 ---
+89
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+• Vision & Roadmap: Evaluation of the vendor’s product strategy and 
+roadmap with the analysis of key planned enhancements to offer 
+superior products/technology and improve the customer ownership 
+experience.
+ 
+Evaluation Criteria: Customer Impact
+• Product Strategy & Performance: Evaluation of multiple aspects 
+of product strategy and performance in terms of product availability, 
+price to performance ratio, excellence in GTM strategy, and other 
+product- specific parameters.
+• Market Presence: The ability to demonstrate revenue, client base, 
+and market growth along with a presence in various geographical 
+regions and industry verticals.
+• Proven Record: Evaluation of the existing client base from SMB, 
+mid- market and large enterprise segment, growth rate, and analysis 
+of the customer case studies.
+• Ease of Deployment & Use: The ability to provide superior 
+deployment experience to clients supporting flexible deployment 
+or demonstrate superior purchase, implementation, and usage 
+experience. Additionally, vendors’ products are analyzed to offer 
+user-friendly UI and ownership experience.
+• Customer Service Excellence: The ability to demonstrate vendors’ 
+capability to provide a range of professional services from consulting, 
+training, to support. Additionally, the company’s service partner 
+strategy or system integration capability across geographical regions 
+is also considered.
+• Unique Value Proposition: The ability to demonstrate unique 
+differentiators driven by ongoing industry trends, industry 
+convergence, technology innovation, and such other.
+--- PAGE 93 ---
+90
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+SPARKM atrix
+x
+SPARKL eadersAspirants Strong Contenders
+Customer Impact
+Technology Excellence High 
+High 
+Low
+Low
+ProductS trategy&  Performance
+Ease of Deployment & Use
+Customer ServiceE xcellence
+UniqueV alue Proposition
+Market Presence
+Proven Record
+Business ProcessM odelling & 
+Visualization 
+Business ProcessA nalytics & AI
+Business ProcessS imulation 
+De/f_i.ligane&  MapB usiness & 
+OperatingM odel
+Data Integration& Management ApplicationD iversity & Use 
+Cases
+Integration& InteroperabilitySupporting Technologies 
+Vision &R oadmapCommunication & Collaboration
+Proprietary Framework for Vendor Evaluation on “Technology 
+Excellence” & “Customer Impact” Parameters    
+SPARK Matrix™: 
+Strategic Performance Assessment and Ranking
+--- PAGE 94 ---
+91
+Copyright 2024 © Quadrant Knowledge Solutions Private Limited         
+For Citation, ajinkya@quadrant-solutions.com
+SPARK Matrix™: Digital Twin of an Organization 
+Solution, Q2 2024
+Client Support
+For information on hard-copy or electronic reprints, please contact Client Support at 
+ajinkya@quadrant-solutions.com  |  www.quadrant-solutions.com

@@ -1,0 +1,281 @@
+# 2021 QKS SPARK Matrix RFI - SAP Responses
+# Source: 2021 RFI_SPARK Matrix_Digital Twin of an Organizations_ 2021_FINAL.xlsx
+====================================================================================================
+
+SHEET: RFI-DTO
+Dimensions: 131 rows x 6 columns
+----------------------------------------------------------------------------------------------------
+
+### ROW 0: SPARK Matrix: Digital Twin of an Organizations, 2021
+**ANSWER:** Key questions for the briefing session
+
+### ROW 2: Deadline for briefing:
+**ANSWER:** Company Name: SAP Signavio
+**ADDITIONAL:** 1. Please explain the key features and functionalities of your Digital Twin of an Organizations offerings?
+
+### ROW 3: Product Name: SAP Signavio Process Transformation Suite
+
+
+## SECTION: 2. Please provide details about your platform’s technology architecture and integration with best of breed technologies.
+
+
+## SECTION: 1. Please provide details about your company's revenue and revenue growth from the Digital Twin of an Organizations market.
+
+
+## SECTION: 3. Please provide the names of the top 3 customers with a large scale of deployments.
+
+### ROW 7: Revenue ($Millions)
+**ANSWER:** Remarks
+
+### ROW 8: 2019 > 50
+**ANSWER:** 4. Please submit the top 3 case studies to improve our clarity of understanding.
+
+### ROW 9: Growth > 0.35
+
+### ROW 10: 2020 > 67
+
+### ROW 11: Growth > 0.35
+
+### ROW 12: 2021 (Projected) > 90
+
+
+## SECTION: 2. Approximate No. of Customers for your company based on the deployments of your Digital Twin of an Organizations solution?
+
+### ROW 17: Number
+**ANSWER:** Remarks
+
+### ROW 18: Number of Customers > 1800
+
+### ROW 20: Revenue %
+
+### ROW 21: SMB > 0.14
+
+### ROW 22: Mid-Market > 0.33
+
+### ROW 23: Large > 0.53
+
+
+## SECTION: 3. Please provide the details about your presence in geographical regions/countries. Please provide the approx revenue break-up.
+
+### ROW 27: Revenue %
+**ANSWER:** Remarks
+
+### ROW 28: USA > 0.19
+
+### ROW 29: Canada > 0.01
+
+### ROW 30: Europe > 0.65
+
+### ROW 31: Middle East & Africa > 0
+
+### ROW 32: Asia Pacific > 0.15
+
+### ROW 33: Latin America > 0
+
+
+## SECTION: 4. What are the top industry verticals from your existing customer base? Please provide rankings on a scale of 1 - 10, where 1=highest, 10=lowest
+
+### ROW 37: Ranking (1-10)
+**ANSWER:** Remarks
+
+### ROW 38: Automotive > 7
+
+### ROW 39: Manufacturing > 2
+
+### ROW 40: Education > 11
+
+### ROW 41: Healthcare & Lifesciences > 6
+
+### ROW 42: Logistics & Transportation > 10
+
+### ROW 43: Govt & Public sector > 4
+
+### ROW 44: CPG & Retail > 3
+
+### ROW 45: Food & Beverages > 9
+
+### ROW 46: Energy & Utilities > 5
+
+### ROW 47: Electronics & Semi Conductor > 8
+
+### ROW 48: Others, please specify > 1
+**ANSWER:** Banking, Financial Services, Insurance
+
+
+## SECTION: 5. Do you offer industry-specific or use-case specific customized solution?
+
+### ROW 53: Comment
+**ANSWER:** Remarks
+
+### ROW 54: Yes > Yes
+
+### ROW 55: No
+
+
+## SECTION: 6. Please describe your company's Digital Twin of an Organizations application key features and functionalities, in brief.
+
+### ROW 61: Remarks or Key USP
+
+### ROW 62: Canvas-based modeling of business processes and business operations > Creating models based on different notations like BPMN, EPC, Archimate, DMN, Value Chain Maps together with Navigation Maps, Organization Map,in a canvas supporting drag and drop and designed for process modeling
+
+### ROW 63: Process Discovery and Process Conformance > Having automated business process discovery and a unique graphical conformance/compliance visualization
+
+### ROW 64: Process Analytics and Investigations > Creating detailed process investigations and exposing key metrics for continuous monitoring
+
+### ROW 65: Live Insights on Process Models and Journeys > Turning the lights on process models and journey steps with operational live insights directly from process mining
+
+### ROW 66: Process Simulation > Simulating processes across multiple scenarios and with what-if parameters
+
+### ROW 67: Customer/employee/agent journey modeling > Modeling customer/employee/agent journeys in a drag and drop canvas designed for tabular journey maps. Connecting the different journey steps to the processes and to operational insights
+
+### ROW 68: Central collaborative hub > Having a tool for collaborative process & decision management. It serves as the access point to process landscape for non-modelers and enables users to view diagrams and diagram details and to collaborate with other viewers and modelers.
+
+### ROW 69: Process governance via workflow > Enabling a full governance cycle for changes and revisions
+
+### ROW 70: Decision Management and Execution via Process Governance > Modeling DMN and BPMN models with Signavio Process Manager and executing them in Signacio Process Governance with a seamlessly integrated suite
+
+### ROW 71: Risk Indicators on Process Models > Ability to define and show risks associated to process tasks
+
+### ROW 72: Bi-directional integration with LeanIX > Out-of-the-box connector for bi-directional exchange of business processes and IT systems
+
+### ROW 73: Connector for SAP Solution Manager > Out-of-the-box connector for bi-directional exchange of business processes and IT systems
+
+### ROW 74: ETL (Online and Manual Data Pipelines) > Connecting to data sources to enable continuous monitoring
+
+### ROW 75: Task Mining with FortressIQ > Collect and analyse user interactions directly from desktops with machine vision technology and enable drill-down to the lowest level of granularity.
+
+
+## SECTION: 7. What are the top use cases for your Digital Twin of an Organizations solution in terms of your existing customer-base?
+
+### ROW 79: Top Use Cases > Remarks
+
+### ROW 80: Digital Business Optimization and Transformation > The demand in this use case has been driven by customers' increased need to better plan & scale Robotic Process Automation (RPA) & Enterprise Resource Planning( ERP) Transformations  Initiatives.
+
+- by our partnership with Infor intended to assist the migration to the cloud of their 70,000 clients across various ERP systems 
+- via SAP with their wave of S/4HANA migrations
+
+### ROW 81: Customer Experience > We are seeing traction in what we have named the "Customer Excellence" space, where the connection between Customer Experience and Operational Excellence is the bearer of strong value for organizations.
+
+### ROW 82: Enterprise Performance Optimisation > With Signavio "Live Insights" key process metrics are directly fed into Process Models and Customer Journeys is driving significant interest in this use case
+
+### ROW 83: Operational Excellence > This is still core. A lot of transformations, and indeed performance projects, still fall under this remit.
+
+### ROW 84: Business Process Outsourcing > To cut their operational costs, a good number of companies now consider digital twins in the business process outsourcing domain
+
+### ROW 85: Enterprise Resource Planning(ERP) > ERP Replacement/Transformation - This is being driven both by our recent acquisition by SAP. The objective is to provide a comprehensive end-to-end framework to validate and simulate the impacts of migration to S/4HANA.
+
+### ROW 86: Robotic Process Automation(RPA) > RPA - We are seeing that for knowledge work in particular, this is a real driver. Organizations need models "aka Digital Twins" in order to work out when and how to deploy, how to scale, and how to change robots. RPA partners and customers also report that they are finding it crucial to use models for assessing the value and impact of potential RPA opportunities. If this is then also connected with process mining then a complete management system for robots is possible. This is also a use case where we are seeing great traction. It is also often perceived as being different from digital transformation.
+
+
+## SECTION: 8. Please describe your platform and solution capabilities in terms of scalability and availability to meet the requirements of large enterprises.
+
+### ROW 91: Platform: Signavio supports the backend Container architecture, Java servlets; Frontend: HTML5 with the deployments of 88% SaaS, 9% single instance On-Premise, 3% clustered On-Premise customers. Signavio has the capability of managing large enterprises with this architecture and some of the largest implementations scenarios are mentioned below:
+
+Scenario 1 (Bank): 3,000 modeling & analysis users / 35,000 collaboration users.
+Scenario 2 (Telco): 2,000 modeling & analysis users / 10,000 collaboration users.
+Scenario 3 (Software company): 1,500 modeling & analysis users / 95,000 collaboration users.
+
+Solution: Signavio Business Transformation Suite v.14.1  Includes Signavio Process Manager, Signavio Collaboration Hub, Signavio Process Intelligence, Signavio Process Governance & Signavio Journey Modeler. Each can be purchased and used as separate components or purchased as a complete suite. It can also be purchased via Suite package or "a la carte"
+
+
+## SECTION: 9. Please provide the names of your top 5 competitors
+
+### ROW 96: 1 > Software AG
+
+### ROW 97: 2 > Celonis
+
+### ROW 98: 3 > My Invenio
+
+### ROW 99: 4 > Qualiware
+
+### ROW 100: 5 > CANEA
+
+
+## SECTION: 10. What are the top five technology differentiators (or USP) of your solution compared to your competitors?
+
+### ROW 104: 1 > A suite combining all disciplines of modern process management (processes, journeys, and decisions), that integrate process discovery and mining, with modeling and execution. The growing interest in process mining is also spilling across into regular process management and clients find renewed interest in using process mining to accelerate process model creation. The fact that they can then analyze, improve and move on through execution when needed is delivering significant value. The use of Signavio can result in significant costs associated with alternative multi-tool situations being reduced.
+
+### ROW 105: 2 > Live insights, that enable an actionable DTO where live operational system data is merged with modeling areas where no system data is available. It creates a meld that offers the best end-to-end view of a process and provides additional value to the efforts required when modeling.
+
+### ROW 106: 3 > Entirely cloud-based, the ability to deploy Signavio without the need to install the local product is very appealing to most customers. Till date several customers have suggested that this has been the key differentiating factor to have rapid jumpstart and quick time to value.
+
+### ROW 107: 4 > Focus on collaboration, the Signavio Business Transformation Suite supports a highly collaborative approach to business and process improvement. Business users can quickly build their own models and dashboards. With an extensive set of visualization options, they can quickly get a clear overview of what is happening in the business. Only by having analysts, managers, and users accessing common views can operations be monitored and managed in a way that optimizes corporate results. The business of the future will rely on connecting theory (models) with reality (monitoring) to customer views (journeys) and operations (processes) to empower everyone in the organization.
+
+### ROW 108: 5 > Journey Modelling and Connecting Experience to Processes (Journey-to-process/J2P), which enables organizations to increase the scope of the DTO to customer-facing touchpoints and implications of business processes. The ability to include external customer data (e.g. NPS, sentiment) and internal Business Process data (e.g. Cycle times) enables practitioners to have a DTO that is not only centered on internal processes.
+
+The growing interest in process mining is also spilling across into regular process management and clients find renewed interest in using process mining to accelerate process model creation. The fact that they can then analyze, improve and move on through execution when needed is delivering significant value. As an example, one customer reported efficiency gains of over $2m - just in process modeling.
+
+
+## SECTION: 11. Please provide details about the key focus ares (functionalities) on your planned technology enhancements (technology roadmap) for the upcoming year.
+
+### ROW 114: Major themes of 2022 will be:
+Insights, Recommendations & Actions: Includes Metrics and benchmarks, recommendations, and action handovers & triggers.
+
+Connecting Experiences To Processes (Journey to Process/ J2P): Link journeys & processes & process analytics for modeling & governance. Expand mining capabilities, integration with sentiment data providers​.
+
+Enterprise Modeling & Process Governance: Enhance enterprise modeling capability​, close SAP process modeling toolchain & improve process governance capabilities.
+
+Connectivity & Data Management: Grow connectivity through integrations, improve data management layer and introduce Analytics Data Store, additional integrations with enterprise applications​.
+
+Business Accelerators​: Differentiate through business accelerators, content packages including models, metrics, and other process-relevant artifacts to accelerate time to value.
+
+
+## SECTION: 12. What are the deployment models you support for your Digital Twin of an Organizations solution?
+
+### ROW 119: Revenue %
+**ANSWER:** Remarks
+
+### ROW 120: Cloud
+
+### ROW 121: On-Premise
+**ANSWER:** No process analytics
+
+
+## SECTION: 13. What are the top 5 key trends for Digital Twin of an Organizations from technology and market perspective.
+
+### ROW 126: 1 > Process Mining & Comprehensive Data Management?
+
+### ROW 127: 2 > Process Modelling & Visualization
+
+### ROW 128: 3 > Simulations
+
+### ROW 129: 4 > Advanced Analytics
+
+### ROW 130: 5 > Integeration/Collaboration
+
+SHEET: SPARK Matrix Criteria
+Dimensions: 14 rows x 6 columns
+----------------------------------------------------------------------------------------------------
+
+### ROW 1: SPARK Matrix: Strategic Performance Assessment and Ranking
+
+### ROW 2: Quadrant Knowledge Solutions’ SPARK Matrix provides a snapshot of the market positioning of the key market participants. SPARK Matrix representation provides a visual representation of market participants and provides strategic insights on how each supplier ranks related to their competitors, with respect to various performance parameters based on the category of technology excellence and customer impact.
+
+### ROW 7: Technology Excellence > Weightage
+**ANSWER:** Customer Impact
+**ADDITIONAL:** Weightage
+
+### ROW 8: Sophistication of Technology > 0.2
+**ANSWER:** Product Strategy & Performance
+**ADDITIONAL:** 0.2
+
+### ROW 9: Competitive Differentiation Strategy > 0.2
+**ANSWER:** Market Presence
+**ADDITIONAL:** 0.2
+
+### ROW 10: Application Diversity > 0.15
+**ANSWER:** Proven Record
+**ADDITIONAL:** 0.15
+
+### ROW 11: Scalability > 0.15
+**ANSWER:** Ease of Deployment & Use
+**ADDITIONAL:** 0.15
+
+### ROW 12: Integration & Interoperability > 0.15
+**ANSWER:** Customer Service Excellence
+**ADDITIONAL:** 0.15
+
+### ROW 13: Vision & Roadmap > 0.15
+**ANSWER:** Unique Value Proposition
+**ADDITIONAL:** 0.15
+

@@ -1,0 +1,242 @@
+# SAP Brand Configuration
+# Machine-readable brand guidelines for PowerPoint generation
+
+version: "1.0"
+last_updated: "2026-03-08"
+
+# =============================================================================
+# Color Palette
+# =============================================================================
+colors:
+  primary:
+    dark_blue:
+      hex: "#002A86"
+      rgb: [0, 42, 134]
+      usage: "Headers, primary brand elements, title bars"
+    medium_blue:
+      hex: "#0070F2"
+      rgb: [0, 112, 242]
+      usage: "Accents, interactive elements, links"
+    light_blue:
+      hex: "#1B90FF"
+      rgb: [27, 144, 255]
+      usage: "Highlights, hover states"
+    lighter_blue:
+      hex: "#89D1FF"
+      rgb: [137, 209, 255]
+      usage: "Backgrounds, subtle accents"
+    lightest_blue:
+      hex: "#D1EFFF"
+      rgb: [209, 239, 255]
+      usage: "Very subtle backgrounds"
+
+  neutral:
+    white:
+      hex: "#FFFFFF"
+      rgb: [255, 255, 255]
+      usage: "Text on dark backgrounds, card backgrounds"
+    black:
+      hex: "#000000"
+      rgb: [0, 0, 0]
+      usage: "Primary text on light backgrounds"
+    light_gray:
+      hex: "#EAECEE"
+      rgb: [234, 236, 238]
+      usage: "Section backgrounds, dividers"
+    medium_gray:
+      hex: "#A9B4BE"
+      rgb: [169, 180, 190]
+      usage: "Secondary text, borders"
+
+  accent:
+    success_green:
+      hex: "#97DD40"
+      rgb: [151, 221, 64]
+      usage: "Positive indicators, success states"
+    warning_orange:
+      hex: "#FFC933"
+      rgb: [255, 201, 51]
+      usage: "Warnings, caution states"
+    error_red:
+      hex: "#EE3939"
+      rgb: [238, 57, 57]
+      usage: "Errors, critical states, negative indicators"
+    highlight_yellow:
+      hex: "#FFF3B8"
+      rgb: [255, 243, 184]
+      usage: "Call-outs, warnings, important notes"
+
+  # Chart color sequence
+  chart_sequence:
+    - "#0070F2"  # SAP Medium Blue
+    - "#89D1FF"  # SAP Lighter Blue
+    - "#1B90FF"  # SAP Light Blue
+    - "#97DD40"  # Green
+    - "#FFC933"  # Orange
+    - "#DF1278"  # Magenta
+
+# =============================================================================
+# Typography
+# =============================================================================
+typography:
+  primary_font: "72 Brand"
+  fallback_fonts:
+    - "Arial"
+    - "Calibri"
+    - "Segoe UI"
+
+  sizes:
+    title: 40
+    subtitle: 24
+    section_header: 32
+    body: 16
+    sub_heading: 18
+    small: 12
+    minimum: 10
+    impact_number: 60
+
+  weights:
+    title: "bold"
+    section_header: "bold"
+    body: "regular"
+    emphasis: "bold"  # Never use italics
+
+  line_spacing:
+    body: 1.2
+    max: 1.5
+
+  paragraph_spacing:
+    min: 6
+    max: 12
+
+# =============================================================================
+# Layout Rules
+# =============================================================================
+layouts:
+  # Template layout indices
+  indices:
+    cover:
+      - { index: 0, name: "Cover A", description: "Title + Picture placeholder" }
+      - { index: 1, name: "Cover B" }
+      - { index: 2, name: "Cover C" }
+    agenda:
+      - { index: 12, name: "Agenda A", description: "Title + Text placeholder" }
+      - { index: 13, name: "Agenda B" }
+    divider:
+      - { index: 14, name: "Divider A", description: "Center title only" }
+      - { index: 15, name: "Divider B" }
+      - { index: 16, name: "Divider C" }
+      - { index: 17, name: "Divider D" }
+    content:
+      - { index: 18, name: "Title Only", description: "Custom layouts, charts" }
+      - { index: 19, name: "Title and Text", description: "Standard bullet slide" }
+      - { index: 20, name: "Two Columns", description: "Side-by-side comparison" }
+      - { index: 21, name: "Three Columns", description: "Triptych layouts" }
+      - { index: 25, name: "Text with Image", description: "2/3 text + 1/3 image" }
+      - { index: 27, name: "Text and Screenshot", description: "Product demos" }
+    special:
+      - { index: 29, name: "Quote", description: "Testimonials" }
+      - { index: 30, name: "Q&A", description: "Question prompts" }
+      - { index: 31, name: "Thank You A", description: "Closing slide" }
+      - { index: 32, name: "Thank You B", description: "Closing with image" }
+    blank:
+      - { index: 33, name: "Blank", description: "Full creative control" }
+
+  # Spacing rules
+  spacing:
+    margins:
+      slide: 0.5  # inches, all sides
+      between_elements: 0.25  # inches
+      text_left_right: 0.5
+      text_top: 1.0
+      text_bottom: 0.5
+
+    title_area:
+      height_min: 0.8
+      height_max: 1.2
+      top_position: 0.5
+
+    logo:
+      height_min: 0.5
+      height_max: 0.8
+      from_top: 0.3
+      from_right: 0.3
+
+    text_box:
+      max_width_percent: 80
+      min_column_width: 2.0
+
+# =============================================================================
+# Content Constraints
+# =============================================================================
+constraints:
+  bullets:
+    max_per_slide: 6
+    max_words_per_bullet: 8
+    max_depth: 2
+
+  agenda:
+    max_items: 5
+
+  text:
+    min_font_size: 10
+    max_line_length: 75  # characters
+
+  whitespace:
+    min_percent: 30
+    max_percent: 40
+
+  file:
+    max_size_mb: 20
+
+# =============================================================================
+# Quality Checklist
+# =============================================================================
+quality_checks:
+  - id: "color_compliance"
+    description: "All colors match approved palette"
+    severity: "critical"
+
+  - id: "font_consistency"
+    description: "Only approved fonts used"
+    severity: "critical"
+
+  - id: "min_font_size"
+    description: "No text smaller than 10pt"
+    severity: "high"
+
+  - id: "max_bullets"
+    description: "No more than 6 bullets per slide"
+    severity: "medium"
+
+  - id: "no_overlapping"
+    description: "No overlapping elements"
+    severity: "high"
+
+  - id: "consistent_margins"
+    description: "All slides use same margin spacing"
+    severity: "medium"
+
+  - id: "no_italics"
+    description: "No italic text (use bold instead)"
+    severity: "medium"
+
+  - id: "contrast_ratio"
+    description: "Text contrast ratio >= 4.5:1"
+    severity: "high"
+
+  - id: "alt_text"
+    description: "All images have alt text"
+    severity: "medium"
+
+  - id: "file_size"
+    description: "File size under 20MB"
+    severity: "low"
+
+# =============================================================================
+# Slide Dimensions
+# =============================================================================
+dimensions:
+  width: 13.333  # inches (16:9)
+  height: 7.5    # inches
+  aspect_ratio: "16:9"

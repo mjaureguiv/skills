@@ -1,0 +1,1056 @@
+=== Gartner Market Guide for Technologies Supporting a DTO 2023 ===
+Pages: 34
+
+
+--- PAGE 1 ---
+Gartner, Inc. | G00755992 Page 1 of 32
+Market Guide for Technologies Supporting a Digital
+Twin of an Organization
+Published 4 January 2023 - ID G00755992 - 42 min read
+By Analyst(s): Marc Kerremans
+Initiatives:Digital Future
+A digital twin of an organization helps to prioritize, guide, plan,
+monitor, analyze and scale complex initiatives. Technology
+innovation leaders can use this Market Guide to learn best
+practices for creating and using a digital twin of an organization.
+Additional Perspectives
+Overview
+Key Findings
+Summary Translation: Market Guide for Technologies Supporting a Digital Twin of
+an Organization
+(24 February 2023)
+■
+Most organizations that devise digital business strategies and related operational
+excellence and customer experience initiatives struggle to represent, prioritize, guide
+and monitor the underlying business operational scenarios. They also ﬁnd it difﬁcult
+to adapt to evolving strategic and operational targets. As a consequence, many
+business transformations keep failing.
+■
+Because of the many interdependencies of operations, processes and systems,
+scaling digital business transformation initiatives is extremely difﬁcult and complex.
+Without some sort of a “navigator,” the risk of failure increases dramatically as the
+scope and pace of the digital business initiative expands.
+■
+An abundance of data and data sources further complicates the transformation
+challenge. High-in-demand data scientists, armed with the latest artiﬁcial intelligence
+(AI) and machine learning (ML) techniques, are deployed in “battles” to tame this
+data “dragon.” Often, they lack an overview model that indicates which data is
+relevant in order to constrain the massive number of combinations possible, thereby
+failing to deliver the targeted business value.
+■
+--- PAGE 2 ---
+Gartner, Inc. | G00755992 Page 2 of 32
+Recommendations
+To drive business transformation and optimization through technology innovation,
+technology innovation leaders should:
+Market Definition
+A digital twin of an organization (DTO) is a dynamic software model of any organization
+that relies on operational and contextual data to understand how an organization
+operationalizes its business model, connects with its current state, responds to changes,
+deploys resources and delivers customer value.
+Market Description
+Introduction: What Is a Digital Twin?
+As the digital twin concept is proliferating, adoption and hype are growing. Earlier research
+has deﬁned a digital twin as “a digital representation of a physical object.” It is imperative
+to understand that a digital twin is a design pattern. This digital twin design pattern is
+implemented through an encapsulated software object that mirrors the characteristics of
+a unique physical object or collection of physical objects. The minimum elements of a
+digital twin, or this design pattern, include:
+Create a digital twin of their organization (DTO) to provide visibility, deliver
+situational awareness and support improved enterprise decisions.
+■
+Combine operational, architecture and governance disciplines to create the roadmap
+and vision for the use of a DTO by their enterprise.
+■
+Identify business and technology solutions by determining the required capabilities
+for prioritized use cases. As this is an emerging market, the breadth and depth of
+functionality in products supporting a DTO will vary greatly, depending on the
+predominant use case that is marketed by the vendor and its implementation by
+different vendors.
+■
+The model of the physical object■
+Data from the object■
+A unique one-to-one correspondence to the object■
+The ability to monitor the object■
+--- PAGE 3 ---
+Gartner, Inc. | G00755992 Page 3 of 32
+However, the digital twin concept can be extended to complex entities, such as
+departments, business units, organizations, whole enterprises, or even cities and
+countries. Gartner has started an entire research stream around the digital twin of a
+customer (see Innovation Insight: Demystifying Digital Twin of a Customer for B2B
+Sales). These more abstract digital twins can be used to support speciﬁc ﬁnancial or other
+decision-making processes. Furthermore, additional optional elements, such as analytics,
+control and simulation, can augment these digital twins.
+An example of such an abstract digital twin is the digital twin of the organization (DTO). A
+DTO differs from a digital twin of a device in that it includes the modeling of both human
+and nonhuman (AI, automated activities) behavior in business operations. It reﬂects what
+humans actually do instead of what they are supposed or expected to do, based on
+business process activities and workﬂows.
+This research discusses the approach to the deﬁnition, creation and use of DTOs and,
+more speciﬁcally, the technology supporting them. It describes the market, identiﬁes use
+cases and highlights some key vendors and their ﬁt to common usage scenarios.
+Functional Building Blocks of a DTO
+Digital business initiatives aiming at digital optimization or digital business
+transformation, as well as customer experience and operational excellence initiatives,
+trigger a whole set of interrelated changes to the organization, its products and services,
+and its internal and external relationships. Managing such complexity is difﬁcult and
+risky. A DTO helps leaders explore options and reduce the risk of chosen paths as the
+company moves forward.
+In earlier research, we compared a DTO to a navigation system or GPS (see Optimize
+Digital Business Transformation by Creating a Digital Twin of Your Organization). Like an
+in-vehicle GPS, it can guide your organization to its desired destination (the to-be state)
+using ﬁve elements:
+Destination: Information about your desired destination and when you would like to
+arrive there
+■
+Map: A guide showing how to reach that destination — your organization’s GPS will
+only be as good as its map database
+■
+Performance: An indication of how far along you are on your journey■
+--- PAGE 4 ---
+Gartner, Inc. | G00755992 Page 4 of 32
+If we translate these GPS constituents into an organizational or a business environment,
+we arrive at the ﬁve building blocks of a DTO (see Figure 1):
+Figure 1: Building Blocks of a Digital Twin of an Organization
+Situation: Situational awareness (i.e., organizational awareness of roadblocks and
+challenges on the road ahead)
+■
+Value: Accurate information on your organization’s progress and situation to enable
+informed decision making
+■
+Destination: Digital optimization, optimized business operations, improved or new
+business model or digital business transformation, optimized customer experience1
+■
+Map: Digitalized business operations model (shows how externally focused
+customer-driven interactions align with internally focused business operations
+delivering stakeholder value)
+■
+Performance: Business performance management framework (to align diverse
+measurement schemes through the model)
+■
+Situation: Business operations intelligence (to provide the model with real-time data)■
+Value: Business decisions and actions that create value for the different
+stakeholders (internal/external) of the organization
+■
+
+--- PAGE 5 ---
+Gartner, Inc. | G00755992 Page 5 of 32
+A DTO differs from a digital twin of a device in that it includes the modeling of human
+behavior in business operations. It reﬂects what humans actually do instead of what they
+are supposed or expected to do based on business process activities and workﬂows. To
+capture these business process activities, DTOs commonly rely on process mining.
+Process mining is a discipline to create a digital twin of the operations. It is one of the
+main drivers of DTO adoption in the market (see Market Guide for Process Mining).
+Technology Supporting a DTO
+As indicated, a DTO is created through software, with different technologies supporting
+different DTO characteristics. Figure 2 provides examples of these technologies.
+Organizations can apply them to provide input for, achieve realization of, and derive
+beneﬁts from a DTO.
+Figure 2: Technology Supporting a Digital Twin of an Organization
+If we investigate the vendor community that provides technologies supporting a DTO, we
+notice that vendors predominantly come from the following different software categories:
+
+--- PAGE 6 ---
+Gartner, Inc. | G00755992 Page 6 of 32
+Enterprise business process analysis (EBPA). EBPA is the discipline of business and
+process modeling aimed at transforming and improving business performance, with
+an emphasis on cross-viewpoint, cross-function analysis, and strategic and
+operational decision support. (See Market Guide for Enterprise Business Process
+Analysis Tools.)
+■
+Enterprise or strategic corporate performance management. A performance
+management framework for strategy execution is deﬁned as:
+■
+A set of performance management processes■
+Implemented in a portfolio of analytics applications; it supports the needs of
+managers at all levels
+■
+Linked by an enterprise metrics framework■
+Supported by an analytics platform enabling ad hoc investigation and root
+cause analysis,
+■
+Leveraging a consistent data infrastructure■
+Integrated into business operations■
+Enterprise architecture (EA). EA products provide a central repository to capture data
+and metadata about the artifacts that an enterprise cares about — all types of
+objects and assets, and their related life cycles (see Magic Quadrant for Enterprise
+Architecture Tools).
+■
+Continuous intelligence. Continuous intelligence is a design pattern in which real-
+time analytics are integrated into a business operation, processing current and
+historical data to prescribe actions in response to business moments and other
+events (see Innovation Insight for Continuous Intelligence).
+■
+Process mining. Process mining is designed to discover, monitor and improve actual
+processes (i.e., not assumed processes) by extracting knowledge from event logs
+readily available in today’s information systems (see Market Guide for Process
+Mining).
+■
+--- PAGE 7 ---
+Gartner, Inc. | G00755992 Page 7 of 32
+Key Capabilities of Technology Supporting a DTO
+Gartner has identiﬁed distinct capabilities for the map, performance and situation building
+blocks of a DTO. Technologies supporting a DTO must have these capabilities to be
+successful. The identiﬁcation of these capabilities is based on our extensive coverage
+over the past years (via end-user client inquiries), the many contacts with academic
+researchers (yearly academic business process management [BPM] conferences) and a
+survey 2 with many vendors providing these technologies:
+Business operations model capabilities:■
+Support for modeling and analysis of business operations in a larger
+(business) operating model context, indicating how capabilities and other
+resources are deployed to deliver value to the organization’s stakeholders (i.e.,
+the link to day-to-day execution).
+■
+Support for customer interactions and customer journey maps, allowing for
+customer segmentation, as well as sales and distribution channel
+segmentation.
+■
+Models of offerings (products, services and information) delivered to customer
+segments.
+■
+Process mining (automated business process discovery) capabilities.■
+Models of resources (such as machines, IT systems and people) that perform
+the operations and thus are connected to the entire business operating model.
+■
+Support for internal and external ecosystems, depicting user-generated and
+external content relevant to the processes or business operations. These are
+typically generated by social-media-style collaboration and multichannel
+communication.
+■
+Access to project and program data to monitor project and program progress,
+and to align with business outcomes.
+■
+Underlying graph databases or the equivalent that can be extended in (near)
+real time through a “meta metamodel” (a metamodel of the metadata).
+■
+--- PAGE 8 ---
+Gartner, Inc. | G00755992 Page 8 of 32
+Business performance management capabilities:■
+Support for multiple measurement schemes (such as operational performance
+indicators, ﬁnancial models, quality schemes and service-level agreements)
+and how they work together or interact within the context of a business
+operating model.
+■
+Support for customer journey, customer interaction and customer touchpoint
+analysis.
+■
+Support for KPIs and root cause analysis, enabling operational decision
+support.
+■
+Real-time dashboards with support for KPIs that are continuously monitored
+and enable decision support.
+■
+Scenario testing and predictive and prescriptive analytics based on the
+business operating model,
+■
+Risk management and monitoring.■
+Cost/value analysis (balancing cost savings with operational effectiveness
+and business value).
+■
+Support for analysis, using externally provided performance indicators or
+measurements (from the ecosystem), such as temperature, air pollution and
+noise.
+■
+--- PAGE 9 ---
+Gartner, Inc. | G00755992 Page 9 of 32
+Technology innovation leaders should realize that not all DTO vendors will support all
+features, and that not all features are always required for the targeted use case. Because
+of the emerging nature of some of the use cases and underlying disciplines, and the vast
+combination of different areas, most suppliers still have gaps in their offerings.
+Market Direction
+We see ﬁve main drivers for DTO adoption in the market.
+Business operations intelligence capabilities:■
+Adapters or connectors to receive and send data. The most common adapters
+are for RESTful APIs, message-oriented middleware, ﬁles and databases. Some
+platforms also have adapters for web services, packaged applications and
+sensor data in event streams or historical databases.
+■
+Event processors. Most platforms ﬁlter incoming event data and can detect
+simple patterns that represent threats and opportunities (including exceptions
+or anomalies). Some platforms have stream analytics engines capable of
+sophisticated complex-event processing.
+■
+Rule processors. A rule processing capability determines the appropriate
+response to conditions that have been detected.
+■
+Notiﬁcation, alerting and triggering capabilities. These are facilities for sending
+email, text messages or other alerts.
+■
+Knowledge augmentation of workers. This capability is accomplished through
+adding real-time information to tasks to be performed.
+■
+Real-time monitoring. Real-time dashboards that continuously refresh are
+typically updated every second, every few seconds or every few minutes.
+■
+Extraction, transformation and loading (ETL) capabilities. During this process,
+data is taken (extracted) from a source system, converted (transformed) into a
+format that can be analyzed, and stored (loaded) into a data warehouse or
+other system.
+■
+Internet of Things (IoT) and digital-twin connectivity. This includes the
+planning, designing, building, managing and monitoring of IoT projects and
+digital twins.
+■
+--- PAGE 10 ---
+Gartner, Inc. | G00755992 Page 10 of 32
+Digital Business and Digital Business Transformation
+Digital business and digital business transformation initiatives have made business users
+more aware of the beneﬁts of analyzing and understanding these initiatives within a
+broader enterprise context. A model to map your journey will guide your plan for executing
+the chosen digital business strategy, and this model will ensure that the targeted business
+outcomes are achieved.
+An organization has multiple customer interactions, operations, products, services,
+channels, roles, systems, applications, processes and resources. These all act together in
+a network of business operations. Existing methodologies struggle to provide insight into
+this business operations network. They don’t show how these resources add value, both
+individually and collectively, to offerings (products, services and information), markets,
+channels and customer segments. Furthermore, scaling or industrializing digital
+optimization and transformation is not only about new technological innovation and
+capabilities. It also has an organizational and management component based on
+modeling and monitoring the operationalization of these technological capabilities. This
+implies that, on the organizational level, a DTO is needed to connect all the organization’s
+objectives with its business operations. This provides the relevant guidance and
+monitoring that, in turn, enable your organization to adapt to the continuously changing
+environment.
+Today, it is clear that organizations will not face one single business transformation or
+optimization initiative. These initiatives occur in many places within the organization and
+more than once, depending on the organization’s digital ambition and the level of
+disruption in different industries (see Digital Business Ambition: Transform or Optimize?).
+In many cases, the initiatives may take place independent of one another, especially in
+companies with multiple business units.
+Even in one single business transformation initiative, the destination and objectives can
+often change during the initiative. The dynamic characteristics inherited from an IoT
+digital twin (event-driven, always connected, networked data by design) and applied to a
+DTO will assist guidance, steering, monitoring, communicating and adapting these
+initiatives, as well as aligning them.
+--- PAGE 11 ---
+Gartner, Inc. | G00755992 Page 11 of 32
+Digital Twins
+The current developments and hype around digital twins are the second driver. Digital
+twins are part of the digital theme that describes an ever-increasing merger of the digital
+and physical worlds. The digital twin trend focuses on creating the appropriate digital
+representations of the operations of physical assets in the real world. These digital twins
+may be as simple as a dashboard with critical performance indicators, such as a
+threshold temperature or vibration, or they can be highly sophisticated, incorporating input
+from many sensors and external data.
+Although much attention is on digital twins of entities as part of an expanding IoT model,
+more-sophisticated digital models of the real world will have a much larger impact. Digital
+twins are built on the concept that virtual asset models coexist and are connected to real
+assets — they’re twins. However, this concept isn’t limited to assets or things (see Quick
+Answer: What Is a Digital Twin?).
+Virtual doppelgangers of real-world elements are growing along many dimensions. Like
+digital twins, these other digital entities often grow from metadata structures and models
+of things in the real world that are disconnected from those real-world things, or are, at
+most, only loosely connected to it. Over time, these digital representations/models will be
+connected more tightly to their real-world counterparts. Digital twins of people, processes,
+organizations and environments will be used for strategic and operational decision
+making and advanced simulation. Examples are a digital twin of a city (Singapore), a
+digital twin of a factory (Siemens) and a digital twin of a port (the Port of Antwerp-Bruges;
+see Note 2).
+Process Mining
+The adoption of DTOs is also being driven by the emergence of process mining and its
+ability to provide a digital representation of operations or processes. Process mining aims
+to discover, monitor and improve actual processes (not assumed processes) by extracting
+knowledge from event logs readily available in today’s information systems (see Market
+Guide for Process Mining).
+--- PAGE 12 ---
+Gartner, Inc. | G00755992 Page 12 of 32
+No single process lives in isolation, and should eventually be contextualized within its
+organizational setting. If we shift the scope of process mining to the operational and
+organizational level, it is possible to link these operational insights to big strategic
+initiatives, such as digital optimization or digital transformation. Process mining provides
+visibility, analysis and understanding around business operating models that represent
+the way of doing business by providing near-real-time information to all end users about
+how they are currently performing and what could be improved. Furthermore, process
+mining supports them in ﬁnding opportunities for improvement. In some cases, it has
+been reported that process mining even helps end users think about digitalization
+opportunities.
+DigitalOps
+Yet another driver for the DTO market is the emerging area of DigitalOps. Leading
+organizations are carefully managing the different process-related models and past
+performance data. Combining these process and decision models with the situational
+context of work helps control and optimize the execution of work in real time. It’s this
+combination — the blending of process modeling and performance monitoring to support
+direct execution and real-time optimization on the digital business platform — that Gartner
+calls “DigitalOps.” As shown in Figure 3, insights and analytics on past performance
+combine with process and decision models to create a DTO, which then drives the
+execution of processes and tasks.
+--- PAGE 13 ---
+Gartner, Inc. | G00755992 Page 13 of 32
+Figure 3: DigitalOps Combines Three Domains
+Autonomous Business Operations
+Autonomous business operations are a rather new driver of DTO adoption. As indicated in
+earlier research (see Building a Digital Future: Autonomic Business Operations), the new
+approach to manage business operations is strongly connected to creating business
+operations resilience. Therefore, one can assume that the journey from business
+operations to autonomous business operations is strongly connected to the journey from
+business operations resilience to autonomous business operations resilience (see Figure
+4).
+
+--- PAGE 14 ---
+Gartner, Inc. | G00755992 Page 14 of 32
+Figure 4: Business Operations Resilience
+Business operations resilience — The techniques underlying process mining provide a
+new and enhanced way to encompass the seek-and-model capabilities. Based on
+available day-to-day operational data, process mining continuously seeks and ﬁnds the
+relevant objective operational data. The advanced process mining algorithms then provide
+an accurate model of the ways of work in a format that can be understood by anybody in
+the organization. This ensures that everybody can be engaged in the change initiative.
+Furthermore, it allows for continuous adaptation and improvement because, after the
+adaptation, the new operational data will give insights into the new adapted way of
+working. But the step to continuously turn insights into action (adapt) is driven by human
+actions and interactions.
+Autonomous business operations resilience — Adding execution or automation
+capabilities to business operations resilience in an intelligent way allows for an
+autonomous way of handling this operations resilience. The three different stages of
+business operations resilience (seek, model, adapt) are connected and performed
+autonomously (i.e., without supervision and minimal or no human intervention). The
+resulting autonomous operations are one of the building blocks of autonomous business,
+which is Gartner’s holding term for the next distinct macro wave of digital and information
+technology enabled business. (For more information, see Autonomous Business Is the
+Next Tech-Enabled Strategic Growth Curve for Pioneer Enterprises.)
+
+--- PAGE 15 ---
+Gartner, Inc. | G00755992 Page 15 of 32
+Market Analysis
+Common DTO Use Cases
+Technology innovation leaders should at least consider the seven most common use
+cases to assess DTO vendor technology propositions:
+Use Case No. 1: Enterprise Performance and Cost Optimization. Supporting
+business cost optimization involves helping enterprise leaders leverage information
+technology to maximize business outcomes. A DTO is created to support the
+discovery of cost optimization opportunities that deliver the most value and that do
+not negatively impact other entities in the organization. A DTO visualizes the
+interdependence between functions, processes and KPIs to drive value. A DTO also
+helps reduce political and cultural barriers induced by any cost optimization.
+■
+Use Case No. 2: Customer Experience. Customer experience leaders leverage a DTO
+that delivers organizationwide performance management from the customer
+perspective, to focus on the continuous improvement of customer processes and
+interactions. This visibility and related insights will give anyone in the organization
+the opportunity to improve the customer experience (see How to Get Started With
+Intelligent Coordination for CX CORE).
+■
+Use Case No. 3: Digital Business Optimization and Transformation. Digital business
+leaders adopt a DTO to turn the digital business blueprint (a contextual model or
+digital business operating model) into a digital business execution plan. This
+enables your organization to adapt to its changing environment through a DTO that
+continuously monitors and guides the digital transformation initiative.
+■
+Use Case No. 4: Operational Excellence. Business process leaders create a DTO to
+provide a contextual model for business processes. The model indicates where
+enterprise value is linked with the different parts of an organization and how
+business processes can impact value creation. Remember that business operations
+— which are combinations of processes, activities and interactions that deliver
+products, services or information for internal or external customers — are an
+essential part of a DTO.
+■
+--- PAGE 16 ---
+Gartner, Inc. | G00755992 Page 16 of 32
+State of the DTO Market
+Over the last four years that we have covered this emerging market space, we have seen a
+slow start in uptake of this concept. However, we are ﬁnally in a stage where the general
+market is starting to inquire about solutions addressed by this concept. This is
+exempliﬁed by worldwide consulting and system integrators creating new offerings and
+services around the concept for their clients (such as Capgemini’s  Digital Twins for
+Business Operations).
+All vendors active in the DTO market provide features and functionality for most use
+cases. However, the focus, breadth and depth of these features and functionality will vary
+signiﬁcantly, depending on the predominant use case marketed and implemented by
+different vendors.
+Use Case No. 5: Logistics and Manufacturing. Supply chain leaders create a DTO
+that adds real-time status monitoring to transform the point-in-time documentation
+of a modular operating model into a digital twin. This will allow a physically
+intensive business to further enhance its digital agility. It also enables the business
+to simulate the impact of changes before implementing them and to better adjust
+performance to match business needs (see Innovation Insight for Digital Supply
+Chain Twin). Even in well-researched and efﬁciency-driven manufacturing
+environments, manufacturing leaders can leverage a DTO to deliver the necessary
+combination of these efﬁciencies with effectiveness in a near-real-time way that
+avoids local suboptimizations.
+■
+Use Case No. 6: Operationalization of New Capabilities Such as IoT. Technology
+innovation leaders adopt a DTO to support the operationalization of new technology
+capabilities. The DTO approach makes it possible to measure the efﬁciency and
+effectiveness of the acquired capabilities, and to continuously monitor the status of
+capabilities within the value-creating operations. All things considered, remember
+that capabilities need to be deployed and operationalized to deliver the expected
+stakeholder value.
+■
+Use Case No. 7: Business Process Outsourcing. To create a high-performance
+business process outsourcing (BPO) organization, CIOs and business leaders adopt
+a DTO to visualize the supporting business operating models, and to continuously
+measure the business case and value of outsourced business processes. A DTO
+approach provides continuous assessment of the maturity of the outsourced
+processes, as well as a comparison of these processes against best practices and
+the operations of world-class companies.
+■
+--- PAGE 17 ---
+Gartner, Inc. | G00755992 Page 17 of 32
+In 2018, vendors in this market sold predominantly on the operational excellence, cost or
+enterprise performance optimization, digital business and the customer experience use
+cases, accounting for nearly 85% of the use cases (see Figure 5 and the Evidence section).
+In 2020, the biggest changes could be observed in the cost or enterprise performance
+optimization, and digital business use cases. In 2022, vendors saw a signiﬁcant shift from
+operational excellence and performance management toward the customer experience
+use case, the IoT use case and the business process outsourcing use case. According to
+our survey, 2 all the participating vendors expected the former use cases — operational
+excellence and enterprise performance — to go up again closer to 2024, mainly
+anticipating the upcoming economic situation.
+Figure 5: DTO Use Case
+Representative Vendors
+The vendors listed in this Market Guide do not imply an exhaustive list. This section is
+intended to provide more understanding of the market and its offerings.
+
+--- PAGE 18 ---
+Gartner, Inc. | G00755992 Page 18 of 32
+Market Introduction
+Table 1: Representative Vendors in Technologies Supporting a DTO
+(Enlarged table in Appendix)
+
+--- PAGE 19 ---
+Gartner, Inc. | G00755992 Page 19 of 32
+Vendor Profiles
+Arrayworks
+ Arrayworks, based in Mansﬁeld, Massachusetts, U.S., offering Arrayworks Transformation
+Acceleration Platform (TAP), version 5.9:
+Bee360
+ Bee360, based in Karlsruhe, Germany, offering Bee360:
+Arrayworks is one of the representative vendors that has built functionality genuinely
+targeting the capabilities of a business operating system. Arrayworks connects any
+aspect of an organization, whether based on knowledge, IoT sensors or existing
+systems of record, to its operations and processes, delivering situational awareness
+to support informed decisioning.
+■
+Arrayworks TAP offers a simple approach to the creation, correlation, attribution and
+elucidation of entities, using no-code declarative tools and a ﬂexible architecture.
+Attractive features of the Arrayworks platform are the ease and speed of modeling,
+the capability to continuously remodel in minutes and its ability to bring complex
+operating models to life, supporting workﬂows and end-to-end processes.
+■
+Arrayworks’ IoT partnership with SAS delivers not only the ability to monitor the edge
+and apply AI to drive both predictive and prescriptive actions, but also the ability to
+digitally represent every asset, provide operational awareness, and orchestrate the
+work necessary to make events actionable across the entire digital landscape.
+■
+According to our survey, Arrayworks has a larger focus on the IoT use case, followed
+by the operational excellence and customer experience use cases. Coming from a
+business operating system background, Arrayworks has a strong focus on the
+operational intelligence component, the ﬂexible modeling component, and its rule-
+processing capabilities.
+■
+Bee360 (formerly Clausmark) is a software and services company that delivers an
+example of how a DTO can be created for an information and technology (I&T)
+organization. Through the combination of its proprietary methodology with its
+Bee360 platform, Bee360 creates an integrated management tool for the operational
+steering of an I&T organization that could be extended to the whole organization.
+■
+--- PAGE 20 ---
+Gartner, Inc. | G00755992 Page 20 of 32
+BOC Group
+ BOC Group, based in Vienna, Austria, offering ADONIS 14.1:
+Bee360 provides a data-driven organizational model, with built-in business content
+for I&T organizations to manage organization, legal structures, processes, value
+chains, demand, strategies, projects, value streams and services, and KPIs. All of
+these elements are connected and illustrate how an I&T organization daily
+contributes to business value.
+■
+Bee360’s management areas are strategy execution management, program and
+portfolio management, enterprise agile planning, enterprise architecture
+management, and IT ﬁnancial management. These areas are linked and represent
+real-life interdependencies. Bee360 combines the relevant information of all
+management areas with a logical model at the right level.
+■
+According to our survey, Bee360 has a larger focus on the digital business use case,
+followed by the enterprise performance and operational excellence use cases.
+Coming from an IT operating model background, Bee360 has a strong focus on the
+business performance component and its project and program capabilities.
+■
+BOC Group is an established BPM and EA tool vendor that sells and markets
+ADONIS as a single product on a joint platform (BOC Management Ofﬁce). This
+platform also integrates enterprise architecture (through its ADOIT suite) and
+governance, risk and compliance (through its ADOGRC suite). BOC Group considers
+this joint platform as a key value-add proposition.
+■
+ADONIS supports the creation of comprehensive models for analyzing and
+understanding the business context and the business impact of decisions. By
+blending static and dynamic information, ADONIS provides visualization and key
+insights into processes and further assets of the company, while at the same time
+maintaining integrity through its platform.
+■
+A particular strength of BOC Group’s offering is the focus on user experience for the
+different stakeholder groups that provide, analyze and consume the data of the DTO.
+A key aspect is its ability to allow collaboration between different
+stakeholders/experts, who are typically non-IT experts, when building and optimizing
+the digital twin.
+■
+--- PAGE 21 ---
+Gartner, Inc. | G00755992 Page 21 of 32
+BusinessOptix
+ BusinessOptix, based in Lenexa, Kansas, U.S. and Surrey, U.K., offering BusinessOptix
+version 7.6:
+Celonis
+ Celonis, Based in Munich, Germany, and New York, NY, offering Celonis Execution
+Management System (EMS):
+According to our survey, BOC Group has a larger focus on the customer experience
+use case, followed by the enterprise performance and IoT use cases. Coming from
+an EBPA/business process analysis background, BOC Group has a strong focus on
+modeling and analysis of business operations, and risk management, analysis and
+monitoring.
+■
+BusinessOptix is an online platform that models an organization’s multiple layers,
+from high-level organization design and cross-functional mapping to process maps
+and documentation. BusinessOptix appeals to consulting and system integrators,
+business process outsourcing companies and end-user organizations that are
+creating a center of excellence or Intellectual Property at scale on the platform.
+■
+BusinessOptix’ strength is in its ability to model an organization from multiple
+angles (e.g., top-down, bottom-up, cross functional and/or at detailed levels within a
+single area). BusinessOptix offers enhanced scenario modeling, automation support,
+process mining, ofﬂine working, customer journey mapping, process as a grid,
+transformation outputs, and Kanban boards.
+■
+Over the last years, BusinessOptix added capabilities that align with the
+development and evolution of process mining into next-generation business mining.
+Therefore, BusinessOptix introduced business classiﬁers to support the creation of a
+closed-loop view of the business that includes process data and data that impacts
+processes.
+■
+According to our survey, BusinessOptix has a larger focus on the operational
+excellence use case, followed by the BPO, and enterprise performance use cases.
+Coming from an EBPA (strategy to execution) background, BusinessOptix has a
+strong focus on the business modeling component and the real-time integration and
+scenario testing component.
+■
+--- PAGE 22 ---
+Gartner, Inc. | G00755992 Page 22 of 32
+Cosmo Tech
+ Cosmo Tech, based in Lyon, France, offering Cosmo Tech Supply Chain 2.3, and Cosmo
+Tech Asset 12.0:
+Celonis has been dominating the process mining market since its
+commercialization. Celonis process mining maps processes across all silos to create
+a digital twin based on real-time system data for a more accurate, always-up-to-date
+view of the enterprise. These insights provide a foundation for further analysis and
+automated actions in the Celonis EMS platform.
+■
+Celonis EMS is a containerized, microservices-based cloud platform. Beyond all the
+common process mining functionality, this cloud solution provides real-time data
+ingestion, task mining, simulation and planning, decision management support and
+an automation engine. This EMS platform shifts process mining from a purely
+analytical discipline to an operational engine.
+■
+Celonis offers Execution Applications, which allow companies to optimize their
+processes toward a desired business outcome. Examples of processes that can be
+optimized are procurement, accounts payable and accounts receivable, order
+management, inventory management and opportunity management applications.
+Customers and partners can develop, customize and package business knowledge
+as their own reusable apps.
+■
+According to our survey, Celonis has an equal focus on the customer experience,
+cost and enterprise performance optimization, and operational excellence use cases.
+Coming from a process mining background, Celonis has a strong focus on the
+operational intelligence component (extraction, transformation and loading
+capabilities), and the analytics component (KPIs and root-cause analysis).
+■
+Cosmo Tech, established as a company in the modeling and simulation of complex
+systems, offers a holistic simulation platform that can be applied to any
+organization. Its products are predominantly implemented at major automotive
+OEMs, energy providers and transportation companies; however, different industries
+and use cases are also arriving.
+■
+The Cosmo Tech platform offers a 360-degree, forward-looking view of even the
+most complex systems that embed processes, workﬂows and
+physical/human/ﬁnancial resources, and leverages existing data. This means that
+all of the different systems — systems that exist on different scales of space and
+time — can be included in the same model.
+■
+--- PAGE 23 ---
+Gartner, Inc. | G00755992 Page 23 of 32
+Edge Total Intelligence
+ Edge Total Intelligence, based in Arlington, Virginia, U.S., offering edgeCore version 4.4.2:
+Field 33
+ Field 33, based in Berlin, Germany, offering Field 33 SaaS Platform:
+The Cosmo Tech solutions allow the simulation of unlimited “what-if” scenarios
+(prediction) and automatically propose the optimal “how-to” scenario (prescription).
+Furthermore, Cosmo Tech can model the dynamic behavior of a system over time.
+This means emerging behaviors can be detected and results can be predicted, even
+under conditions that have never occurred before.
+■
+According to our survey, Cosmo Tech has a larger focus on the manufacturing and
+logistics use case, followed by the enterprise performance optimization and
+operational excellence use cases. Coming from a complex system modeling and
+simulation background, Cosmo Tech has a strong focus on the operational modeling
+and analysis component.
+■
+Edge Total Intelligence (edgeTI) is a company providing real-time digital operations
+software. EdgeTI has built functionality to fold together the models used to describe
+the operations and business, along with analytics on current and past performance,
+and then uses this to drive execution in real time.
+■
+edgeCore provides both a set of levers to govern and control the overall digital
+platform in real time, as well as a set of conceptual layers to plan, optimize,
+orchestrate and coordinate the components of that platform. Diverse solutions have
+been applied by edgeTI in many different environments, such as government and
+defense groups responsible for speciﬁc charters and missions, as well as enterprises
+that rely on real-time information from complex infrastructures.
+■
+By combining the edgeCore digital operations platform with AI-powered business
+simulation (a partnership with Silico), operations can be adapted, alerted and
+optimized on the ﬂy.
+■
+According to our survey, edgeTI has a larger focus on the operational excellence use
+case, followed by the performance management and manufacturing/logistics use
+cases. Coming from a system integration background, edgeTI has a strong focus on
+the operational intelligence component and the ETL integration capabilities.
+■
+--- PAGE 24 ---
+Gartner, Inc. | G00755992 Page 24 of 32
+Holocentric
+ Holocentric, based in Sydney, Australia, offering Holocentric Business Management
+System (BMS) version 4.7:
+Field 33 was founded in 2019 with the goal of helping large companies better
+manage the increasingly complex interactions of strategic goals and external
+inﬂuencing factors. Based on reusable proﬁles of domain knowledge from the Plow
+marketplace, Field 33 creates a holistic knowledge and data foundation that is
+iterated into an increasingly complete and accurate DTO.
+■
+The Field 33 SaaS Platform is an ecosystem that completely rethinks the way we
+deal with complexity. Field 33 combines a managed ontology library for domain
+expertise with any organizational data embedded into knowledge graphs. Inference,
+reasoning and ML models are used for decision support. Simulations and
+predictions are provided through a no-code interface.
+■
+The interactive Field 33 explorer visualizes how every loaded knowledge domain and
+data point connects. Through its extendable Enterprise Meta Model, Field 33
+differentiates so-called twin layers into objectives, business models, metrics,
+organizational assets, processes and business objects.
+■
+According to our survey, Field 33 has a larger focus on the enterprise performance
+optimization use case, followed by the operational excellence use case. Field 33 has
+a strong focus on the underlying database (a knowledge graph that holds semantic
+embeddings), and the capabilities for knowledge augmentation (adding real-time
+information to tasks to be accomplished).
+■
+Holocentric has been founded as a business operating system providing a holistic
+view of strategy, processes and customer touchpoints, together with relevant
+objectives and support for collaboration features. Active in this area for many years,
+this has equipped Holocentric with broad experience in the application of a DTO tool
+to many needs.
+■
+Holocentric’s BMS is based on an extensible ontology and has been architected to
+allow modiﬁcations to the underlying metamodel and to support new domains of
+inquiry. Communication is enhanced by aligning strategic decisions to day-to-day
+execution, helping people understand the strategic direction and their role.
+■
+--- PAGE 25 ---
+Gartner, Inc. | G00755992 Page 25 of 32
+iGrafx
+ iGrafx, based in Tualatin, Oregon, U.S., offering Process360 Live:
+Holocentric’s experience and focus on governance, risk and compliance (GRC) for
+highly regulated, safety-critical and risk-management-minded organizations has
+yielded a solution that enables organizations to apply the DTO as an integrated
+management system for areas such as quality and safety management, and
+regulatory compliance.
+■
+According to our survey, Holocentric has a larger focus on the operational excellence
+(GRC) use case, followed by the customer experience and manufacturing/logistics
+use cases. Coming from a business operating system background, Holocentric has a
+strong focus on the overall business modeling component (contextual and holistic
+models) and the operational intelligence component.
+■
+As one of the pioneers in the business process analysis market, iGrafx offers a
+solution that supports business modeling and architecture from a diversity of
+viewpoints, including the contextual one. This extended business modeling serves as
+a context for process modeling and as a necessary step in supporting business
+transformation.
+■
+iGrafx has modernized its platform and integrated their previously isolated myriad
+capabilities into a single platform, creating representations that are accessible and
+usable by all levels in the organization. Process360 Live also includes a low-
+code/no-code automation solution, which allows for business-centric workﬂow
+creation.
+■
+iGrafx recently added process mining capabilities (acquisition). By embedding
+process mining in its platform, Process360 Live provides the opportunities to
+enhance process improvement beyond the process-by-process approach. In
+connecting process mining to its discrete event simulation engine, simulation results
+are more representative and accurate in predicting real-life processes.
+■
+According to our survey, iGrafx has a larger focus on the customer experience use
+case, followed by the operational excellence and digital business use cases. Coming
+from a business process analysis background, iGrafx has a strong focus on the
+process-based business modeling component, and the performance, risk and
+compliance management component.
+■
+--- PAGE 26 ---
+Gartner, Inc. | G00755992 Page 26 of 32
+Interfacing Technologies
+ Interfacing Technologies, based in Montreal, Canada, offering Enterprise Process Center
+(EPC) version 13.2:
+Mavim
+ Mavim, based in Noordwijk, Netherlands, offering Mavim ProcessVerse:
+Releasing its ﬁrst process analysis and simulation tool in 1993, Interfacing has been
+a pure-play process improvement software development provider for more than 25
+years. It developed one of the ﬁrst centralized web-based collaboration tools to
+document, model, manage, simulate, analyze, integrate and improve processes.
+■
+EPC provides centralized management capabilities through the combination of its
+core architectural holistic views of all objects, their complex interdependencies, and
+day-to-day monitoring. Its Impact diagram view (mind-map like diagrams) enables
+users to visualize and expand to inﬁnite levels the most up-to-date downstream and
+upstream impact details.
+■
+It offers a Code of Federal Regulations (CFR) Part 11 compliance system that
+automates digital signature as part of EPC. This is speciﬁc to life science and
+medtech companies, as well as all other heavily regulated industries, such as
+aerospace and banking. This capability ensures that each electronic signature is
+unique, and it ensures the authenticity, integrity and conﬁdentiality of electronic
+records.
+■
+According to our survey, Interfacing has a larger focus on the enterprise performance
+use case, followed by the digital business and the operational excellence use cases.
+Coming from an EBPA/strategy to execution background, Interfacing has a strong
+focus on the organizational business modeling (including ecosystem modeling),
+quality, and risk management and monitoring use cases.
+■
+Mavim started as a business process analysis vendor with a strong Microsoft
+technology focus. Based on this Microsoft stack, Mavim has added business
+modeling, process mining and a business transformation framework. This has
+resulted in partnerships with large consulting organizations (such as Accenture and
+Microsoft) to guide and support transformation engagements.
+■
+--- PAGE 27 ---
+Gartner, Inc. | G00755992 Page 27 of 32
+QualiWare
+ QualiWare, based in Farum, Denmark, offering QualiWare X version 10.5:
+Mavim ProcessVerse, an integrated application offering on Microsoft Azure, includes
+a process mining component as part of its process intelligence, serving as an
+operational intelligence component. This delivers capabilities that support closed-
+loop strategy to execution and a continuous improvement cycle, and makes Mavim
+one of the showcases of a business operating system.
+■
+Mavim extends process intelligence capabilities to customer journeys and related
+touchpoints, enabling the balancing of customer experience and internal operational
+efﬁciencies. Mavim’s Collaboration Portal provides personalized dashboards to all
+employees, delivering daily insights on how their activities deliver value and execute
+on the strategy of the organization.
+■
+According to our survey, Mavim has a major focus on the digital business and
+customer experience use cases, followed by the operational excellence use case.
+Coming from an EBPA/strategy-to-execution background, Mavim has a strong focus
+on the business modeling component and operational intelligence, based on process
+and customer journey mining.
+■
+QualiWare, one of the ﬁrst enterprise architecture tools introduced over 30 years ago,
+has continuously expanded its offerings by using process models, customer
+journeys and business operating models to ﬁt the entire organizational architecture
+within the business ecosystem. The digital representation of all capabilities (whether
+business or technical) is critical to a DTO.
+■
+The QualiWare offering includes a collaboration platform with integrated social
+analytics and automated governance ﬂows that enable every user to play a part in
+the creation, sharing and management of knowledge and information from any
+device. Behavioral data is gathered and analyzed to augment performance data,
+establish consensus and improve decision making.
+■
+QualiWare provides APIs that gather performance data and other relevant feedback
+from the operating environment to enrich the reporting and operating capabilities of
+processes and other models. This level of insight enables analysts to conduct
+detailed analysis of the digital twin to determine opportunities for improvement, and
+thus supports organizational learning.
+■
+--- PAGE 28 ---
+Gartner, Inc. | G00755992 Page 28 of 32
+SAP Signavio
+ SAP Signavio, based in Berlin, Germany, offering SAP Signavio Process Transformation
+Suite 16.6.0:
+Software AG
+ Software AG, based in Darmstadt, Germany, offering ARIS 10 SR20:
+According to our survey, QualiWare has a major focus on the digital business use
+case, followed by the enterprise performance and IoT use cases. Coming from an
+EBPA/EA background, QualiWare has a strong focus on the resources modeling
+component, cost-value analysis and the collaborative performance management
+component (collaboration platform).
+■
+SAP Signavio provides process mining, modeling and automation capabilities in a
+cloud-based process transformation platform. SAP Signavio has been
+conceptualized toward getting as many participants as possible involved in
+collaborative process design and management. Signavio was acquired by SAP in
+2021, adding native SAP monitoring, benchmarking and KPI capabilities to the
+product.
+■
+The SAP Signavio Process Transformation Suite manages and monitors operations
+and optimizes results by bringing together analysts, managers, and users. This is
+done through the connection of process and journey models, operations, situational
+awareness and operations, and end-to-end journeys in a highly collaborative
+approach that empowers everyone in the organization.
+■
+SAP Signavio provides a complete feedback loop from insights to adaptation in the
+implementation of enterprise systems. It does so by combining the ability to acquire
+process data from core and third-party systems to create faster insights and actions,
+with the ability to integrate into software life cycle management systems, such as
+SAP Solution Manager and Application Lifecycle Management.
+■
+According to our survey, SAP Signavio has a larger focus on the client experience
+use case, followed by the digital business and operational excellence use cases.
+Coming from an EBPA/BPA background, SAP Signavio has a strong focus on the
+process and journey modeling component, and the customer analytics performance
+management component.
+■
+--- PAGE 29 ---
+Gartner, Inc. | G00755992 Page 29 of 32
+Market Recommendations
+Technology innovation leaders should:
+As one of the leading offerings for many years in the business process analysis
+market, ARIS is an important part of Software AG’s business transformation and
+operational excellence offering. This is a platform with integration, process
+transformation and management, adaptive application development, real-time
+analytics, and enterprise architecture as core building blocks.
+■
+ARIS offers all capabilities that are needed to support the DTO, based on their
+Enterprise Management System (EMS) concept. ARIS’ EMS offers a comprehensive
+suite supporting everyone in the organization toward excellent day-to-day activities.
+ARIS engages everyone in strategy to execution in order to transform, optimize and
+control the organization and its operations.
+■
+ARIS has its own process mining and dashboard capabilities. It combines to-be
+processes with process mining results for performance and compliance use cases,
+and enriches process data with external and internal operational data. Combining
+industrial IoT and data integration, Software AG has a unique DTO positioning that
+covers both the technical and business side of a digital twin.
+■
+According to our survey, ARIS has a larger focus on the operational excellence use
+case, followed by the digital business and the customer excellence use cases.
+Coming from an EBPA/strategy-to-execution background, ARIS has a strong focus
+on the operations and process modeling component, and the operational intelligence
+component (IoT and digital twin).
+■
+Create a DTO. A DTO forms a proven design pattern for the operationalization of an
+enterprise operating model. It provides visibility, delivers situational awareness and
+supports improved enterprise decisions. A DTO also provides data scientists with a
+structured model that connects all relevant data. A DTO forms a proven design
+pattern for an enterprise operating model of the operationalization of strategy
+execution.
+■
+--- PAGE 30 ---
+Gartner, Inc. | G00755992 Page 30 of 32
+Implementation recommendations include:
+Link the DTO concept to the execution stage of initiatives. A digital twin is the
+contextualization, planning and monitoring of decisions that lead to action. For
+example, if one of these actions is execution of an automation (of a process, task or
+activities) or digitalization (of a product, service or channel), it requires separate
+modeling of the execution or actions. This can be done through the complete
+DigitalOps modeling and execution environment. After all, a digital twin of an engine
+doesn’t execute the other part of the twin, or ultimately the plane.
+■
+Combine operational, architecture and governance disciplines to create the roadmap
+and vision for the use of a DTO for their enterprise. Partner with business leaders to
+build understanding of the concept of a DTO and the business case. This requires an
+outside-in view of internal operations, leadership, and, above all, vision and courage.
+■
+Be cognizant that all vendors active in the DTO technology market provide features
+and functionality for most of the use cases. However, because this is an emerging
+market, the focus, breadth and depth of these features and functionality will vary
+greatly, depending on the predominant use case marketed and implemented by
+different vendors.
+■
+Assess the gaps between corporate cultural maturity and what is necessary to
+enable digital twin success. Think about corporate attributes such as trust,
+collaboration, transparency, empowerment and governance.
+■
+Start with a limited market/channel/process combination or organization, such as a
+department or business unit, and build from there.
+■
+Create a DTO to support the discovery of cost optimization opportunities that deliver
+the most value and that do not negatively impact other entities in the organization.
+■
+Use a DTO to help close the strategy to execution loop by connecting the business
+operating model with real-life data to make this model dynamic, and to create
+situational awareness for business cost optimization efforts.
+■
+Explore emerging technologies that support a DTO, such as process mining, which
+provide a ﬁrst step to discover optimization opportunities in a very fast manner, and
+to prepare for the next level of maturity expanding further into the organization.
+■
+--- PAGE 31 ---
+Gartner, Inc. | G00755992 Page 31 of 32
+Evidence
+1 Business Operations: Business operations is the combination of processes, interactions,
+and activities that result in products, services and information, and ultimately provide
+value to customers and stakeholders of the organization.
+2 As part of this market guide, Gartner conducted a short survey with the participating
+vendors about the characteristics of their products, the products’ use cases, and the
+forecasted relevance of use cases and characteristics.
+Besides the survey conducted for this Market Guide, this research is based on Gartner
+client inquiry calls, vendor brieﬁngs, client interactions, interviews and 90 case studies
+provided by 35 vendors active in technologies supporting a DTO.
+Note 1: Representative Vendor Selection
+Gartner sizes the market at about 80 vendors offering most of the DTO capabilities. Most
+of these vendors explicitly adopted the DTO term, but connect it to their own terminology,
+such as intelligent enterprise, enterprise management system or business management
+system. For the 15 vendors proﬁled in this Market Guide, we used client interactions,
+vendor brieﬁngs and case study research to verify that these offerings were in the market
+for at least a year, and that they are representative examples of this market. In terms of
+revenue, we estimate that these vendors represent more than 90% of the total market.
+Note 2: Examples of Digital Twins
+ Singapore Experiments With Its Digital Twin to Improve City Life, Tomorrow.City.
+ Digital Industries, Siemens.
+ Smart Port, Port of Antwerp-Bruges.
+Document Revision History
+Market Guide for Technologies Supporting a Digital Twin of an Organization - 13 July
+2021
+Market Guide for Technologies Supporting a DTO - 18 December 2019
+Market Guide for Technologies Supporting a DTO - 12 July 2018
+--- PAGE 32 ---
+Gartner, Inc. | G00755992 Page 32 of 32
+Recommended by the Author
+Some documents may not be available as part of your current Gartner subscription.
+Innovation Insight: Demystifying Digital Twin of a Customer for B2B Sales
+Quick Answer: What Is a Digital Twin?
+Market Guide for Process Mining
+Market Guide for Enterprise Business Process Analysis Tools
+Magic Quadrant for Enterprise Architecture Tools
+Digital Business Ambition: Transform or Optimize?
+Building a Digital Future: Autonomic Business Operations
+Autonomous Business Is the Next Tech-Enabled Strategic Growth Curve for Pioneer
+Enterprises
+How to Get Started With Intelligent Coordination for CX CORE
+Ignition Guide to Creating a Digital Twin MVP
+© 2023 Gartner, Inc. and/or its afﬁliates. All rights reserved. Gartner is a registered trademark of
+Gartner, Inc. and its afﬁliates. This publication may not be reproduced or distributed in any form
+without Gartner's prior written permission. It consists of the opinions of Gartner's research
+organization, which should not be construed as statements of fact. While the information contained in
+this publication has been obtained from sources believed to be reliable, Gartner disclaims all warranties
+as to the accuracy, completeness or adequacy of such information. Although Gartner research may
+address legal and ﬁnancial issues, Gartner does not provide legal or investment advice and its research
+should not be construed or used as such. Your access and use of this publication are governed by
+Gartner’s Usage Policy. Gartner prides itself on its reputation for independence and objectivity. Its
+research is produced independently by its research organization without input or inﬂuence from any
+third party. For further information, see "Guiding Principles on Independence and Objectivity."
+--- PAGE 33 ---
+Gartner, Inc. | G00755992 Page 1A of 2A
+Table 1: Representative Vendors in Technologies Supporting a DTO
+ Arrayworks Transformation Acceleration Platform (TAP) EBPA/Strategy to Execution
+ Bee360 Bee360 IT Operating System
+ BOC Group ADONIS EBPA/Business Process Analysis
+ BusinessOptix BusinessOptix EBPA/Strategy to Execution
+ Celonis Celonis Execution Management System Process Mining
+ Cosmo Tech Cosmo Tech Supply Chain, Cosmo Tech Asset Manufacturing Digital Twin
+ Edge Total Intelligence edgeCore EAI/Systems Integration
+ Field 33 Field 33 SaaS Platform DTO
+ Holocentric Holocentric Business Management System (BMS) EBPA/Strategy to Execution
+ iGrafx Process360 Live EBPA/Business Process Analysis
+ Interfacing Technologies Enterprise Process Center (EPC) EBPA/Strategy to Execution
+ Mavim Mavim ProcessVerse EBPA/Strategy to Execution
+ QualiWare QualiWare X EBPA/Enterprise Architecture
+ SAP Signavio SAP Signavio Process Transformation Suite EBPA/Business Process Analysis
+Ven
+dor Product, Service or Solution Name Background
+--- PAGE 34 ---
+Gartner, Inc. | G00755992 Page 2A of 2A
+Source: Gartner (January 2023)
+ Software AG ARIS EBPA/Strategy to Execution
+The background column refers to the market where the vendor is coming from. The EBPA market has been further specified along the use case, showing
+EBPA/use case. For more information, see Note 1.
+Ven
+dor Product, Service or Solution Name Background

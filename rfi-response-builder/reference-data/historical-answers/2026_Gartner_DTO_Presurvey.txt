@@ -1,0 +1,335 @@
+# 2026 Gartner DTO Pre-Survey - SAP Responses
+# Format: QUESTION → ANSWER (with optional COMMENTS)
+# Source: SAP_Gartner_Presurvey DTO 2026_Final.xlsx
+================================================================================
+
+SHEET: 2026
+--------------------------------------------------------------------------------
+
+### ROW 1: Respondent Details
+
+### ROW 2: Email Address
+**ANSWER:** reagan.nyandoro@sap.com
+
+### ROW 3: Title
+**ANSWER:** Director Product Marketing
+
+### ROW 4: First Name
+**ANSWER:** Reagan
+
+### ROW 5: Last Name
+**ANSWER:** Nyandoro
+
+### ROW 6: Company Name:
+**ANSWER:** SAP
+
+### ROW 7: Headquarters Location:
+**ANSWER:** Waldorf
+
+### ROW 8: Year of Incorporation:
+**ANSWER:** 1972
+
+### ROW 9: Public or Private Company, please select:
+**ANSWER:** Public
+
+### ROW 10: Vendor / Product Website URL:
+**ANSWER:** https://www.sap.com/products/business-transformation-management.html
+**COMMENTS:** https://www.leanix.net/en/ 
+
+https://www.signavio.com/
+
+
+## 1.  Alignment to DTO Market definition, and GTM
+
+### ROW 13: a)  Do you have a named platform that meets the market definition and core capabilities of a DTO platform? Please see attached our latest market definition.
+**ANSWER:** Yes
+**COMMENTS:** SAP Signavio Process Transformation Suite and SAP LeanIX Enterprise Architecture Management cover all 5 building blocks indicated by Gartner.
+
+### ROW 14: b) What is the name of your platform? Please mention version, latest release and links to your website mentioning this (if any)
+**ANSWER:** The SAP Business Transformation Management  solutions include SAP Signavio (Process Transformation Suite - v18.2.0) and SAP LeanIX EAM (Enterprise Architecture Management) as core DTO components. Walkme (Digital Adoption Platform) and SAP Build (to create applications and agents and deploy them in addition to automating workflows) extend our DTO value proposition.
+Website: https://www.sap.com/products/business-transformation-management.html  
+https://www.signavio.com/
+https://www.leanix.net/en/
+https://www.walkme.com/
+www.signavio.com/digital-twin-of-an-organization/
+**COMMENTS:** Our AI-infused DTO solution delivers end-to-end enterprise observability and actionability.
+Customers can: Build virtual representation of their organization - people, processes, applications, data (map), get insights of "as-is" operations across dimensions (situation), define "to-be" state (destination), continuously monitor, recommend actions and handover info/data/knowledge to orchestration, agentic and automation, orchestrate, manage risks (performance), and track (value) across LOBs and personas.
+
+### ROW 15: c) Is your DTO Platform generally available for active use as of September 30th , 2025 ?
+**ANSWER:** Yes
+**COMMENTS:** All solutions GA: SAP Signavio 2012, SAP LeanIX 2014, WalkMe (2011)
+
+### ROW 16: d) Do you market and sell DTO platforms as a core capability?  
+(If your primary business is  Enterprise Architecture (EA), Enterprise Business Process Analysis (EBPA), Enterprise Performance Management (EPM), Process Intelligence, Process Mining, Industrial Digital Twins and you are seldom used for E2E business operations or business operating models please indicate that in comments section)
+**ANSWER:** Yes. SAP markets and sells Digital Twin of an Organization (DTO) capabilities as a core capability within its Business Transformation Management (BTM) solution area. Since 2021, SAP has acquired SAP Signavio and SAP LeanIX, combined with WalkMe, strengthening its DTO capabilities with each successive acquisition, and combining these solutions with other existing SAP portfolio capabilities.
+
+SAP’s DTO is positioned as the foundation for establishing transformation as a continuous enterprise capability, not as isolated EA, BPM, or process mining tools. The solution delivers end-to-end enterprise observability and actionability across strategic planning, value management, business performance, operating models, processes, applications, data, integrations, user adoption, execution, and outcome measurement.
+
+Key capabilities include strategy-to-value alignment, operating model design, process and performance intelligence, application and technology impact analysis, transformation roadmapping, dependency and scenario analysis, value realization tracking, and change adoption measurement. Together, these capabilities support all 12 DTO use cases defined by Gartner, spanning strategic, operational, and execution-focused scenarios.
+
+SAP’s agentic layer, including Joule and SAP Build, offering a unified conversational experience, further operationalizes the DTO by enabling AI-assisted insight, orchestration, and execution across SAP Signavio, SAP LeanIX, WalkMe, and the broader SAP ecosystem.
+**COMMENTS:** Our DTO supports composability on capability and landscape levels (process, EA, user behaviour), enhancing observability across strategic, business performance, application,  data, integrations, implementation and measurement layers. 
+These enable organizations to build DTO's that are specific, enhance understanding of "as-is" and "to-be" states, and track value as it evolves across the enterprise.
+
+### ROW 17: e) What is your branding, selling and go-to-market strategy for DTO?
+**ANSWER:** Yes
+**COMMENTS:** GTM strategy focuses on observable enterprise value. It empowers organizations, through dynamically composable and AI-powered solutions, to establish transformation as a capability; powered by intelligent processes, enterprise architecture, consolidatd data landscapes, to accelerate and derisk continuous transformation. 
+
+Strategy leverages marketing campaigns, global partner ecosystem; customer testimonials; analysts; communities & academia.
+
+
+## 2. Revenue, Growth, Customer base A rough estimate is fine.
+
+### ROW 20: a) How many paying unique customer logos (organizations not users) use your DTO platform by each region as of March 31st 2026?  A rough estimate is fine.
+**ANSWER:** Over 6000 DTO customers.
+**COMMENTS:** We only provide an estimate of customer numbers
+
+### ROW 21: North America
+**ANSWER:** SAP does not provide this level of detail
+
+### ROW 22: EMEA (Europe, Middle East and Africa)
+**ANSWER:** SAP does not provide this level of detail
+
+### ROW 23: APAC (Asia Pasific and China)
+**ANSWER:** SAP does not provide this level of detail
+
+### ROW 24: Latin America
+**ANSWER:** SAP does not provide this level of detail
+
+### ROW 25: b) Unique DTO Customer logos acquired in FY25
+**ANSWER:** Estimate of over 1,000 new DTO customer logos acquired in 2025
+**COMMENTS:** Estimate
+
+### ROW 26: • Percentage (%) of DTO customers acquired via direct sales
+**ANSWER:** SAP does not provide this level of detail
+**COMMENTS:** Text (Comments)
+
+### ROW 27: • Percentage (%) of DTO customers acquired via consulting engagements
+**ANSWER:** SAP does not provide this level of detail
+**COMMENTS:** Text (Comments)
+
+### ROW 28: • Percentage (%) of DTO customers acquired via partner network
+**ANSWER:** SAP does not provide this level of detail
+**COMMENTS:** Text (Comments)
+
+### ROW 29: c)  What is the estimated annual revenue range for your DTO offerings in USD in FY25 (under NDA if applicable)? 
+*If your FY 2025 data is not ready yet, please provide your best estimate. Even a percentage of your total revenue is fine.
+
+Please do not include revenue from your other business such as any other use cases not directly related to core DTO capabilities. 
+
+(Please note: Gartner may obtain information from the published market share data and or assume a revenue based on available information if you can not provide this data.)
+**ANSWER:** SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+**COMMENTS:** As a publicly traded company, SAP cannot disclose logo counts or revenue. Since 2021, SAP has invested in the Digital Twin of an Organization by acquiring SAP Signavio and LeanIX and integrating them with existing SAP capabilities. This growth line of business has operated in the DTO space for over five years.
+
+### ROW 30: d)  What was your YOY revenue growth from selling DTO platform licenses in FY25 (under NDA if applicable)? 
+*If your FY 2025 data is not ready yet, please provide your best estimate.
+
+(Please note: Gartner may obtain information from the published market share data and/or assume a revenue based on available information if you can not provide this data.)
+**ANSWER:** SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 32: 3. Please select which of the following capabilities you support (under Column B) and that your customers actively use you for? (Please answer all -  select from Do not have, integrated with 3rd party or  OEM, Native)  We will consider blanks as "Do not have"
+Please also answer which product  in your portfolio supports the capability (under Column C)
+
+Please do not select native if you do not have this capability built in-house within your platform without any 3rd party help. You may select native if you acquired a product. But if you call an API or embed a 3rd party product we will consider it as "Not Native".
+
+If you select native and based on our own research data and understanding of your product our finding suggests otherwise we have a right to modify the response and evaluate your offering accordingly
+**ANSWER:** Select from 
+Do not have, 
+integrated with 3rd party or OEM, 
+ Native.
+(We will consider blanks as "Do not have")
+**COMMENTS:** Please mention the product name that supports this capability
+
+### ROW 33: Models of processes and tasks: Modeling and analysis of business operations, business processes and the decomposition of these process models according to a business process hierarchy (subprocesses, activities, tasks).
+**ANSWER:** Native
+**COMMENTS:** SAP Signavio supports hierarchical process modeling, decomposing enterprise's complex operations into manageable subprocesses and tasks for clear analysis. Using notations like BPMN, DMN and 'process atoms', we capture enterprise knowledge from many sources—including models, event logs, and documents—to support process analysis, simulation, and governance at every level.
+
+### ROW 34: Models of capabilities and resources: Modeling of resources (such as machines, IT systems, people, agents, time, and finance) that perform the operations.
+**ANSWER:** Native
+**COMMENTS:** SAP solutions supporting DTO provide a complete model of capabilities and resources. SAP LeanIX inventories all resources (IT systems, machines, applications, SaaS, self-built and AI agents) and maps them to capabilities. SAP Signavio Process Modeler models how these specific resources are utilized within business operations and processes.
+
+### ROW 35: Models of agentic capabilities and resources: Modeling of agents (software agents, intelligent agents, AI agents) that perform the operations.
+**ANSWER:** Native
+**COMMENTS:** SAP LeanIX's flexible metamodel, IT elements—including AI agents and other agent types—are captured in distinct fact sheets to document their specific relationships and relevant metadata. SAP Signavio Process Intelligence helps organizations to mine and analyze agent behavior, highlight rules not met during execution and measure execution & improvement (agent mining).
+
+### ROW 36: Models of deliverables and components: Modeling of offerings (products, services and information) and their composition, delivering value to internal and external clients.
+**ANSWER:** Native
+**COMMENTS:** SAP Signavio Process Modeler allows organizations to model products, services, and knowledge as distinct components in a central repository. By linking these assets to value chains and process step, it gives visibility into their composition and how they deliver value to internal and external stakeholders.
+
+### ROW 37: Models of client, supplier, and external stakeholders: Modeling of customer, supplier, and external stakeholder interactions and journeys, allowing for segmentation.
+**ANSWER:** Native
+**COMMENTS:** SAP supports modeling of all stakeholder interactions. SAP Signavio Journey Modeler operationalizes customer-employee-supplier experiences, connecting journeys, processes, metrics, systems, functions, and roles reusing repository objects for personas/touchpoints, data and more. 
+SAP LeanIX maps internal/external stakeholder journeys to business capabilities and value streams. 
+WalkMe: deep user segmentation and in-application journey analysis.
+
+### ROW 38: Orchestration repository: A repository that supports the modeling and analysis of business operations in a larger (business) operating model context, indicating how capabilities and other resources are deployed to deliver value to the stakeholders of the organization.
+**ANSWER:** Native
+**COMMENTS:** Unified orchestration repository: SAP LeanIX inventories resources and capabilities in a central model, while SAP Signavio Process Modeler details their deployment in operations and SAP Signavio Transformation Manager maps them to stratgey and value. SAP Signavio Collaboration Hub then supports wider stakeholder analysis to ensure transparent value delivery across the organization.
+
+### ROW 39: Performance measurement schemes: Multiple measurement schemes (such as operational performance indicators, financial models, quality schemes, SLAs) and how they work together or interact within the context of a business operating model.
+**ANSWER:** Native
+**COMMENTS:** Unified, diverse measurement: SAP Signavio defines operational KPIs and SLAs within the business model. SAP LeanIX links these to financial models and strategic objectives; SAP Signavio Process Transformation Manager tracks how all schemes interact to drive business value across the enterprise. WalkMe provides usage/engagement and experience analytics dashboards (operational adoption metrics)
+
+### ROW 40: Advanced analysis techniques: Root cause analysis, cost/value analysis based on the business operations model
+**ANSWER:** Native
+**COMMENTS:** SAP Signavio’s automated Root Cause Analysis improves performance by instantly identifying key drivers behind process deviations ;  
+Value Analysis: adds monetary impact analysis. LeanIX facilitates comprehensive cost/value analysis by mapping TCO, OpEx, and CapEx directly to IT components, applications, and business capabilities. 
+WalkMe analytics pinpoint friction/pain points in workflows; “cost/value”.
+
+### ROW 41: Advanced analysis techniques: scenario testing, predictive and prescriptive analytics based on the business operations model
+**ANSWER:** Native
+**COMMENTS:** Our solution offers multi-layered advanced analysis. SAP Signavio provides predictive/prescriptive analytics and scenario testing analyzing diemnsions like time and cost of a process. SAP LeanIX adds architectural "what-if" simulations, and WalkMe enables flow analysis and optimization, covering the full spectrum from business model to in-application user behavior.
+
+### ROW 42: Advanced analysis techniques: analysis based upon externally provided measurements such as temperature, air pollution and noise.
+**ANSWER:** Native
+**COMMENTS:** SAP Signavio Process Intelligence allows customers to analyze environmental data and to import it via standard adapters. SAP Integration Suite provides standard connectivity towards all major streaming and IoT protocols and sources, like MQTT, AMQP and Kafka, and can integrate that natively towards SAP Signavio.
+
+### ROW 43: Risk management and monitoring: Identification of risks, risk controls and risk measurements within the context of a business operating model.
+**ANSWER:** Native
+**COMMENTS:** Our solutions provide multi-layered risk management.  SAP Signavio and SAP LeanIX identify risks in architecture and processes, while SAP GRC monitors controls. WalkMe mitigates operational risk by enforcing correct in-app user actions, ensuring compliance from the model down to the individual task. All of them are connectable in process models.
+
+### ROW 44: Event processing: Most platforms filter incoming event data and can detect simple patterns that represent threats and opportunities (including exceptions or anomalies). Some platforms have stream analytics engines capable of sophisticated complex-event processing (CEP), including generalized event correlation, high throughput, low latency and the ability to detect intricate temporal or spatial patterns in sliding time windows.
+**ANSWER:** Native
+**COMMENTS:** SAP Integration Suite provides mature event management capabilities, particularly with SAP Event Mesh, which manages and mediates IoT data, and ingests it natively into SAP Signavio.
+SAP Signavio’s process mining capabilities leverage event-driven IoT data to provide deep insights into operational processes. WalkMe responds to in-app events/behavior triggering guidance, bots,  experiences.
+
+### ROW 45: Data connectivity: Adapters or connectors to receive and send data, and extract, transform, load (ETL) capabilities. Some platforms also have adapters for web services, packaged applications, or for sensor data in event streams or historical databases.
+**ANSWER:** Native
+**COMMENTS:** SAP Signavio: SAP/non-SAP system connectors, SAP Public Cloud & Enterprise Applications Connectors, API-based, native, public Ingestion APIs. SAP LeanIX: out-of-the-box (e.g.-ServiceNow); custom GraphQL/REST API integrations. Integration API and LeanIX Data Interchange Format. WalkMe supports enterprise stack integrations + APIs. SAP Integration Suite and SAP Business Data Cloud for non-SAP connectivity.
+
+### ROW 46: AI capabilities: enhancing explainability and understandability by adopting a conversational and interactive approach
+**ANSWER:** Native
+**COMMENTS:** SAP's solutions for DTO (powered by SAP Business AI) help customers navigate, analyze and manage processes in natural language, enhancing explainability and understandability. They integrate with Joule and MCP server (SAP LeanIX) to provide a conversational interface for business transformation management and leverage ActionBots (WalkMe) to complete tasks across applications effectively.
+
+### ROW 47: AI capabilities: elelevating data discovery by automating tasks such as data cleaning, gaining insights from unstructured data and synthesizing data.
+**ANSWER:** Native
+**COMMENTS:** SAP Advanced Data Migration by Syniti provides full fledged and content-rich data quality management and metadata management capabilities to support data discovery and cleansing.
+SAP Business Data Cloud provides a comprehensive data management platform which includes advanced pipeline management and unstructured data management in SAP Databricks and in SAP HANA Spark.
+
+### ROW 48: AI capabilities: helping interpret the complex interdependencies that exist between all building blocks, artifacts, and components that make up a DTO (whack-a-mole effect).
+**ANSWER:** Native
+**COMMENTS:** SAP Business AI capabilities aid users in understanding the DTO building blocks by supporting monitoring, automation, democratization of modelling, and process analysis/mining. 
+
+This can surface dependencies in processes, workflows, architecture and identify risks/opportunities across interconnected areas. 
+
+AI-assisted process analyzer allows customers to unlock deeper insights by understanding root causes in seconds.
+
+### ROW 49: AI capabilities: enhancing real-time monitoring and business operations optimizations through proactive anomaly detection, improved recommendations and adaptive operational modifications.
+**ANSWER:** Native
+**COMMENTS:** SAP LeanIX deploys AI agents optimizing and governing IT portfolios, architecture, cloud cost, risks and recommending actions. 
+Business AI in SAP Signavio enables natural language queriying process data, automating correlation, anomaly detection integrating SAP BDC, Databricks and SAC data. 
+WalkMe Insights identifies UX friction points, driving in-app resolution, ensuring adaptive operational modifications.
+
+### ROW 50: Real-time intelligence: Real-time monitoring, connected to real-time dashboards that continuously refresh and are typically updated every second, every few seconds or every few minutes, and can initiate alerts and actions.
+**ANSWER:** Native
+**COMMENTS:** SAP Business Data Cloud provides a full fledged data management and analytics platform, including capabilities like SAP HANA Cloud, SAP Databricks and SAP Analytics Cloud, with wide and deep support for real-time and near-real-time analytics and dashboards across any mix of enterprise data and unstructured data sources.
+
+### ROW 51: Process mining capabilities: Discovering, monitoring and improving actual processes (i.e., not assumed processes) by extracting knowledge from event logs readily available in today’s information systems.
+**ANSWER:** Native
+**COMMENTS:** SAP's Signavio process analysis and mining solutions provide rapid, out-of-the-box process discovery and monitoring. For deep analysis, they extract event logs from any source system to visualize, monitor, and improve end-to-end processes, uncovering inefficiencies. WalkMe shows user flows/journeys and session replays at the app layer (DXA/session playback).
+
+### ROW 52: Simulation capabilities: An experimentation with a simplified imitation (on a computer) of a business operation as it progresses through time, to better understand or improve that business operation.
+**ANSWER:** Native
+**COMMENTS:** Our solutions provide robust simulation capabilities. SAP Signavio runs data-driven process simulations to test operational changes. SAP LeanIX adds architectural "what-if" scenarios, using a time-slider to visualize roadmap impacts, enabling experimentation from the strategic architecture down to granular process details.
+
+### ROW 53: Graphical capabilities: Graphical overlays of items, constructions, workplaces, and areas to enhance visibility and clarify interdependence.
+**ANSWER:** Native
+**COMMENTS:** SAP Signavio Process Modeler enhances and overlays real-world performance data using SAP Signavio Process Intelligence. This graphical representation clarifies interdependencies by visually connecting process variations, performance KPIs, real performance data, risk, controls and responsible workplaces or IT systems. It enables navigation of enterprise process dependencies, hierarchically and laterally.
+
+### ROW 54: Decision Intelligence: connecting to, or embedding, collaborative capabilities for decision modeling, execution and monitoring
+**ANSWER:** Native
+**COMMENTS:** SAP Signavio enables stakeholders to model and monitor process decisions; Process Atoms provide reusable, context‑rich building blocks unifying business and architectural data; ensuring every decision is based on consistent, governed information. Enables faster/more accurate insights, allowing products and AI agents to retrieve/reuse decision logic. SAP LeanIX crowdsources architectural data via tools like Jira/Slack/Teams.
+
+### ROW 55: Support for, or embedding, process automation: Helping to unlock opportunities for automation and prepare the automation of tasks, processes and business operations.
+**ANSWER:** Native
+**COMMENTS:** SAP Build provides a comprehensive process automation platform, with low-code/no-code tools for workflow automation, robotic process automation and AI agent creation.
+SAP Signavio can help identify automation opportunities, and build value cases and transformation initiatives. SAP Signavio natively integrates with SAP Build, and also supports integrating with third-party process automation platforms.
+
+### ROW 56: Access to project and program data to monitor project and program progress, and to align with business outcomes
+**ANSWER:** Native
+**COMMENTS:** SAP Signavio's integration to SAP Cloud ALM and Jira, SAP LeanIX, and WalkMe provides end-to-end visibility into project and program data, links execution to business outcomes and allows to track progress against strategic goals. SAP LeanIX aligns initiatives with business capabilities, and WalkMe measures user adoption and KPI-driven value realization.
+
+### ROW 57: Support for internal and external ecosystems, depicting user-generated content, and external content relevant to the processes or business operations, typically generated by social-media-style collaboration and multi-channel communication
+**ANSWER:** Native
+**COMMENTS:** SAP Signavio provides a collaborative platform enabling direct commenting on process models, capturing user-generated content.
+AI-assisted context analyzer interprets sentiment from unstructured experience data.
+SAP Integration Suite connects SAP, 3rd party, and on-premise applications for seamless collaboration.
+WalkMe can surface in-context help/content and integrate with the broader ecosystem via features like Smart Walk-Thrus, Shout-Outs, Launchers, Smart-Tips.
+
+### ROW 59: Please mention which one of the above capabilities you do not have natively  in-built . Please mention in the comments section
+
+### ROW 61: 4. Which of the following use cases do you deliver most frequently to your customers using your digital twin of an organization platform?
+(Select from Do not support, Support but not a focus area, Support with high priority)  We will consider blanks as "Do not support"
+**ANSWER:** Your Focus Priority
+**COMMENTS:** Case study, Verifiable client information (NDA)
+
+Offer 1 client example for each of the non-priority supported use cases and 2 client examples for the focused priority use cases
+
+### ROW 62: Business Operations
+**ANSWER:** Support with high priority
+**COMMENTS:** Mondi AG, Marc O’Polo AG, Barco
+
+### ROW 63: Supply Chain
+**ANSWER:** Support with high priority
+**COMMENTS:** Takeda Pharmaceuticals, Fujitsu
+
+### ROW 64: Digital Optimization or Transformation
+**ANSWER:** Support with high priority
+**COMMENTS:** Volkswagen, NTT, Travis Perkins, SAP SE, Accenture
+
+### ROW 65: Customer Excellence
+**ANSWER:** Support with high priority
+**COMMENTS:** Hilti, DKB, Sirius XM
+
+### ROW 66: Governance, Risk and Compliance
+**ANSWER:** Support with high priority
+**COMMENTS:** Moog BV, Revenue NSW, Forvia Hella, Amtrust
+
+### ROW 67: Quality Management
+**ANSWER:** Support but not a focus area
+**COMMENTS:** Hornbach, Hirslanden. This is not among top use cases, but still in focus
+
+### ROW 68: Operational Excellence
+**ANSWER:** Support with high priority
+**COMMENTS:** Philip Morris, Yamaha, Vodafone, Viohalco, Southern California Edison
+
+### ROW 69: Business Process Outsourcing (BPO)
+**ANSWER:** Support but not a focus area
+**COMMENTS:** Philip Morris. This is not among top use cases, but still in focus
+
+### ROW 70: Enterprise Cost Optimization
+**ANSWER:** Support with high priority
+**COMMENTS:** Siemens, Estee Lauder, Sefe, First Abu Dhabi Bank
+
+### ROW 71: Business Optimization or Transformation
+**ANSWER:** Support with high priority
+**COMMENTS:** Tetra Pak, Pemex Deer Park, Accuray Incorporated, Donner & Reuschel AG
+
+### ROW 72: Strategy Realization
+**ANSWER:** Support with high priority
+**COMMENTS:** Virgin Australia, Villeroy & Boch, Viasat
+
+### ROW 73: Dynamic State Architecture
+**ANSWER:** Support with high priority
+**COMMENTS:** E.on, Volkswagen
+
+
+## 5. Which 3-5 vendors you compete and win against the most?
+
+### ROW 76: Vendor
+**ANSWER:** IBM
+
+### ROW 77: Vendor
+**ANSWER:** aris
+
+### ROW 78: Vendor
+**ANSWER:** Ardoq
+
+### ROW 79: Vendor
+**ANSWER:** Celonis
+
+### ROW 80: Vendor
+**ANSWER:** iGrafx
+
+### ROW 81: End of questionnaire
+

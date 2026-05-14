@@ -1,0 +1,490 @@
+# 2024 Gartner Market Guide Survey - SAP Responses
+# Source: 2024 DTO Market Guide Survey for 2024 - Signavio (002).xlsx
+====================================================================================================
+
+SHEET: Company info
+Dimensions: 87 rows x 3 columns
+----------------------------------------------------------------------------------------------------
+
+### ROW 0: Participating in the 2024 Gartner Market Guide for Technologies supporting a Digital Twin of an Organization - Survey
+
+### ROW 1: We are inviting your participation in the 2024 Gartner Market Guide for Technologies supporting a Digital Twin of an Organization data collection questionaire.  The information collected will assist us in evaluating your product for potential inclusion in our upcoming Market Guide report. We have made this survey as simple as possible to ensure rapid and concise responses.  THE FIRST PAGE data is confidential data and will NOT be published in the actual Market Guide. These data are used in an aggregated way to describe the market. We thank you in advance. 
+
+Please complete all sections highlighted in blue and yellow.
+
+### ROW 2: Please complete the enclosed survey and return it via e-mail before July 12, 2024
+
+### ROW 4: Contact Information
+
+### ROW 5: Company Name: > SAP Signavio
+
+### ROW 6: Headquarters Address: > Dietmar-Hopp-Allee 16
+
+### ROW 7: Walldorf, Germany
+
+### ROW 8: Web Site: > www.signavio.com;
+www.sap.com/products/business-process-transformation.html
+
+### ROW 9: Contact individual's phone number: > (+44) 2089176188
+
+### ROW 10: Contact individual's e-mail address: > dee.houchen@sap.com
+
+### ROW 11: Contact individual's title: > Head of Market Impact, SAP Signavio and SAP LeanIX
+
+### ROW 13: Services
+
+### ROW 14: Service Capabilities
+
+### ROW 15: What professional services do you offer related to your DTO supporting product? > As part of SAP, SAP Signavio aims to minimize the need for professional services, enabling customers to use our products independently. However, for the SAP Signavio Process Transformation Suite, we recognize that some larger clients may require short "Proof of Concept" (POC) initiatives. To support this, we have expanded our professional services team to provide global assistance for such POC engagements, which typically involve 2-3 weeks of part-time effort.
+
+Once onboarded, SAP Signavio clients have access to several services and resources such as:
+•	Business process assessment service
+•	Quickstart service for SAP Signavio Process Insights
+•	Quickstart service for SAP Signavio Process Insights with SAP Ariba
+•	Accelerated process discovery service with SAP Signavio Process Transformation suite
+•	Quickstart service for SAP Signavio solutions
+•	SAP Signavio process management and mining advisory 
+•	Free e-learning platform
+•	In-person product training
+•	Customer Success Management, including quarterly business reviews, proactive assistance, and best practice sharing. We have invested significantly in this team over the past years to ensure successful adoption and value generation. Each account is assigned a customer success manager, with ratios varying from 1:1 to 1:few, depending on client size and region.
+We support our client’s DTO across different stages: digital modernization, digital transformation, and digital business change. We help automate processes, reduce risk, increase collaboration, and simplify and standardize operations. The Customer Transformation team supports the design of the client journey including the definition of business goals, governance and methodology, which processes are part of the first roll-out wave. 
+
+For large-scale digital transformation projects requiring domain expertise, we collaborate with consulting partners who bring specialized knowledge in specific verticals. This approach ensures we do not compete with our partners on services, maintaining a strong collaborative relationship.
+
+Additionally, through Partner Edge, our SAP partner portal, our customers can leverage the information, training, tools, and resources they need, at any time, and across any device. 
+SAP also offers SAP Preferred Success, which helps customers fast track the value of their cloud investment, offering them guided onboarding, establishing cloud governance models, product expert sessions and customer success experts.
+
+### ROW 16: List any Consulting & Systems Integrator partners trained to assist buyers with implementations of your DTO supporting products? (please provide a list or a link to a list) > We continue to manage and expand our consulting partner network, which includes both large, high-profile consulting firms and highly distinguished independent consultants and business analysts specializing in process improvement and management. We view our partners as a key growth channel and are continuously expanding this network. Through Partner Edge, our SAP partner portal, our customers can leverage the information, training, tools, and resources they need, at any time, and across any device. 
+
+Our most significant partners include
+•	NTT Intramart
+•	Accenture
+•	KPMG
+•	PWC
+•	Deloitte
+•	Tech Mahindra
+•	Valntic
+•	T-Systems
+•	CBS
+•	Edison
+•	Fujitsu
+•	EY
+•	BearingPoint
+•	BPM-D
+•	Cognizant
+•	Scheer
+•	DXC
+
+We also have, in addition to these major partners, a broader network comprising around 1,500 independent consultants.
+
+### ROW 17: Do you offer customer training in your product? Please provide link to or a list of training offerings. > Our training portfolio is comprehensive and covers all our products, available as standard onsite sessions or open public courses. We also provide customized training packages. 
+
+For SAP Signavio Process Manager, clients frequently opt for e-learning courses.
+
+All SAP Signavio users can access the SAP Signavio Academy through the Customer Onboarding Portal.
+In general, we provide various learning and sharing opportunities such as customer meetups/roundtables (option to meet with customer peers using our DTO  solutions to share best practices), value identification workshops, org fit workshops, customer governance, early adopter programs (customers in Beta Testing and Early Adopter programs to ensure product roadmap based on customer needs), regular customer sessions (regular check-in calls to ensure customer is well deserved with all information to fulfil the customers need), and product roadmap webcasts.
+
+### ROW 18: List any templates or other packaged solutions that you are offering? Are these licensed software, freeware, or subscription based? > We offer, together with partners, a range of solutions aimed at accelerating time to value, including:
+• Value accelerators for process design and modeling
+• Value accelerators for process analysis and mining
+• Value accelerators for enterprise architecture management
+•	Industry Prints (e.g., Healthcare, Manufacturing, Consumer Goods, Food & Beverage)
+•	S/4HANA migration accelerator
+•	RPA accelerators
+•	Risk & compliance solutions
+
+Embedded into the SAP Signavio Process Transformation Suite, the Value Accelerator Library represents the "go-to destination" to access and consume pre-built value accelerators (ready-to-use domain expertise in form of content bundle offerings) by SAP and its partners.  By leveraging the Value Acceleratory Library capabilities, users can find the right value accelerators and consume them in their own SAP Signavio workspace, as well as create their own value accelerators and distribute them via the library. 
+Benefits for customers include: 
+•Easy access and full overview of  available value accelerators with the ability to immediately identify content specific to their needs from SAP and large partner ecosystem
+• Accelerate time to value by quickly deploying value accelerators into their SAP Signavio workspace
+• Simplify setup of new workspace by reusing existing content from the library or other workspaces
+• For Partners: make their brand and products resonate within the SAP community and their customers by creating, delivering and maintaining their own value accelerators
+
+In addition to the library, SAP Signavio Process Explorer is the publically available exploration environment  to search and explore content and best practices of SAP Signavio Value Accelerators, including thousands of process models, capability maps, metrics, innovation and product reccomendations representing the collective knowledge of thousands projects delivered.
+
+### ROW 19: List the countries where your own organization provides services to complement your product > SAP Signavio as part of SAP has offices worldwide. Details can be found here; https://www.sap.com/about/company/office-locations.html 
+
+We provide services for professional services in every country in which we operate, and use a network of partner organisations for clients requiring more traditional consulting engagements.
+
+### ROW 21: Support Capabilities
+
+### ROW 22: Premium support offering: Preferred success > Support is included with the subscription. We offer a dedicated premium offering called Preferred Success, where our customers can choose service offerings from a catalogue. This offering is not including deployment services. It provides a broad choice of advisory and maturity services that support the customer in any phase of adoption.
+
+### ROW 24: Company ownership
+
+### ROW 25: Public? (if so provide stock exchange and symbol) > Yes
+
+### ROW 26: Fiscal Year Ends on: > 1931-12-01 00:00:00
+
+### ROW 27: Parent Company: > SAP since 5 March 2021
+
+### ROW 30: Financials
+
+### ROW 31: Please indicate currency used (e.g. US dollar or euro)
+
+### ROW 32: 2023 financial data > Disclaimer?
+
+### ROW 33: FY23 Total DTO Related Revenue (sum of next three rows): > SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 34: FY23 Total DTO Software Revenue: > SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 35: FY23 Total DTO Maintenance Revenue: > SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 36: FY23 Total DTO Consulting/Implementation Services Revenue: > SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 37: Average deal price in 2024 (state currency): > SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 38: Typical % split between software and services in a project (%) > SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 39: Ratio of direct / indirect (partner) sales?: (e.g. 60% direct: 40% indirect) > SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 41: Installed Base (estimates are OK if marked as such) > Disclaimer?
+
+### ROW 42: Details on Installations (one customer = one installation, regardless of number of sites) > SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 43: Total Number of New Installs during FY2023 > SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 44: Total Number of DTO customers (total install base) > SAP is a publicly traded company, we can’t disclose revenue-sensitive information or projections outside our scheduled public financial disclosures to avoid information asymmetry in the market. Customer and revenue numbers fall in this category, because these function as a signal to the market on how SAP’s execution is tracking against our strategy. For more info please go to http://www.sap.com/investors/en.html
+
+### ROW 46: Cost & Pricing Model
+
+### ROW 47: Please list your pricing models (named user or concurrent user, CPU-based, process-based, amount of data, enterprise, etc.) > Named Users for SAP Signavio Process Manager,  SAP Signavio Process Collaboration Hub, SAP Signavio Process Governance, SAP Signavio Transformation Manager and SAP Signavio Journey Modeler. 
+SAP Signavio Process Intelligence and SAP Signavio Process Insights are priced on volume, SAP Signavio Process Intelligence on the number of records (process mining cases), SAP Signavio Process Insights on GB
+
+### ROW 48: If you have a Software as a Service (SaaS) model, please describe your pricing model cost. Indicate whether this is per month or per year (or what time period is available). Also, is there a minimum number of users/processes/cases or minimum initial contract duration? > We have for all products with the exception SAP Signavio Process Insights a tiered Pricing. Minimum contract duration is 12 months. Entry Prices (list) are: 
+1 User SAP Signavio Process Manager 748 € /per month
+1 Block of 10 Users SAP Signavio Collaboration Hub 75 € / per month
+1 User SAP Signavio Journey Modeler 617 € / per month
+1 User SAP Signavio Process Governance 77 € / per month
+Base Package SAP Signavio Process Insights 7805 € / per month
+Base package SAP Signavio Process Intelligence 2955 € / per month
+1 User SAP Signavio Process Transformation Manager: 219 € / per month
+
+### ROW 49: Please provide standard examples of pricing: > Traditional use: 5 modeling users + 100 collaboration users: $10,000 per year               
+Traditional use: 20 modeling users + 1,000 collaboration users (list price): $44,000 per year
+Traditional use: 100 modeling users + 5,000 collaboration users (list price): $180,000 per year
+Plug and Gain use case: Entry-level implementation of Process Insights + Process Intelligence, incl. 10 modelling users and 100 collaboration: $200,000 per year
+Enterprise client: Complete SAP Signavio Process Transformation Suite (incl Process Intelligence) $300k-1,5M per year
+
+### ROW 50: Standard Maintenance cost (indicate as a percentage of license cost) > n/a (included in subscription)
+
+### ROW 51: Premium Maintenance (24 by 7) cost (indicated as a percentage of license cost) > n/a (included in subscription)
+
+### ROW 53: Architecture & Platforms
+
+### ROW 54: What is the underlying component model of your product? (.Net or J2E or other) > Backend: Container architecture, Java servlets; Frontend: HTML5
+
+### ROW 55: What is the most popular deployment platform/ architecture among your customers for this product? (e.g. single instance, distributed architecture, clustered, etc.) > 99% SaaS, Managed Private Cloud 1%
+
+### ROW 57: Scalability
+
+### ROW 58: Please describe your largest implementation of this product among your customers > Our largest implementations include:
+* Consumer product customer - analysing 162 million process mining cases on a single process across 4 ERPs
+* Automotive customer -  250 000+ Modelling & Analysis, 200 000+ Collaboration; and Healthcare customer 20 000+ Modelling & Analysis; 80 000+ Collaboration
+* SAP IT - analysing 15 billion events across several processes.
+
+### ROW 61: Buyer Center
+
+### ROW 62: Who is the buying center (to whom have you sold the product) for your DTO solution (must add to 100% total)?
+
+### ROW 63: IT professionals (including enterprise architects): > 0.22
+
+### ROW 64: Business analysts and power users in business operations: > 0.28
+
+### ROW 65: Senior management (CIO, COO, CxO, SVP): > 0.5
+
+### ROW 66: Total > 1
+
+### ROW 68: When you win a deal, which factors influence the client's decision most, in your opinion? Please allocate percentages to the following - must add to 100%).
+
+### ROW 69: Ease of configuration > 0.1
+
+### ROW 70: Product functionality > 0.35
+
+### ROW 71: Customer support > 0.15
+
+### ROW 72: Price > 0.05
+
+### ROW 73: Related products > 0.1
+
+### ROW 74: Proven success at other customers/ references > 0.25
+
+### ROW 75: Total > 1
+
+### ROW 78: Additional Question
+
+### ROW 80: We have been using Digital Twin of an Organization (DTO) since 2017. The term Technologies supporting a DTO is a long term.
+What should be your preferred choice of terming these technologies:
+
+### ROW 81: DTO Systems
+
+### ROW 82: DTO Tools
+
+### ROW 83: DTO Platforms > DTO Platforms
+
+### ROW 84: DTO Applications
+
+### ROW 85: DT for Business Operations
+
+### ROW 86: other ? > Enterprise Digital Twin; Enterprise Observability Layer; Digital Twin of an Enterprise; Digital Twins of an ecosystem
+
+SHEET: Product questionnaire
+Dimensions: 88 rows x 5 columns
+----------------------------------------------------------------------------------------------------
+
+### ROW 0: 2024 Gartner Market Guide for Technologies supporting a Digital Twin of an Organization - Survey Part 2
+
+### ROW 2: PRODUCT INFORMATION
+
+### ROW 4: DTO supporting Current Product Name, Version Number and date that this version was first made generally available - if several products combine to deliver DTO capabilities please state all relevant product names and versions. > SAP Signavio Process Transformation Suite 18.2.0 
+ It Includes:
+- SAP Signavio Process Insights
+- SAP Signavio Process Intelligence
+- SAP Signavio Process Manager
+- SAP Signavio Process Collaboration Hub
+- SAP Signavio Process Transformation Manager
+- SAP Signavio Process Governance 
+- SAP Signavio Journey Modeler 
+Each can be purchased and used as separate components or bundled as suite.
+
+Through the acquisition of SAP LeanIX in 2023, we added enterprise architecture management to our DTO  proposition. Relevant solutions include: 
+LeanIX Application Portfolio Management
+LeanIX Technology Risk and Compliance
+LeanIX Roadmap and Architecture Planning 
+
+The products are amplified with value accelerators that speed up time to insights and time to value (integrations & connectors, Metrics, Performance Indicators & Dashboards,  Recommendations, Best Practice Process Models, Reference architectures and more) 
+
+The synergy with SAP LeanIX solutions (allowing for technology observability) supports SAP Signavio in transitioning from Process Observability to Enterprise Observability which further strengthens our Digital Twin of an Organization approach.
+**ANSWER:** Additional information about our DTO proposition
+Since last year we have seen our concept of Digital Twins of an Organization evolve to encompass company's systems architecture and business capabilities, in addition to enabling an organization to have a great representation of its current state, operating model, IT construct, and relationship between business processes to best practices. These solutions enable successful digital transformations and operational excellence initiatives especially when complex systems of records are involved in such transformations. We continue to promote the concept of process observability, and now extend this to technology observability across the whole organization, bringing together LOB and IT and delivering complete enterprise observability.
+
+SAP Signavio supports process observability and integrates with SAP LeanIX (technology observability) to deliver end-to-end enterprise observability and make it actionable.
+
+Customers can:
+-Build a virtual representation of any process with associated systems , with “to-be” models and “as-is” monitoring
+-Model their processes to design optimum flows and maximum efficiency, leveraging best practices, value accelerators and GenAI
+-Visualize process adjustments, based on one common collaborative platform
+-Simulate different scenarios and calculate the impact of alternative technologies and what this would mean for your as-is IT landscape
+-With technology observability identify the opportunity to rationalize and modernize applications whilst mitigating technology risk
+-Monitor the way their operations actually work - fact-based and objectively
+-Identify effort drivers, reasons for delay, and potential for automation
+-Create tangible impact with transparency and continuous process improvements and recommendations
+
+### ROW 7: Is the above set of capabilities packaged as a single product / SKU, with a single license, single cost? > Yes, our products can be purchased as single SKUs or bundled as a Suite package
+
+### ROW 8: Do you OEM or embed technology from a 3rd party in your product? > Yes.
+
+### ROW 9: If yes, please list these elements for us. > CData drivers for data access.
+LLM engines via SAP AI Core; OpenAI, Google and Open Source Models
+
+### ROW 11: Importance and Adoption of Use Cases
+
+### ROW 12: In a subsequent research note we have put forward 12 use cases for creating a Digital Twin of an Organization. In this survey we want to concentrate on early adopter use cases and picked 7 out of 12 use cases - FOR MAPPING OF USE CASES SEE ATTACHED SPREADSHEET. For each use case, please rank how you think your clients perceive these use cases, using a scale of 0 = not important, and 5 = very important (you can score requirements the same if you think they are equally important). Then for each use case indicate the % of current sales (2024) where the use case has been the primary driver in choosing your product. The total for scores in each section must total to 100%.
+
+### ROW 13: Please use the free form column at the right to note any comments critical for us to understand. Please limit comments to 200 characters.
+
+### ROW 15: 2024
+
+### ROW 16: Importance of this use case to DTO buyers in 2024
+
+(0 to 5)
+**ANSWER:** Your product emphasis expressed by sales % in 2024
+
+(adds to 100%)
+**ADDITIONAL:** Additional comments
+
+### ROW 17: Digital Transformation > 5
+**ANSWER:** 0.21
+**ADDITIONAL:** Most of our customers leverage our DTO capabilities to enhance planning, execution and scaling of Automation and Transformation initiatives.
+
+### ROW 18: Customer Experience > 4
+**ANSWER:** 0.2
+**ADDITIONAL:** In the domain we refer to as "Customer Excellence," our DTO capabilities are gaining significant traction. This is primarily due to our unique ability to bridge Customer Experience with Operational Excellence, thereby delivering substantial value to organizations. Our DTO solution excels in operationalizing experiences at scale, ensuring both efficiency and customer satisfaction.
+
+### ROW 19: Cost or Enterprise Performance Optimization > 3
+**ANSWER:** 0.11
+**ADDITIONAL:** SAP Signavio and SAP LeanIX DTO excels in the cost optimization use case by enabling data-driven decision-making. It provides actionable insights for resource allocation, process efficiency, and waste reduction. By simulating various operational scenarios, our DTO helps in identifying cost-saving opportunities, leading to significant financial improvements for our clients.
+
+### ROW 20: Manufacturing / Logistics > 3
+**ANSWER:** 0.07
+**ADDITIONAL:** Our DTO is increasingly pivotal in this scenario, from enhancing operational excellence to assessing the impact of different initiatives, including driving strategic sustainability programs.
+
+### ROW 21: Business Process Outsourcing > 2
+**ANSWER:** 0.03
+**ADDITIONAL:** DTO provides a comprehensive digital representation of business processes, enabling organizations to streamline and outsource functions more effectively and efficiently.
+
+### ROW 22: Risk and Compliance Management > 4
+**ANSWER:** 0.18
+**ADDITIONAL:** In the field of risk management, our DTO plays a crucial role in analyzing, predicting, and managing potential process failures.
+
+### ROW 23: Operational Excellence > 5
+**ANSWER:** 0.2
+**ADDITIONAL:** Operational Excellence remains a cornerstone in our customer's use cases. Our DTO is integral in driving transformations and performance enhancement projects. It facilitates continuous improvement by offering insights into process optimization, resource utilization, and efficiency gains, making it an essential tool for organizations focused on elevating their operational standards.
+
+### ROW 24: 1
+
+### ROW 27: Features/Functionality
+
+### ROW 31: For each Major heading below, we indicate the capabilities we believe are relevant to a Digital Twin of an Organization. Some are required in every DTO offering, while others are optional ("nice to have").  For each feature, please rank how you think clients perceive these requirements, using a scale of 0 = not important, and 5 = very important (you can score requirements the same if you think they are equally important). Then please score the relative strength of your product on each feature on a scale from 0 (feature not supported) to 100. The total for scores in each sub section (A, B, C) must total to 100%. The purpose of this score is to understand which of your features are particularly strong, and why customers select your product in preference to other products. Finally we want to know how you see te relative importance and this distribution of features in 2026.
+
+### ROW 32: At the end there is room to add any other requirements you think are essential. No scoring or ranking.
+
+### ROW 33: Please use the free form column at the right to note any unique features that align with a particular capability, provide any explanation of your rankings or anything else you feel is critical for us to understand. Please limit comments to 200 characters.
+
+### ROW 34: ESPECIALLY ON THE SITUATIONAL AWARENESS CAPABILITIES (sub section C)!
+
+### ROW 37: 2024
+
+### ROW 38: A. Modeling /
+Mapping > Importance of this feature to DTO buyers in 2024
+
+(0 to 5)
+**ANSWER:** Your product emphasis in 2024
+
+(adds to 100%)
+**ADDITIONAL:** Additional comments on HOW you meet this capability
+
+### ROW 39: Support for modeling and analysis of business operations in a larger (business) operating model context, indicating how capabilities and other resources are deployed to deliver value to the stakeholders of the organization (the link to day-to-day execution) > 5
+**ANSWER:** 0.2
+**ADDITIONAL:** We offer extensive modeling & governance with various notations e.g. BPMN, DMN etc. Supports process attributes, collaborative capapbilities and live insights for continuous performance monitoring.
+
+### ROW 40: Support for customer interactions, customer journey maps, allowing for a customer segmentation, and sales and distribution channel segmentation > 5
+**ANSWER:** 0.15
+**ADDITIONAL:** Customer journey maps and templates linked to process maps and mining traces. Integration with Signavio dictionaries connects journeys with personas, segments, pain points, and value drivers.
+
+### ROW 41: Models of offerings (products, services, and information) delivered to customer segments > 3
+**ANSWER:** 0.05
+**ADDITIONAL:** Connects business processes & IT systems in an end-to-end journey model, enriched with operational, experience, & business insights. Map, analyze, & optimize processes for better customer experiences.
+
+### ROW 42: Process mining capabilities > 5
+**ANSWER:** 0.2
+**ADDITIONAL:** Process analytics and mining are a core pillar of our process observability layer, providing the data-driven foundation of the digital twin.
+
+### ROW 43: Models of resources (such as machines, IT systems and people) that perform the operations, and thus are connected to the entire business operating model > 4
+**ANSWER:** 0.2
+**ADDITIONAL:** SAP LeanIX's meta-model links resources to the business operating model, including IT components, capabilities, people, tech stack, projects, and risk & compliance.
+
+### ROW 44: Support for internal and external ecosystems, depicting user-generated content, and external content relevant to the processes or business operations, typically generated by social-media-style collaboration and multi-channel communication > 2
+**ANSWER:** 0.05
+**ADDITIONAL:** With our recently released Transformation Manager we aim to integrate also external insights and partner insights that can contribute to initiative management and value analysis.
+
+### ROW 45: Access to project and program data to monitor project and program progress, and to align with business outcomes > 2
+**ANSWER:** 0.05
+**ADDITIONAL:** We help customers focus on business outcomes by tracking identified and realized value for improvement opportunities. Customers can collaborate and monitor progress within an initiative's scope.
+
+### ROW 46: Orchestration of business operations. > 4
+**ANSWER:** 0.1
+**ADDITIONAL:** SAP Signavio's actions feature sends events triggered by process mining data. It integrates with SAP BTP solutions for workflows, RPA and message buses, enabling automatic responses to KPIs.
+
+### ROW 49: B. Performance / Analysis > Importance of this feature to DTO buyers in 2024
+
+(0 to 5)
+**ANSWER:** Your product emphasis in 2024
+
+(adds to 100%)
+**ADDITIONAL:** Additional comments on HOW you meet this capability
+
+### ROW 50: Support for multiple measurement schemes (such as operational performance indicators, financial models, quality schemes, SLAs) and how they work together or interact within the context of a business operating model > 4
+**ANSWER:** 0.1
+**ADDITIONAL:** Embedded best practices in content; with Transformation Manager release we provide a structured solution for value analysis and initiative management, fed by different kinds of data and perspectives.
+
+### ROW 51: Support for customer journey, customer interaction and customer touchpoint analysis > 5
+**ANSWER:** 0.1
+**ADDITIONAL:** We use AI to analyze and segment journey touchpoints & dropouts by any dataset dimension. Overlays contextual info, like customer feedback, with journeys and process steps.
+
+### ROW 52: Support for key performance indicators (KPI), and root-cause analysis enabling operational decision support > 5
+**ANSWER:** 0.2
+**ADDITIONAL:** We offer extensive best-practice content, including KPIs, recommendations, and pre-built root cause analysis. Soon, we'll release AI-assisted RCA engine to meet demand for advanced, agnostic analysis.
+
+### ROW 53: Real-time dashboards with support for KPI's that are continuously monitored and enable decision support > 4
+**ANSWER:** 0.15
+**ADDITIONAL:** We improved the refresh frequency of our process mining engine, which now supports hourly updates, and we're working to improve further to near-real time, to support increasing customer demand.
+
+### ROW 54: Scenario testing, predictive and prescriptive analytics based on the business operating model > 4
+**ANSWER:** 0.1
+**ADDITIONAL:** Process simulation offers step-by-step, single, and multiple instance simulations. Estimates impact on costs, time, and resources, comparing scenarios for decision-making.
+
+### ROW 55: Risk management and monitoring > 4
+**ANSWER:** 0.15
+**ADDITIONAL:** Enhanced with GRC capabilities, SAP Signavio integrates with tools like SAP Risk and Assurance Management and Datricks. Public APIs connect other GRC solutions, allowing risk customization and controls linked to all process levels.
+
+### ROW 56: Cost/Value analysis (balancing cost savings with operational effectiveness and business value) > 5
+**ANSWER:** 0.15
+**ADDITIONAL:** SAP Signavio lets users analyze improvement opportunities using best-practice metrics, manual data, KPIs, or industry benchmarks. Users can collaboratively track value realization.
+
+### ROW 57: Support for analysis using externally provided performance indicators or measurements (from the ecosystem), such as temperature, air pollution, noise, ... > 2
+**ANSWER:** 0.05
+**ADDITIONAL:** With our recently released Transformation Manager we aim to integrate also external insights and partner insights that can contribute to initiative management and value analysis.
+
+### ROW 60: C. Situational
+Awareness > Importance of this feature to DTO buyers in 2024
+
+(0 to 5)
+**ANSWER:** Your product emphasis in 2024
+
+(adds to 100%)
+**ADDITIONAL:** Additional comments on HOW you meet this capability
+
+### ROW 61: Adapters or Connectors to receive and send data. The most common adapters are for RESTful APIs,
+message-oriented middleware (MOM), files and databases. Some platforms also have adapters for web services, packaged applications, or for sensor data in event streams or historical databases. > 4
+**ANSWER:** 0.1
+**ADDITIONAL:** SAP Signavio natively integrates to SAP Datasphere and SAP Integration Suite, which provide market-leading connectivity to both data-oriented and API and message-oriented sources, across a wide variety of SAP and non-SAP sources.
+
+### ROW 62: Event processor. Most platforms filter incoming event data and can detect simple patterns that represent threats and opportunities (including exceptions or anomalies). Some platforms have stream analytics engines capable of sophisticated complex-event processing (CEP), including generalized event correlation, high throughput, low latency and the ability to detect intricate temporal or spatial patterns in sliding time windows. > 3
+**ANSWER:** 0.05
+**ADDITIONAL:** We do support CEP and streaming analytics in SAP BTP, and in SAP Datasphere specifically, via our partnership with Databricks. SAP Signavio seamlessly reuses the data management capabilities offered by SAP BTP.
+
+### ROW 63: Rule processor. A rule processing capability determines the appropriate response to conditions that have been detected. It may be implemented in a scripting language, production rule engine (inference engine) or similar tool. > 3
+**ANSWER:** 0.1
+**ADDITIONAL:** Our "actions" are triggered based on conditions defined in SIGNAL, our process mining SQL dialect, based on process data. For actionability we integrate with SAP Build and 3rd party tools.
+
+### ROW 64: Notification, alerting and triggering capabilities. These are facilities for sending email, text messages or other alerts. Some have facilities to trigger responses in applications or devices. Some have full process orchestration or workflow engines, complete with user task-list management for coordinating resolution processes that include human actions. > 4
+**ANSWER:** 0.15
+**ADDITIONAL:** SAP Signavio's Actions feature sends notifications based on process mining data rules via email, Microsoft Teams, SAP Cloud Integration, SAP Event Mesh, SAP Build Process Automation, and webhooks.
+
+### ROW 65: Knowledge augmentation of workers through adding real-time information to tasks to be accomplished. > 4
+**ANSWER:** 0.15
+**ADDITIONAL:** Joule is our AI co-pilot to help receive intelligent answers drawn from the wealth of business data across the SAP portfolio. It helps user accomplish tasks by providing context and knowledge required.
+
+### ROW 66: Real-time monitoring. Continuously refreshing, real-time dashboards are typically updated every second, every few seconds or every few minutes. > 3
+**ANSWER:** 0.1
+**ADDITIONAL:** We improved the refresh frequency of our process mining engine, which now supports hourly updates, and we're working to improve further to near-real time (few minutes), to support increasing customer demand.
+
+### ROW 67: ETL capabilities. During this process, data is taken (extracted) from a source system, converted (transformed) into a format that can be analyzed, and stored (loaded) into a data warehouse or other system. > 4
+**ANSWER:** 0.15
+**ADDITIONAL:** We integrate with SAP Datasphere and SAP Integration Suite for connectivity and extraction, and we're enhancing transformation and modeling features for object-driven modeling to support flexible case selection.
+
+### ROW 68: Generative AI capabilities > 5
+**ANSWER:** 0.2
+**ADDITIONAL:** Our Large Process Models address process challenges by using recommenders for best practice design, measuring for improvement, generating models from text, and democratizing mining and analys
+
+### ROW 72: Other Features/Functions You Wish to Emphasize About this Product
+
+### ROW 73: Feature/Function > Additional comments on how you meet this capability; also describe limitations
+
+### ROW 74: The Integration of Discovery, Modeling, Analysis and Monitoring > SAP Signavio provides an end-to-end suite that joins data-driven (mining) and people-driven (modelling) analysis of the organization, to build an observability layer and foster collaborative transformation across boundaries.
+
+### ROW 75: Business Transformation Management > With the release of SAP Signavio Transformation Manager we now deliver value analysis and initiative management capabilities fully integrated into end to end transformation suite, to support organizations in identifying tranformation opportunities and in effectively driving them across people, processes, data and systems.
+
+### ROW 76: Live Insights > DTOs get actionable with our Live Insights capabilities where live operational system data is merged with modelling of areas where no system data is available.
+
+### ROW 77: Simulation > Integrated simulation is core to enabling transformation and prior testing for multiple scenarios.
+
+### ROW 78: Enterprise Architecture management > SAP LeanIX offers comprehensive view of organization's IT landscape, modeling IT components, business capabilities, people, projects, and risks. Supports IT-business alignment, strategic planning, and compliance.
+
+### ROW 80: Open end Questions about differentiation
+
+### ROW 81: Why should I buy your product as my preferred  DTO tool ? Mention max 5 - after 5 will be ignored by analyis
+
+### ROW 82: Differentiator > Elaborate on the differentiator
+
+### ROW 83: 1 > 1. A portfolio combining process and enterprise architecture optimization core capabilities, and extended third party capabilities > We combine process and enterprise architecture optimization with 3rd party capabilities for enterprise observability, driving business transformation. Integration of discovery, mining, modeling, and execution.
+
+### ROW 84: 2 > 2. Process AI > With Process AI we are developing Generative AI powered capabilities based on Large Process Models infused with unique Process & SAP knowledge.Process AI recommends preconfigured process models from 5,000 best practices and identifies relevant KPIs from over 2,000 options. Recommendations are based on SAP's extensive industry experience and best practices. Beyond AI-powered recommendations, additional areas of focus and upcoming use cases include: building knowledge repositories, initiating transformations and generating insights democratizing process mining.
+
+### ROW 85: 3 > 3. Journey To Process > Journey to Process Analytics expands our DTO to include customer touchpoints, integrating external data (e.g. NPS, sentiment) and internal process data (e.g. cycle times) for a comprehensive view of the customer experience.
+
+### ROW 86: 4 > 4. Best Practices, Value Accelerators, Benchmarks > We offer top tools, methodologies, and domain expertise. Value accelerators provide best practices, models, KPIs, and recommedations to accelerate transformation across SAP and non-SAP systems. Utilizing benchmarking analytics and readily available metrics, SAP Signavio offers pre-defined and easily extractable metrics. With just minutes of configuration, users gain access to over 60 process flows and a comprehensive set of over 2,500 meticulously crafted and extensively tested metrics, developed through decades of consulting projects in collaboration with SAP customers. The platform also includes benchmarking capabilities, enabling companies to compare their performance with peers in the same or different industries. Additionally, organizations can assess the performance of entities within their own structure, identifying both positive and negative performers. For the convenience of less experienced users, the most relevant comparison sets are pre-selected.
+
+### ROW 87: 5 > 5. Automated insights > Automated Insights is a portfolio of advanced statistics run by a dedicated engine in an autonomous way. Users can guide the automated insights auto-generation by selecting the target metrics, objects and attributes and share these.
+
